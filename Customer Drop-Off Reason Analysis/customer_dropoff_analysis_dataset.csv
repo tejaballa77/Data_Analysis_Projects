@@ -1,0 +1,501 @@
+customer_id,last_activity,days_since_last_activity,discount_received,discount_used,feedback_comment,engagement_day,churned
+1001,Email Click,62,1,0,Support not helpful,Weekday,1
+1002,Browsing,84,0,0,App crashes often,Weekday,0
+1003,Support Ticket,89,0,1,Poor experience,Weekday,0
+1004,Browsing,86,0,0,Support not helpful,Weekday,1
+1005,Browsing,13,1,0,App crashes often,Weekday,0
+1006,App Login,59,0,0,Too expensive,Weekday,0
+1007,Support Ticket,19,1,0,App crashes often,Weekday,0
+1008,Support Ticket,49,1,0,Too expensive,Weekend,0
+1009,Support Ticket,12,1,0,Loved the offers,Weekday,1
+1010,Browsing,61,0,1,Delivery delayed,Weekday,0
+1011,Email Click,19,1,0,Checkout was slow,Weekday,0
+1012,Support Ticket,76,0,1,App crashes often,Weekday,0
+1013,Browsing,9,1,1,Satisfied,Weekend,0
+1014,App Login,71,0,1,Support not helpful,Weekday,0
+1015,Email Click,28,0,0,Great service,Weekend,0
+1016,App Login,78,1,0,Checkout was slow,Weekend,0
+1017,Email Click,52,0,0,Great service,Weekend,0
+1018,Browsing,83,0,0,Loved the offers,Weekday,1
+1019,Purchase,16,1,1,Checkout was slow,Weekend,0
+1020,Email Click,69,1,0,Checkout was slow,Weekend,0
+1021,App Login,12,1,0,Great service,Weekday,0
+1022,Browsing,25,1,1,Too expensive,Weekday,0
+1023,Email Click,52,1,1,Great service,Weekday,1
+1024,Purchase,85,0,0,Too expensive,Weekday,0
+1025,Purchase,53,0,0,Loved the offers,Weekday,1
+1026,Support Ticket,23,0,0,Support not helpful,Weekday,1
+1027,Support Ticket,16,1,0,Poor experience,Weekday,0
+1028,App Login,57,1,0,Too expensive,Weekday,1
+1029,Email Click,39,1,0,Loved the offers,Weekday,0
+1030,Email Click,53,1,0,Satisfied,Weekday,0
+1031,Support Ticket,42,1,0,Loved the offers,Weekday,0
+1032,Email Click,58,0,0,Great service,Weekday,0
+1033,Email Click,39,1,0,Great service,Weekday,1
+1034,Purchase,14,1,0,Poor experience,Weekend,1
+1035,Support Ticket,5,1,1,Loved the offers,Weekday,1
+1036,Browsing,35,0,1,Delivery delayed,Weekday,0
+1037,Support Ticket,87,1,0,Support not helpful,Weekend,0
+1038,Browsing,75,1,0,Great service,Weekday,0
+1039,Purchase,18,1,0,Poor experience,Weekday,1
+1040,App Login,76,1,1,Support not helpful,Weekend,0
+1041,Email Click,9,1,1,Loved the offers,Weekend,1
+1042,Purchase,74,1,0,Loved the offers,Weekday,0
+1043,Email Click,58,0,1,Checkout was slow,Weekday,0
+1044,App Login,17,1,0,Poor experience,Weekend,1
+1045,App Login,7,1,0,Great service,Weekday,0
+1046,Purchase,46,1,1,Delivery delayed,Weekday,0
+1047,App Login,13,1,1,Loved the offers,Weekend,1
+1048,Browsing,40,1,1,Delivery delayed,Weekday,0
+1049,App Login,42,1,1,Loved the offers,Weekday,1
+1050,Email Click,9,1,0,Great service,Weekday,0
+1051,Email Click,50,0,1,Support not helpful,Weekend,1
+1052,Email Click,27,1,0,App crashes often,Weekday,1
+1053,Email Click,66,1,1,Support not helpful,Weekday,0
+1054,Browsing,5,0,0,Loved the offers,Weekday,0
+1055,Support Ticket,29,1,1,App crashes often,Weekday,1
+1056,Purchase,37,1,0,App crashes often,Weekday,0
+1057,Email Click,38,1,1,Delivery delayed,Weekend,1
+1058,App Login,83,1,0,Poor experience,Weekday,0
+1059,Email Click,8,0,1,Delivery delayed,Weekday,0
+1060,App Login,65,0,0,Delivery delayed,Weekend,1
+1061,App Login,86,0,0,Support not helpful,Weekday,1
+1062,Email Click,17,1,0,Support not helpful,Weekend,0
+1063,Browsing,71,0,0,Satisfied,Weekday,1
+1064,App Login,89,0,1,Loved the offers,Weekday,0
+1065,App Login,45,0,0,Satisfied,Weekday,0
+1066,Email Click,4,1,1,Great service,Weekend,1
+1067,App Login,36,1,0,Loved the offers,Weekday,1
+1068,App Login,70,0,0,Loved the offers,Weekday,1
+1069,Email Click,31,0,1,Checkout was slow,Weekday,0
+1070,Email Click,19,1,1,Checkout was slow,Weekday,0
+1071,Purchase,61,1,0,Too expensive,Weekday,0
+1072,Browsing,54,0,0,Too expensive,Weekend,0
+1073,Browsing,39,1,1,Delivery delayed,Weekday,0
+1074,App Login,74,0,0,Great service,Weekend,1
+1075,Browsing,19,0,1,App crashes often,Weekday,0
+1076,App Login,39,1,1,App crashes often,Weekday,1
+1077,Purchase,67,1,1,Checkout was slow,Weekday,1
+1078,Email Click,45,1,0,Checkout was slow,Weekday,0
+1079,Email Click,13,0,1,Checkout was slow,Weekend,1
+1080,Email Click,58,1,0,Poor experience,Weekend,1
+1081,Browsing,20,1,0,Too expensive,Weekday,0
+1082,Purchase,72,0,0,Support not helpful,Weekday,0
+1083,Browsing,61,1,0,App crashes often,Weekday,0
+1084,Browsing,39,0,1,Loved the offers,Weekend,0
+1085,Purchase,1,1,1,Too expensive,Weekday,1
+1086,Purchase,3,0,1,Satisfied,Weekday,0
+1087,Purchase,77,1,0,Support not helpful,Weekend,1
+1088,Purchase,62,0,0,Too expensive,Weekday,1
+1089,Email Click,63,1,0,Great service,Weekday,0
+1090,Support Ticket,25,1,1,Loved the offers,Weekday,1
+1091,Support Ticket,56,1,0,Too expensive,Weekend,0
+1092,Purchase,33,0,1,Poor experience,Weekday,0
+1093,Support Ticket,38,1,0,Checkout was slow,Weekday,1
+1094,Support Ticket,6,0,0,Checkout was slow,Weekday,0
+1095,Purchase,58,1,1,Loved the offers,Weekday,0
+1096,Support Ticket,44,0,0,Checkout was slow,Weekday,0
+1097,Browsing,45,0,1,Too expensive,Weekday,0
+1098,App Login,32,0,1,Satisfied,Weekday,1
+1099,App Login,45,1,0,App crashes often,Weekday,0
+1100,Purchase,61,1,0,App crashes often,Weekday,0
+1101,Email Click,47,0,0,Support not helpful,Weekday,0
+1102,Purchase,21,1,1,Delivery delayed,Weekend,1
+1103,Email Click,80,1,0,Great service,Weekday,0
+1104,App Login,85,1,1,Loved the offers,Weekend,0
+1105,Purchase,75,1,1,Support not helpful,Weekend,0
+1106,Browsing,36,1,1,Delivery delayed,Weekday,0
+1107,Support Ticket,19,1,0,Poor experience,Weekday,1
+1108,Email Click,20,0,1,Poor experience,Weekday,1
+1109,Support Ticket,57,0,1,Great service,Weekday,0
+1110,Support Ticket,18,1,0,Checkout was slow,Weekday,1
+1111,Purchase,47,1,0,Too expensive,Weekday,0
+1112,Support Ticket,49,0,1,Support not helpful,Weekday,1
+1113,Browsing,14,0,0,Support not helpful,Weekend,1
+1114,Support Ticket,15,1,1,Loved the offers,Weekday,0
+1115,Purchase,31,1,0,Loved the offers,Weekend,1
+1116,Browsing,1,0,0,Poor experience,Weekday,1
+1117,App Login,54,0,1,Poor experience,Weekend,0
+1118,Support Ticket,3,1,0,Satisfied,Weekday,0
+1119,Purchase,16,1,0,Satisfied,Weekday,0
+1120,App Login,87,0,0,Checkout was slow,Weekday,1
+1121,App Login,57,0,0,Satisfied,Weekday,1
+1122,Email Click,75,0,0,Too expensive,Weekday,1
+1123,Browsing,12,1,0,Too expensive,Weekend,1
+1124,Support Ticket,74,0,1,Support not helpful,Weekday,0
+1125,Purchase,16,0,0,App crashes often,Weekday,1
+1126,Email Click,72,1,1,Too expensive,Weekend,1
+1127,Browsing,76,0,0,Delivery delayed,Weekend,0
+1128,Email Click,24,1,1,Poor experience,Weekday,0
+1129,Browsing,28,0,0,Loved the offers,Weekday,1
+1130,Browsing,8,0,1,Satisfied,Weekday,0
+1131,Support Ticket,36,0,0,Support not helpful,Weekday,1
+1132,Browsing,8,1,0,Great service,Weekend,0
+1133,Email Click,58,1,0,Loved the offers,Weekend,0
+1134,Browsing,60,1,0,Delivery delayed,Weekend,1
+1135,Support Ticket,50,0,0,Satisfied,Weekend,0
+1136,Support Ticket,28,1,0,Delivery delayed,Weekday,0
+1137,Email Click,41,0,1,Poor experience,Weekend,0
+1138,App Login,64,0,0,Poor experience,Weekend,1
+1139,App Login,27,1,0,Checkout was slow,Weekday,0
+1140,Browsing,63,0,1,Support not helpful,Weekend,1
+1141,Purchase,17,0,1,Loved the offers,Weekday,0
+1142,Browsing,73,0,0,Loved the offers,Weekday,1
+1143,Email Click,33,0,0,Great service,Weekend,1
+1144,Email Click,84,0,0,Support not helpful,Weekday,0
+1145,Email Click,77,1,1,Delivery delayed,Weekday,0
+1146,Email Click,29,1,1,Great service,Weekday,0
+1147,Email Click,13,1,0,App crashes often,Weekday,0
+1148,Support Ticket,46,1,1,Loved the offers,Weekend,0
+1149,App Login,35,0,1,Delivery delayed,Weekday,0
+1150,Email Click,6,0,0,Too expensive,Weekday,0
+1151,Purchase,82,0,1,Checkout was slow,Weekend,0
+1152,Purchase,69,1,0,Support not helpful,Weekday,0
+1153,Purchase,47,0,0,Poor experience,Weekday,0
+1154,Purchase,25,1,0,Too expensive,Weekday,1
+1155,Support Ticket,66,1,0,Checkout was slow,Weekend,0
+1156,Purchase,10,1,0,Checkout was slow,Weekday,0
+1157,Email Click,56,1,1,App crashes often,Weekday,0
+1158,Browsing,30,0,0,App crashes often,Weekday,1
+1159,Purchase,5,1,0,Satisfied,Weekday,1
+1160,Support Ticket,33,1,0,Satisfied,Weekday,1
+1161,Support Ticket,65,0,1,Great service,Weekday,1
+1162,Purchase,18,1,0,Checkout was slow,Weekday,0
+1163,Browsing,49,1,0,Too expensive,Weekend,1
+1164,Purchase,11,1,0,Support not helpful,Weekday,1
+1165,Support Ticket,85,1,0,Checkout was slow,Weekend,0
+1166,App Login,26,1,1,App crashes often,Weekend,1
+1167,Email Click,63,0,1,Delivery delayed,Weekend,0
+1168,Support Ticket,89,0,0,Poor experience,Weekday,1
+1169,Purchase,86,1,1,Satisfied,Weekday,0
+1170,Email Click,59,1,1,Loved the offers,Weekday,0
+1171,Purchase,27,0,1,Delivery delayed,Weekday,1
+1172,Purchase,49,0,0,Support not helpful,Weekday,0
+1173,App Login,77,1,0,App crashes often,Weekend,0
+1174,Email Click,33,1,0,App crashes often,Weekend,0
+1175,Email Click,1,1,1,App crashes often,Weekday,1
+1176,App Login,21,0,0,Loved the offers,Weekday,0
+1177,Support Ticket,55,0,0,Satisfied,Weekend,0
+1178,Purchase,6,0,0,Delivery delayed,Weekday,1
+1179,Browsing,81,1,1,Support not helpful,Weekday,1
+1180,Purchase,69,0,0,Satisfied,Weekend,0
+1181,Purchase,5,1,1,Support not helpful,Weekday,1
+1182,Support Ticket,3,0,1,Satisfied,Weekday,1
+1183,Purchase,53,1,0,Loved the offers,Weekday,1
+1184,App Login,23,1,1,Poor experience,Weekend,0
+1185,App Login,53,1,0,Support not helpful,Weekday,0
+1186,Email Click,37,0,1,Satisfied,Weekday,0
+1187,Browsing,74,0,0,App crashes often,Weekday,0
+1188,Purchase,74,0,1,Checkout was slow,Weekday,0
+1189,Purchase,83,1,1,App crashes often,Weekday,0
+1190,Support Ticket,17,1,1,Great service,Weekend,0
+1191,App Login,85,1,1,Poor experience,Weekday,0
+1192,Browsing,78,1,0,Poor experience,Weekend,0
+1193,Email Click,73,1,1,App crashes often,Weekday,1
+1194,App Login,1,0,1,Delivery delayed,Weekday,0
+1195,Email Click,51,1,0,Loved the offers,Weekday,0
+1196,Support Ticket,45,1,0,Support not helpful,Weekday,1
+1197,Support Ticket,77,0,1,Poor experience,Weekday,0
+1198,Purchase,4,1,1,App crashes often,Weekday,1
+1199,Browsing,62,0,1,App crashes often,Weekday,1
+1200,Email Click,65,0,0,Loved the offers,Weekday,0
+1201,App Login,32,1,1,Loved the offers,Weekday,1
+1202,Support Ticket,34,0,0,Too expensive,Weekend,0
+1203,Purchase,72,1,1,Too expensive,Weekend,0
+1204,Purchase,39,0,0,Delivery delayed,Weekday,0
+1205,Email Click,26,0,1,Delivery delayed,Weekday,0
+1206,Support Ticket,34,0,1,Great service,Weekday,1
+1207,Browsing,54,0,0,Delivery delayed,Weekday,0
+1208,Support Ticket,3,1,1,Satisfied,Weekday,0
+1209,Email Click,50,0,0,Loved the offers,Weekend,0
+1210,Email Click,12,1,1,Satisfied,Weekday,0
+1211,Support Ticket,65,1,1,Support not helpful,Weekday,0
+1212,Email Click,54,1,0,App crashes often,Weekend,0
+1213,Support Ticket,5,1,1,Delivery delayed,Weekday,1
+1214,App Login,57,1,1,App crashes often,Weekend,0
+1215,Support Ticket,17,0,0,Poor experience,Weekday,0
+1216,Support Ticket,47,0,0,Great service,Weekday,0
+1217,Email Click,23,0,1,Poor experience,Weekday,0
+1218,Email Click,79,1,1,Great service,Weekday,1
+1219,Purchase,85,0,1,Too expensive,Weekend,0
+1220,Purchase,14,1,1,App crashes often,Weekday,0
+1221,App Login,66,1,0,Great service,Weekend,0
+1222,Purchase,75,0,1,Checkout was slow,Weekday,1
+1223,Support Ticket,51,1,0,Satisfied,Weekday,0
+1224,Email Click,38,0,0,Great service,Weekday,0
+1225,Purchase,64,0,0,Great service,Weekday,1
+1226,Purchase,38,1,0,Satisfied,Weekend,0
+1227,App Login,50,1,0,App crashes often,Weekday,1
+1228,App Login,82,1,0,App crashes often,Weekday,1
+1229,Support Ticket,30,1,1,Satisfied,Weekday,0
+1230,Email Click,79,0,0,Poor experience,Weekday,0
+1231,App Login,51,1,0,Checkout was slow,Weekday,0
+1232,Purchase,63,1,0,Support not helpful,Weekday,0
+1233,Email Click,52,1,0,Checkout was slow,Weekend,1
+1234,Email Click,38,0,0,App crashes often,Weekday,0
+1235,Purchase,88,1,0,Too expensive,Weekday,0
+1236,App Login,79,0,1,Delivery delayed,Weekday,1
+1237,Purchase,30,0,1,Great service,Weekday,0
+1238,Email Click,51,1,1,Satisfied,Weekend,0
+1239,Browsing,81,0,0,Satisfied,Weekday,0
+1240,Browsing,5,1,0,Great service,Weekday,0
+1241,Support Ticket,29,1,1,Delivery delayed,Weekday,1
+1242,Purchase,4,0,0,Support not helpful,Weekday,0
+1243,Purchase,10,1,0,Delivery delayed,Weekday,0
+1244,Support Ticket,56,1,0,Delivery delayed,Weekend,0
+1245,Support Ticket,17,1,0,Delivery delayed,Weekend,0
+1246,Support Ticket,74,1,0,Support not helpful,Weekend,0
+1247,Email Click,17,1,0,Support not helpful,Weekday,0
+1248,Purchase,84,1,0,App crashes often,Weekday,0
+1249,Email Click,88,1,0,Great service,Weekday,1
+1250,Support Ticket,69,0,1,Support not helpful,Weekday,0
+1251,Purchase,34,1,1,Support not helpful,Weekend,0
+1252,Email Click,6,0,1,App crashes often,Weekday,0
+1253,Email Click,53,1,1,Satisfied,Weekend,1
+1254,Support Ticket,66,1,1,App crashes often,Weekend,1
+1255,Purchase,77,0,0,Poor experience,Weekday,0
+1256,Support Ticket,43,1,0,Poor experience,Weekday,1
+1257,Purchase,75,1,0,Too expensive,Weekday,0
+1258,Browsing,23,0,1,Delivery delayed,Weekday,0
+1259,App Login,55,1,1,Great service,Weekend,0
+1260,App Login,80,1,0,Loved the offers,Weekday,0
+1261,App Login,75,0,1,Checkout was slow,Weekday,1
+1262,Support Ticket,16,1,0,App crashes often,Weekday,0
+1263,Browsing,8,0,1,Satisfied,Weekend,0
+1264,Purchase,4,1,0,Checkout was slow,Weekday,1
+1265,Email Click,4,1,0,Satisfied,Weekend,0
+1266,Purchase,56,1,0,Checkout was slow,Weekday,0
+1267,Email Click,25,1,0,App crashes often,Weekend,0
+1268,Purchase,67,1,0,Loved the offers,Weekend,0
+1269,Browsing,67,1,0,Checkout was slow,Weekday,0
+1270,Email Click,27,0,1,App crashes often,Weekday,1
+1271,Support Ticket,32,1,0,Support not helpful,Weekend,0
+1272,Purchase,50,0,0,Loved the offers,Weekday,0
+1273,Purchase,61,1,1,Satisfied,Weekend,1
+1274,Email Click,51,0,1,Poor experience,Weekday,1
+1275,Support Ticket,19,0,0,Delivery delayed,Weekend,0
+1276,Support Ticket,21,0,0,Poor experience,Weekend,0
+1277,Browsing,5,1,0,Loved the offers,Weekend,0
+1278,Support Ticket,82,0,0,Satisfied,Weekday,0
+1279,Support Ticket,42,1,1,Checkout was slow,Weekday,0
+1280,Support Ticket,61,0,0,Satisfied,Weekday,0
+1281,App Login,22,0,0,Checkout was slow,Weekday,1
+1282,Browsing,21,1,1,App crashes often,Weekday,0
+1283,Purchase,70,1,0,Loved the offers,Weekday,1
+1284,Email Click,1,0,0,App crashes often,Weekend,0
+1285,Purchase,5,1,0,Too expensive,Weekday,1
+1286,Browsing,12,1,1,Checkout was slow,Weekday,0
+1287,Email Click,46,1,0,Support not helpful,Weekday,1
+1288,Browsing,34,0,1,App crashes often,Weekday,0
+1289,Support Ticket,49,0,0,Too expensive,Weekday,0
+1290,Email Click,78,1,0,Great service,Weekend,0
+1291,Support Ticket,45,0,1,Poor experience,Weekend,1
+1292,Purchase,27,1,1,Satisfied,Weekday,0
+1293,Purchase,73,1,1,Too expensive,Weekday,0
+1294,Email Click,26,1,1,Loved the offers,Weekend,0
+1295,Email Click,47,1,1,App crashes often,Weekday,0
+1296,Browsing,86,1,0,Loved the offers,Weekday,0
+1297,Browsing,56,0,0,Poor experience,Weekday,0
+1298,Support Ticket,63,1,1,Support not helpful,Weekday,1
+1299,Email Click,48,1,0,Loved the offers,Weekday,1
+1300,Purchase,61,1,1,Checkout was slow,Weekday,1
+1301,Browsing,81,1,1,Support not helpful,Weekday,0
+1302,Browsing,26,1,0,Support not helpful,Weekend,1
+1303,Purchase,36,1,0,Too expensive,Weekday,1
+1304,Browsing,1,1,1,Support not helpful,Weekend,1
+1305,Support Ticket,8,1,0,Delivery delayed,Weekend,0
+1306,Email Click,52,1,1,Poor experience,Weekday,0
+1307,Purchase,79,1,0,Support not helpful,Weekday,1
+1308,Email Click,47,0,1,Loved the offers,Weekday,0
+1309,Browsing,56,0,0,Great service,Weekday,0
+1310,Browsing,86,0,1,Delivery delayed,Weekend,0
+1311,Purchase,14,0,0,Delivery delayed,Weekday,1
+1312,Support Ticket,28,0,0,Checkout was slow,Weekend,1
+1313,App Login,87,0,0,Support not helpful,Weekday,1
+1314,Purchase,78,0,1,Checkout was slow,Weekday,0
+1315,App Login,88,0,1,Checkout was slow,Weekday,0
+1316,App Login,2,1,0,Great service,Weekday,0
+1317,Support Ticket,26,1,0,Too expensive,Weekday,0
+1318,App Login,14,0,0,Support not helpful,Weekday,0
+1319,App Login,59,1,1,App crashes often,Weekday,0
+1320,Support Ticket,56,0,1,Checkout was slow,Weekday,0
+1321,App Login,7,1,0,Poor experience,Weekend,0
+1322,App Login,3,1,0,Satisfied,Weekday,1
+1323,App Login,23,0,0,Poor experience,Weekend,0
+1324,Purchase,18,1,0,Great service,Weekend,1
+1325,Purchase,38,1,0,Great service,Weekend,0
+1326,Purchase,15,1,1,Loved the offers,Weekday,0
+1327,Support Ticket,64,1,0,Too expensive,Weekend,0
+1328,Browsing,89,1,1,Checkout was slow,Weekday,0
+1329,App Login,28,0,0,Poor experience,Weekday,0
+1330,App Login,74,1,0,Satisfied,Weekday,1
+1331,Support Ticket,39,0,1,Great service,Weekend,0
+1332,App Login,57,1,1,Great service,Weekday,0
+1333,Purchase,17,1,1,Too expensive,Weekend,0
+1334,Browsing,86,1,0,Satisfied,Weekday,1
+1335,Email Click,44,1,0,Satisfied,Weekend,1
+1336,App Login,25,0,1,Too expensive,Weekend,1
+1337,Purchase,17,0,0,Great service,Weekday,0
+1338,Email Click,13,0,0,Support not helpful,Weekend,1
+1339,Browsing,84,0,0,Support not helpful,Weekday,1
+1340,Email Click,25,1,0,Too expensive,Weekday,0
+1341,Purchase,68,0,1,Satisfied,Weekday,1
+1342,Email Click,10,0,0,Checkout was slow,Weekday,0
+1343,Support Ticket,67,1,0,Too expensive,Weekday,1
+1344,Email Click,18,1,0,Too expensive,Weekday,1
+1345,App Login,86,1,0,Delivery delayed,Weekday,0
+1346,App Login,34,1,0,Poor experience,Weekend,0
+1347,Support Ticket,8,0,0,Satisfied,Weekend,1
+1348,Purchase,40,0,0,Loved the offers,Weekend,0
+1349,App Login,83,1,1,Loved the offers,Weekend,0
+1350,Browsing,42,1,0,Satisfied,Weekend,1
+1351,App Login,41,0,0,Delivery delayed,Weekday,0
+1352,App Login,6,1,1,Delivery delayed,Weekday,0
+1353,Purchase,52,0,1,Great service,Weekend,0
+1354,Email Click,26,0,0,Poor experience,Weekday,0
+1355,App Login,64,1,0,Support not helpful,Weekday,0
+1356,Support Ticket,59,1,0,App crashes often,Weekday,0
+1357,Email Click,56,1,1,App crashes often,Weekday,0
+1358,Browsing,59,0,1,App crashes often,Weekday,0
+1359,Purchase,70,1,1,Satisfied,Weekday,1
+1360,Browsing,33,0,0,Loved the offers,Weekday,0
+1361,Email Click,53,0,1,Loved the offers,Weekday,0
+1362,Email Click,22,1,0,Support not helpful,Weekday,1
+1363,Email Click,21,1,0,Satisfied,Weekday,0
+1364,Browsing,70,1,0,App crashes often,Weekend,0
+1365,Email Click,70,1,1,Checkout was slow,Weekday,0
+1366,Browsing,4,1,0,Loved the offers,Weekday,1
+1367,Email Click,75,1,1,Great service,Weekend,0
+1368,Support Ticket,62,0,0,Too expensive,Weekday,0
+1369,Email Click,62,1,0,Checkout was slow,Weekday,1
+1370,Browsing,24,0,0,Loved the offers,Weekday,0
+1371,App Login,55,0,0,Delivery delayed,Weekend,0
+1372,Email Click,9,1,1,Loved the offers,Weekday,0
+1373,App Login,3,1,0,Great service,Weekday,0
+1374,Support Ticket,31,0,1,App crashes often,Weekend,1
+1375,Purchase,40,0,1,Delivery delayed,Weekday,0
+1376,Support Ticket,36,1,1,Satisfied,Weekday,0
+1377,Email Click,24,0,0,Poor experience,Weekday,0
+1378,App Login,6,1,0,App crashes often,Weekday,1
+1379,App Login,66,1,0,Poor experience,Weekday,0
+1380,Browsing,84,1,1,Checkout was slow,Weekday,0
+1381,App Login,75,1,1,Too expensive,Weekend,0
+1382,Browsing,4,1,0,Delivery delayed,Weekday,0
+1383,Purchase,79,0,1,Support not helpful,Weekday,0
+1384,Email Click,6,1,0,Delivery delayed,Weekday,0
+1385,Browsing,51,1,1,Loved the offers,Weekday,0
+1386,Purchase,62,0,0,Loved the offers,Weekday,0
+1387,App Login,57,1,1,Loved the offers,Weekend,0
+1388,App Login,66,1,0,Checkout was slow,Weekday,1
+1389,Purchase,79,1,1,App crashes often,Weekend,0
+1390,App Login,75,1,1,Support not helpful,Weekend,1
+1391,Purchase,8,1,1,Support not helpful,Weekday,0
+1392,Browsing,26,1,0,Loved the offers,Weekend,0
+1393,Browsing,51,1,0,Poor experience,Weekday,0
+1394,Purchase,45,1,0,Checkout was slow,Weekday,0
+1395,Browsing,44,1,0,Loved the offers,Weekday,0
+1396,Browsing,5,1,0,Too expensive,Weekday,1
+1397,Browsing,70,1,1,App crashes often,Weekday,0
+1398,Support Ticket,26,0,0,Satisfied,Weekday,1
+1399,Email Click,68,1,0,Too expensive,Weekday,0
+1400,App Login,19,1,0,Poor experience,Weekday,1
+1401,Support Ticket,84,0,0,Delivery delayed,Weekday,0
+1402,Browsing,20,1,1,Delivery delayed,Weekend,1
+1403,Purchase,12,0,0,Too expensive,Weekend,0
+1404,Browsing,47,0,1,Loved the offers,Weekday,1
+1405,Email Click,1,1,0,Satisfied,Weekday,0
+1406,Browsing,14,0,1,Great service,Weekend,1
+1407,Purchase,64,1,1,Great service,Weekend,0
+1408,Email Click,38,1,0,Poor experience,Weekend,1
+1409,Browsing,37,1,1,Loved the offers,Weekday,0
+1410,Email Click,11,0,0,Support not helpful,Weekday,1
+1411,App Login,77,0,1,Support not helpful,Weekday,1
+1412,App Login,3,1,0,App crashes often,Weekday,1
+1413,Browsing,33,1,1,Satisfied,Weekend,0
+1414,Email Click,6,1,1,Satisfied,Weekend,0
+1415,Purchase,50,0,1,Delivery delayed,Weekday,1
+1416,Browsing,10,1,1,Checkout was slow,Weekend,0
+1417,App Login,5,1,0,Poor experience,Weekday,0
+1418,App Login,23,1,0,Great service,Weekday,1
+1419,Browsing,10,0,0,Poor experience,Weekday,1
+1420,Email Click,44,1,0,Support not helpful,Weekend,0
+1421,App Login,2,1,1,Support not helpful,Weekday,1
+1422,Email Click,13,1,0,Too expensive,Weekend,1
+1423,App Login,40,0,1,App crashes often,Weekend,0
+1424,App Login,2,1,1,Satisfied,Weekday,1
+1425,Support Ticket,84,1,1,Poor experience,Weekday,0
+1426,App Login,65,0,0,Support not helpful,Weekend,0
+1427,Purchase,63,1,1,Checkout was slow,Weekday,0
+1428,Browsing,73,1,1,Delivery delayed,Weekend,0
+1429,Browsing,17,0,0,Great service,Weekend,1
+1430,Email Click,9,0,1,App crashes often,Weekday,0
+1431,App Login,75,1,1,Checkout was slow,Weekday,0
+1432,Purchase,15,0,0,App crashes often,Weekend,0
+1433,Email Click,24,1,0,Too expensive,Weekday,0
+1434,Support Ticket,38,0,0,Support not helpful,Weekday,0
+1435,Email Click,35,1,0,Delivery delayed,Weekday,0
+1436,Email Click,49,0,0,Checkout was slow,Weekday,0
+1437,App Login,69,1,0,App crashes often,Weekend,1
+1438,Support Ticket,62,1,0,Satisfied,Weekend,0
+1439,Email Click,60,1,0,Too expensive,Weekday,0
+1440,Purchase,50,1,1,Satisfied,Weekday,0
+1441,Purchase,78,0,0,Delivery delayed,Weekday,1
+1442,Browsing,75,1,1,Checkout was slow,Weekend,0
+1443,Support Ticket,9,0,0,Too expensive,Weekday,0
+1444,Support Ticket,34,0,0,Checkout was slow,Weekday,0
+1445,Browsing,76,0,0,Support not helpful,Weekday,1
+1446,Email Click,35,1,0,Loved the offers,Weekday,0
+1447,Support Ticket,1,1,0,Too expensive,Weekend,1
+1448,Purchase,40,1,1,Satisfied,Weekday,0
+1449,Purchase,64,1,0,Delivery delayed,Weekday,0
+1450,App Login,22,0,1,Support not helpful,Weekday,1
+1451,Support Ticket,60,1,1,Loved the offers,Weekend,0
+1452,Email Click,64,1,0,Great service,Weekday,1
+1453,Browsing,72,1,0,Support not helpful,Weekday,1
+1454,Browsing,11,0,1,Delivery delayed,Weekday,1
+1455,Email Click,14,1,0,App crashes often,Weekend,0
+1456,App Login,60,1,0,Too expensive,Weekday,1
+1457,Browsing,30,0,1,Checkout was slow,Weekday,0
+1458,Support Ticket,35,0,0,Delivery delayed,Weekday,1
+1459,App Login,85,1,1,Too expensive,Weekend,0
+1460,Support Ticket,37,1,1,Checkout was slow,Weekday,1
+1461,Purchase,5,0,0,Poor experience,Weekend,0
+1462,App Login,83,1,0,Satisfied,Weekday,0
+1463,Browsing,78,0,0,Great service,Weekday,0
+1464,App Login,26,1,0,Support not helpful,Weekday,1
+1465,App Login,62,1,0,Delivery delayed,Weekend,0
+1466,App Login,4,1,1,Great service,Weekday,0
+1467,App Login,89,1,0,App crashes often,Weekend,1
+1468,Support Ticket,42,0,0,Too expensive,Weekend,0
+1469,Purchase,89,0,1,Too expensive,Weekday,0
+1470,Email Click,18,1,1,Delivery delayed,Weekend,0
+1471,App Login,40,1,1,Loved the offers,Weekend,0
+1472,Browsing,72,1,0,Loved the offers,Weekday,0
+1473,App Login,39,0,1,Poor experience,Weekday,0
+1474,Browsing,14,0,0,Satisfied,Weekend,0
+1475,Support Ticket,32,0,0,Checkout was slow,Weekday,0
+1476,Browsing,51,1,0,App crashes often,Weekend,1
+1477,Email Click,38,0,1,Great service,Weekend,0
+1478,Purchase,23,1,0,Loved the offers,Weekday,0
+1479,Browsing,63,1,0,Poor experience,Weekday,1
+1480,Browsing,15,1,0,Poor experience,Weekday,0
+1481,Purchase,25,0,0,Delivery delayed,Weekday,0
+1482,Email Click,17,1,1,App crashes often,Weekday,1
+1483,App Login,66,1,1,Checkout was slow,Weekday,1
+1484,Browsing,78,1,1,Satisfied,Weekday,1
+1485,Purchase,53,1,0,Support not helpful,Weekend,1
+1486,Support Ticket,51,1,0,Delivery delayed,Weekend,1
+1487,Purchase,39,1,0,Checkout was slow,Weekday,0
+1488,Support Ticket,51,0,0,Support not helpful,Weekday,1
+1489,Email Click,70,0,0,Support not helpful,Weekday,0
+1490,App Login,6,1,1,App crashes often,Weekday,1
+1491,Purchase,67,1,0,App crashes often,Weekend,0
+1492,Browsing,7,1,0,Great service,Weekend,0
+1493,Email Click,51,1,0,Poor experience,Weekend,0
+1494,Purchase,72,0,0,Checkout was slow,Weekend,1
+1495,Browsing,42,0,0,Delivery delayed,Weekday,0
+1496,Purchase,64,1,1,Too expensive,Weekend,1
+1497,Support Ticket,15,1,1,Delivery delayed,Weekday,1
+1498,Purchase,29,0,1,Great service,Weekend,0
+1499,Purchase,33,1,0,Satisfied,Weekday,1
+1500,Purchase,27,0,0,Poor experience,Weekend,1

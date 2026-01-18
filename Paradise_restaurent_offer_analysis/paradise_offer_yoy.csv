@@ -1,0 +1,1001 @@
+customer_id,offer_taken_date,gender,age,branch_name,branch_rank,valid_upto,bill_amount,offer_usage_count,discount_amount,area_of_branch,customer_comment,food_rating,serving_rating,category,tip_amount,offer_taken,year
+CUST0001,2025-01-02,M,18.0,Branch_3,3,2025-04-02,600.0,10,120.0,Hitech City,Not worth it :(,4.0,1.0,Veg,0,Yes,2025.0
+CUST0002,2025-01-15,Unknown,30.0,Branch_9,9,2025-04-15,1200.0,5,0.0,Uppal,Not much benefit,5.0,3.0,Veg,1000,Yes,2025.0
+CUST0003,2025-02-14,Unknown,18.0,Branch_4,4,2025-05-15,600.0,3,120.0,Kukatpally,good savings,4.0,1.0,Veg,1000,Yes,2025.0
+CUST0004,,Unknown,18.0,Branch_1,1,,1200.0,0,0.0,Madhapur,,4.0,1.0,Non-Veg,20,No,
+CUST0005,,M,30.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,Too crowded!!!,3.0,1.0,Veg,1000,No,
+CUST0006,2025-01-25,F,60.0,Branch_6,6,2025-04-25,900.0,2,180.0,Secunderabad,Offer okay,2.0,3.0,Veg,300,Yes,2025.0
+CUST0007,2025-02-08,F,30.0,Branch_4,4,2025-05-09,300.0,10,60.0,Kukatpally,Crowded but good,3.0,3.0,Non-Veg,100,Yes,2025.0
+CUST0008,2025-02-13,F,30.0,Branch_1,1,2025-05-14,12000.0,2,2400.0,Madhapur,Too crowded!!!,3.0,4.0,Veg,0,Yes,2025.0
+CUST0009,2025-02-28,Unknown,30.0,Branch_8,8,2025-05-29,3000.0,5,600.0,Dilsukhnagar,Worth the price??,3.0,2.0,Veg,300,Yes,2025.0
+CUST0010,,Unknown,60.0,Branch_7,7,,3000.0,0,0.0,LB Nagar,,2.0,5.0,Non-Veg,0,No,
+CUST0011,2025-02-25,M,30.0,Branch_7,7,2025-05-26,300.0,0,60.0,LB Nagar,Crowded but good,5.0,4.0,Non-Veg,20,Yes,2025.0
+CUST0012,2025-02-13,Unknown,60.0,Branch_9,9,2025-05-14,50.0,10,10.0,Uppal,good savings,3.0,4.0,Veg,50,Yes,2025.0
+CUST0013,2025-02-16,M,45.0,Branch_3,3,2025-05-17,600.0,10,120.0,Hitech City,average,3.0,5.0,Non-Veg,10,Yes,2025.0
+CUST0014,2025-01-24,M,60.0,Branch_9,9,2025-04-24,300.0,15,60.0,Uppal,Not much benefit,1.0,1.0,Veg,1000,Yes,2025.0
+CUST0015,,M,18.0,Branch_4,4,,300.0,0,0.0,Kukatpally,good????,4.0,1.0,Non-Veg,1000,No,
+CUST0016,2025-01-09,Unknown,30.0,Branch_3,3,2025-04-09,900.0,10,180.0,Hitech City,,5.0,3.0,Non-Veg,10,Yes,2025.0
+CUST0017,,Unknown,30.0,Branch_6,6,,900.0,0,0.0,Secunderabad,good savings,2.0,2.0,Veg,20,No,
+CUST0018,2025-02-07,M,30.0,Branch_1,1,2025-05-08,300.0,5,60.0,Madhapur,,1.0,1.0,Veg,0,Yes,2025.0
+CUST0019,2025-01-18,Unknown,30.0,Branch_3,3,2025-04-18,900.0,10,180.0,Hitech City,Too crowded!!!,4.0,4.0,Veg,0,Yes,2025.0
+CUST0020,2025-02-12,M,18.0,Branch_8,8,2025-05-13,600.0,3,120.0,Dilsukhnagar,Very useful offer!!!,4.0,3.0,Veg,1000,Yes,2025.0
+CUST0021,2025-01-16,Unknown,25.0,Branch_3,3,2025-04-16,300.0,1,60.0,Hitech City,Average experience,4.0,2.0,Veg,50,Yes,2025.0
+CUST0022,2025-01-04,F,25.0,Branch_2,2,2025-04-04,1200.0,10,240.0,Gachibowli,Crowded but good,4.0,4.0,Veg,1000,Yes,2025.0
+CUST0023,,M,30.0,Branch_7,7,,50.0,0,0.0,LB Nagar,Average experience,4.0,3.0,Non-Veg,300,No,
+CUST0024,,F,30.0,Branch_5,5,,300.0,0,0.0,Ameerpet,Not worth it :(,3.0,5.0,Veg,300,No,
+CUST0025,,Unknown,25.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,Very useful offer!!!,5.0,1.0,Veg,0,No,
+CUST0026,2025-02-13,F,30.0,Branch_10,10,2025-05-14,300.0,15,60.0,Mehdipatnam,Not worth it :(,1.0,4.0,Non-Veg,100,Yes,2025.0
+CUST0027,,F,45.0,Branch_6,6,,600.0,0,0.0,Secunderabad,Crowded but good,2.0,3.0,Non-Veg,20,No,
+CUST0028,,Unknown,18.0,Branch_1,1,,600.0,0,0.0,Madhapur,good savings,5.0,2.0,Non-Veg,20,No,
+CUST0029,2025-03-01,Unknown,25.0,Branch_6,6,2025-05-30,50.0,2,10.0,Secunderabad,Not much benefit,5.0,3.0,Veg,100,Yes,2025.0
+CUST0030,2025-02-12,F,45.0,Branch_2,2,2025-05-13,1200.0,15,240.0,Gachibowli,good savings,1.0,3.0,Non-Veg,10,Yes,2025.0
+CUST0031,,Unknown,30.0,Branch_4,4,,600.0,0,0.0,Kukatpally,Loved it ,3.0,3.0,Non-Veg,50,No,
+CUST0032,,Unknown,45.0,Branch_2,2,,12000.0,0,0.0,Gachibowli,Very useful offer!!!,1.0,3.0,Veg,300,No,
+CUST0033,,Unknown,30.0,Branch_8,8,,300.0,0,0.0,Dilsukhnagar,good savings,1.0,3.0,Veg,100,No,
+CUST0034,2025-02-23,F,30.0,Branch_7,7,2025-05-24,1200.0,2,240.0,LB Nagar,Average experience,3.0,1.0,Veg,10,Yes,2025.0
+CUST0035,2025-02-12,F,30.0,Branch_7,7,2025-05-13,600.0,0,120.0,LB Nagar,average,2.0,2.0,Non-Veg,0,Yes,2025.0
+CUST0036,2025-02-17,Unknown,25.0,Branch_4,4,2025-05-18,12000.0,2,2400.0,Kukatpally,Too crowded!!!,3.0,1.0,Non-Veg,1000,Yes,2025.0
+CUST0037,2025-02-24,Unknown,45.0,Branch_8,8,2025-05-25,300.0,3,60.0,Dilsukhnagar,average,2.0,2.0,Veg,300,Yes,2025.0
+CUST0038,2025-01-26,Unknown,30.0,Branch_5,5,2025-04-26,600.0,2,120.0,Ameerpet,Loved it ,5.0,3.0,Veg,0,Yes,2025.0
+CUST0039,,M,18.0,Branch_5,5,,300.0,0,0.0,Ameerpet,Not worth it :(,4.0,3.0,Non-Veg,1000,No,
+CUST0040,,M,30.0,Branch_9,9,,900.0,0,0.0,Uppal,,5.0,2.0,Veg,0,No,
+CUST0041,,F,60.0,Branch_9,9,,50.0,0,0.0,Uppal,Crowded but good,1.0,3.0,Veg,100,No,
+CUST0042,,Unknown,30.0,Branch_5,5,,3000.0,0,0.0,Ameerpet,Offer okay,4.0,3.0,Veg,100,No,
+CUST0043,2025-01-13,Unknown,30.0,Branch_3,3,2025-04-13,3000.0,3,600.0,Hitech City,Did not use offer,1.0,3.0,Veg,10,Yes,2025.0
+CUST0044,,Unknown,30.0,Branch_10,10,,12000.0,0,0.0,Mehdipatnam,Not much benefit,4.0,3.0,Veg,100,No,
+CUST0045,,M,45.0,Branch_3,3,,12000.0,0,0.0,Hitech City,Did not use offer,3.0,3.0,Non-Veg,20,No,
+CUST0046,2025-02-22,F,25.0,Branch_4,4,2025-05-23,300.0,15,60.0,Kukatpally,Very useful offer!!!,1.0,2.0,Non-Veg,100,Yes,2025.0
+CUST0047,2025-01-30,Unknown,30.0,Branch_7,7,2025-04-30,3000.0,3,600.0,LB Nagar,,2.0,3.0,Non-Veg,0,Yes,2025.0
+CUST0048,2025-02-19,Unknown,30.0,Branch_9,9,2025-05-20,300.0,3,60.0,Uppal,Did not use offer,2.0,1.0,Non-Veg,10,Yes,2025.0
+CUST0049,,Unknown,30.0,Branch_9,9,,3000.0,0,0.0,Uppal,Not worth it :(,3.0,5.0,Non-Veg,1000,No,
+CUST0050,,Unknown,45.0,Branch_8,8,,300.0,0,0.0,Dilsukhnagar,Too crowded!!!,2.0,3.0,Veg,1000,No,
+CUST0051,,Unknown,18.0,Branch_5,5,,3000.0,0,0.0,Ameerpet,good????,3.0,2.0,Veg,20,No,
+CUST0052,,F,30.0,Branch_3,3,,1200.0,0,0.0,Hitech City,Crowded but good,3.0,2.0,Non-Veg,10,No,
+CUST0053,2025-01-27,M,30.0,Branch_7,7,2025-04-27,600.0,3,120.0,LB Nagar,average,4.0,4.0,Non-Veg,300,Yes,2025.0
+CUST0054,2025-02-24,Unknown,45.0,Branch_1,1,2025-05-25,1200.0,15,240.0,Madhapur,Too crowded!!!,4.0,4.0,Non-Veg,300,Yes,2025.0
+CUST0055,2025-02-01,Unknown,60.0,Branch_1,1,2025-05-02,600.0,1,120.0,Madhapur,Loved it ,3.0,4.0,Non-Veg,10,Yes,2025.0
+CUST0056,,M,30.0,Branch_9,9,,300.0,0,0.0,Uppal,Not worth it :(,5.0,3.0,Veg,0,No,
+CUST0057,,M,45.0,Branch_3,3,,300.0,0,0.0,Hitech City,Crowded but good,3.0,2.0,Non-Veg,20,No,
+CUST0058,,Unknown,45.0,Branch_5,5,,12000.0,0,0.0,Ameerpet,average,1.0,4.0,Veg,300,No,
+CUST0059,2025-03-02,M,30.0,Branch_1,1,2025-05-31,300.0,2,60.0,Madhapur,,1.0,5.0,Veg,10,Yes,2025.0
+CUST0060,2025-01-31,Unknown,45.0,Branch_4,4,2025-05-01,50.0,10,10.0,Kukatpally,Too crowded!!!,3.0,2.0,Non-Veg,100,Yes,2025.0
+CUST0061,2025-02-19,M,45.0,Branch_2,2,2025-05-20,300.0,15,60.0,Gachibowli,Not worth it :(,3.0,4.0,Non-Veg,300,Yes,2025.0
+CUST0062,2025-01-05,M,45.0,Branch_4,4,2025-04-05,3000.0,5,600.0,Kukatpally,average,3.0,5.0,Veg,1000,Yes,2025.0
+CUST0063,2025-01-23,Unknown,30.0,Branch_2,2,2025-04-23,900.0,5,180.0,Gachibowli,average,4.0,4.0,Veg,50,Yes,2025.0
+CUST0064,,Unknown,25.0,Branch_3,3,,3000.0,0,0.0,Hitech City,good????,5.0,3.0,Veg,100,No,
+CUST0065,,Unknown,60.0,Branch_10,10,,900.0,0,0.0,Mehdipatnam,average,2.0,1.0,Veg,50,No,
+CUST0066,2025-02-18,Unknown,30.0,Branch_7,7,2025-05-19,1200.0,3,240.0,LB Nagar,Not much benefit,3.0,2.0,Non-Veg,10,Yes,2025.0
+CUST0067,,Unknown,45.0,Branch_6,6,,12000.0,0,0.0,Secunderabad,Did not use offer,1.0,5.0,Veg,0,No,
+CUST0068,2025-02-16,Unknown,30.0,Branch_4,4,2025-05-17,900.0,3,180.0,Kukatpally,Not much benefit,1.0,1.0,Veg,10,Yes,2025.0
+CUST0069,,Unknown,30.0,Branch_5,5,,3000.0,0,0.0,Ameerpet,Did not use offer,5.0,3.0,Non-Veg,300,No,
+CUST0070,,Unknown,45.0,Branch_8,8,,600.0,0,0.0,Dilsukhnagar,Average experience,2.0,1.0,Non-Veg,10,No,
+CUST0071,,F,30.0,Branch_9,9,,50.0,0,0.0,Uppal,,3.0,4.0,Veg,300,No,
+CUST0072,,F,60.0,Branch_5,5,,50.0,0,0.0,Ameerpet,Worth the price??,3.0,1.0,Non-Veg,100,No,
+CUST0073,2025-01-18,Unknown,18.0,Branch_3,3,2025-04-18,50.0,0,10.0,Hitech City,average,1.0,5.0,Veg,50,Yes,2025.0
+CUST0074,,M,45.0,Branch_3,3,,900.0,0,0.0,Hitech City,average,4.0,1.0,Veg,50,No,
+CUST0075,,F,25.0,Branch_1,1,,50.0,0,0.0,Madhapur,Too crowded!!!,5.0,3.0,Veg,10,No,
+CUST0076,2025-02-05,F,30.0,Branch_10,10,2025-05-06,900.0,15,180.0,Mehdipatnam,Not much benefit,4.0,3.0,Non-Veg,50,Yes,2025.0
+CUST0077,,M,30.0,Branch_1,1,,1200.0,0,0.0,Madhapur,Loved it ,2.0,3.0,Non-Veg,0,No,
+CUST0078,2025-01-16,Unknown,30.0,Branch_7,7,2025-04-16,1200.0,1,0.0,LB Nagar,Average experience,1.0,2.0,Veg,300,Yes,2025.0
+CUST0079,,F,45.0,Branch_2,2,,3000.0,0,0.0,Gachibowli,Too crowded!!!,3.0,5.0,Non-Veg,1000,No,
+CUST0080,2025-01-28,Unknown,25.0,Branch_3,3,2025-04-28,1200.0,0,240.0,Hitech City,good savings,1.0,2.0,Veg,100,Yes,2025.0
+CUST0081,,Unknown,30.0,Branch_8,8,,900.0,0,0.0,Dilsukhnagar,Average experience,5.0,5.0,Non-Veg,50,No,
+CUST0082,2025-02-08,Unknown,30.0,Branch_10,10,2025-05-09,900.0,0,180.0,Mehdipatnam,good savings,2.0,3.0,Non-Veg,100,Yes,2025.0
+CUST0083,2025-02-18,F,30.0,Branch_1,1,2025-05-19,12000.0,10,2400.0,Madhapur,Did not use offer,3.0,4.0,Veg,10,Yes,2025.0
+CUST0084,,Unknown,60.0,Branch_2,2,,3000.0,0,0.0,Gachibowli,Crowded but good,3.0,3.0,Non-Veg,0,No,
+CUST0085,2025-01-22,M,30.0,Branch_7,7,2025-04-22,3000.0,3,600.0,LB Nagar,good savings,3.0,3.0,Veg,0,Yes,2025.0
+CUST0086,,Unknown,30.0,Branch_1,1,,12000.0,0,0.0,Madhapur,Very useful offer!!!,2.0,5.0,Veg,100,No,
+CUST0087,,F,45.0,Branch_1,1,,3000.0,0,0.0,Madhapur,Did not use offer,2.0,3.0,Non-Veg,300,No,
+CUST0088,,F,25.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,Average experience,5.0,1.0,Non-Veg,50,No,
+CUST0089,2025-01-15,F,30.0,Branch_2,2,2025-04-15,50.0,15,10.0,Gachibowli,,3.0,3.0,Non-Veg,300,Yes,2025.0
+CUST0090,,F,30.0,Branch_8,8,,900.0,0,0.0,Dilsukhnagar,Did not use offer,2.0,4.0,Veg,100,No,
+CUST0091,2025-02-25,Unknown,45.0,Branch_7,7,2025-05-26,600.0,0,120.0,LB Nagar,average,1.0,3.0,Non-Veg,20,Yes,2025.0
+CUST0092,,Unknown,60.0,Branch_8,8,,12000.0,0,0.0,Dilsukhnagar,Offer okay,5.0,5.0,Non-Veg,50,No,
+CUST0093,,Unknown,30.0,Branch_4,4,,12000.0,0,0.0,Kukatpally,average,4.0,1.0,Veg,300,No,
+CUST0094,,F,30.0,Branch_7,7,,3000.0,0,0.0,LB Nagar,Very useful offer!!!,2.0,5.0,Non-Veg,20,No,
+CUST0095,2025-02-25,F,30.0,Branch_1,1,2025-05-26,900.0,15,50.0,Madhapur,average,3.0,2.0,Veg,50,Yes,2025.0
+CUST0096,,M,60.0,Branch_7,7,,600.0,0,0.0,LB Nagar,average,3.0,5.0,Non-Veg,20,No,
+CUST0097,,M,30.0,Branch_1,1,,12000.0,0,0.0,Madhapur,Loved it ,3.0,3.0,Veg,300,No,
+CUST0098,2025-01-28,Unknown,25.0,Branch_2,2,2025-04-28,12000.0,0,2400.0,Gachibowli,good????,3.0,1.0,Veg,20,Yes,2025.0
+CUST0099,2025-01-19,Unknown,25.0,Branch_4,4,2025-04-19,600.0,2,120.0,Kukatpally,Worth the price??,2.0,1.0,Non-Veg,1000,Yes,2025.0
+CUST0100,,Unknown,25.0,Branch_4,4,,1200.0,0,0.0,Kukatpally,,4.0,3.0,Veg,50,No,
+CUST0101,,Unknown,25.0,Branch_8,8,,3000.0,0,0.0,Dilsukhnagar,good savings,4.0,3.0,Non-Veg,20,No,
+CUST0102,,Unknown,30.0,Branch_8,8,,3000.0,0,0.0,Dilsukhnagar,Crowded but good,4.0,1.0,Veg,50,No,
+CUST0103,,M,30.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,Average experience,1.0,5.0,Non-Veg,1000,No,
+CUST0104,2025-02-28,F,60.0,Branch_5,5,2025-05-29,3000.0,5,600.0,Ameerpet,,3.0,2.0,Non-Veg,20,Yes,2025.0
+CUST0105,2025-02-10,Unknown,30.0,Branch_5,5,2025-05-11,3000.0,0,600.0,Ameerpet,Not worth it :(,3.0,3.0,Veg,0,Yes,2025.0
+CUST0106,,F,30.0,Branch_7,7,,600.0,0,0.0,LB Nagar,Worth the price??,5.0,3.0,Non-Veg,100,No,
+CUST0107,,Unknown,45.0,Branch_5,5,,12000.0,0,0.0,Ameerpet,good????,3.0,1.0,Non-Veg,0,No,
+CUST0108,2025-02-18,Unknown,18.0,Branch_7,7,2025-05-19,12000.0,1,2400.0,LB Nagar,Too crowded!!!,4.0,1.0,Veg,100,Yes,2025.0
+CUST0109,2025-01-30,Unknown,60.0,Branch_5,5,2025-04-30,3000.0,2,600.0,Ameerpet,good savings,3.0,2.0,Non-Veg,0,Yes,2025.0
+CUST0110,,Unknown,45.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,Loved it ,4.0,1.0,Veg,0,No,
+CUST0111,2025-01-20,Unknown,30.0,Branch_3,3,2025-04-20,50.0,3,10.0,Hitech City,Offer okay,3.0,3.0,Non-Veg,100,Yes,2025.0
+CUST0112,,Unknown,18.0,Branch_3,3,,1200.0,0,0.0,Hitech City,average,4.0,5.0,Non-Veg,20,No,
+CUST0113,2025-02-14,Unknown,18.0,Branch_4,4,2025-05-15,300.0,2,60.0,Kukatpally,Loved it ,3.0,5.0,Non-Veg,20,Yes,2025.0
+CUST0114,2025-01-26,M,30.0,Branch_8,8,2025-04-26,300.0,2,60.0,Dilsukhnagar,Loved it ,3.0,5.0,Veg,0,Yes,2025.0
+CUST0115,,F,18.0,Branch_10,10,,300.0,0,0.0,Mehdipatnam,average,5.0,2.0,Non-Veg,10,No,
+CUST0116,2025-01-22,M,45.0,Branch_10,10,2025-04-22,300.0,15,60.0,Mehdipatnam,average,2.0,2.0,Non-Veg,20,Yes,2025.0
+CUST0117,2025-01-08,F,60.0,Branch_6,6,2025-04-08,12000.0,10,0.0,Secunderabad,Very useful offer!!!,2.0,3.0,Veg,10,Yes,2025.0
+CUST0118,,Unknown,30.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,Too crowded!!!,3.0,5.0,Non-Veg,0,No,
+CUST0119,,M,45.0,Branch_10,10,,1200.0,0,0.0,Mehdipatnam,Not much benefit,3.0,1.0,Veg,50,No,
+CUST0120,,Unknown,30.0,Branch_2,2,,900.0,0,0.0,Gachibowli,good savings,1.0,3.0,Non-Veg,10,No,
+CUST0121,2025-01-09,Unknown,30.0,Branch_9,9,2025-04-09,1200.0,2,240.0,Uppal,Not worth it :(,5.0,3.0,Non-Veg,100,Yes,2025.0
+CUST0122,,F,30.0,Branch_2,2,,50.0,0,0.0,Gachibowli,Not much benefit,2.0,4.0,Veg,1000,No,
+CUST0123,,Unknown,30.0,Branch_2,2,,900.0,0,0.0,Gachibowli,Offer okay,3.0,3.0,Veg,10,No,
+CUST0124,,M,30.0,Branch_2,2,,50.0,0,0.0,Gachibowli,good savings,3.0,3.0,Veg,1000,No,
+CUST0125,2025-02-05,Unknown,18.0,Branch_9,9,2025-05-06,1200.0,0,240.0,Uppal,Crowded but good,3.0,3.0,Non-Veg,1000,Yes,2025.0
+CUST0126,2025-01-19,F,25.0,Branch_10,10,2025-04-19,600.0,5,120.0,Mehdipatnam,Loved it ,4.0,2.0,Veg,20,Yes,2025.0
+CUST0127,,F,30.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,average,5.0,5.0,Non-Veg,300,No,
+CUST0128,2025-02-08,F,45.0,Branch_1,1,2025-05-09,12000.0,10,2400.0,Madhapur,good????,3.0,3.0,Veg,0,Yes,2025.0
+CUST0129,2025-02-25,F,30.0,Branch_2,2,2025-05-26,1200.0,1,240.0,Gachibowli,good savings,3.0,5.0,Veg,50,Yes,2025.0
+CUST0130,,Unknown,45.0,Branch_3,3,,900.0,0,0.0,Hitech City,good????,3.0,5.0,Non-Veg,0,No,
+CUST0131,2025-01-10,Unknown,30.0,Branch_2,2,2025-04-10,12000.0,1,2400.0,Gachibowli,Loved it ,4.0,4.0,Non-Veg,50,Yes,2025.0
+CUST0132,,M,60.0,Branch_9,9,,600.0,0,0.0,Uppal,Crowded but good,1.0,3.0,Non-Veg,300,No,
+CUST0133,,M,30.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,Crowded but good,5.0,1.0,Veg,10,No,
+CUST0134,,Unknown,60.0,Branch_5,5,,300.0,0,0.0,Ameerpet,good savings,1.0,4.0,Non-Veg,50,No,
+CUST0135,2025-01-09,Unknown,18.0,Branch_9,9,2025-04-09,1200.0,3,240.0,Uppal,Crowded but good,3.0,1.0,Non-Veg,0,Yes,2025.0
+CUST0136,,Unknown,30.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,good????,3.0,4.0,Veg,0,No,
+CUST0137,,Unknown,60.0,Branch_3,3,,50.0,0,0.0,Hitech City,good savings,4.0,1.0,Veg,50,No,
+CUST0138,,Unknown,60.0,Branch_7,7,,1200.0,0,0.0,LB Nagar,,3.0,2.0,Veg,100,No,
+CUST0139,2025-02-03,Unknown,25.0,Branch_6,6,2025-05-04,300.0,5,60.0,Secunderabad,,1.0,2.0,Veg,10,Yes,2025.0
+CUST0140,2025-02-08,F,30.0,Branch_2,2,2025-05-09,12000.0,1,2400.0,Gachibowli,Not much benefit,5.0,5.0,Non-Veg,300,Yes,2025.0
+CUST0141,,F,30.0,Branch_6,6,,12000.0,0,0.0,Secunderabad,good savings,4.0,4.0,Non-Veg,20,No,
+CUST0142,,M,45.0,Branch_6,6,,1200.0,0,0.0,Secunderabad,Not much benefit,4.0,1.0,Veg,20,No,
+CUST0143,,Unknown,30.0,Branch_2,2,,50.0,0,0.0,Gachibowli,Not worth it :(,5.0,3.0,Veg,50,No,
+CUST0144,2025-01-21,Unknown,18.0,Branch_1,1,2025-04-21,900.0,5,180.0,Madhapur,Too crowded!!!,3.0,3.0,Veg,100,Yes,2025.0
+CUST0145,2025-01-03,F,60.0,Branch_8,8,2025-04-03,3000.0,1,600.0,Dilsukhnagar,Offer okay,3.0,4.0,Non-Veg,1000,Yes,2025.0
+CUST0146,,Unknown,18.0,Branch_1,1,,3000.0,0,0.0,Madhapur,Offer okay,1.0,5.0,Non-Veg,50,No,
+CUST0147,,F,60.0,Branch_10,10,,600.0,0,0.0,Mehdipatnam,good savings,5.0,3.0,Veg,20,No,
+CUST0148,,F,18.0,Branch_7,7,,3000.0,0,0.0,LB Nagar,Average experience,5.0,4.0,Non-Veg,1000,No,
+CUST0149,,M,30.0,Branch_9,9,,12000.0,0,0.0,Uppal,Did not use offer,3.0,1.0,Veg,20,No,
+CUST0150,2025-03-02,F,30.0,Branch_8,8,2025-05-31,600.0,1,120.0,Dilsukhnagar,Worth the price??,2.0,1.0,Veg,1000,Yes,2025.0
+CUST0151,2025-02-02,M,60.0,Branch_9,9,2025-05-03,1200.0,15,240.0,Uppal,,5.0,2.0,Non-Veg,50,Yes,2025.0
+CUST0152,2025-01-11,F,30.0,Branch_10,10,2025-04-11,12000.0,1,2400.0,Mehdipatnam,Very useful offer!!!,4.0,3.0,Non-Veg,300,Yes,2025.0
+CUST0153,2025-01-29,F,30.0,Branch_8,8,2025-04-29,600.0,5,120.0,Dilsukhnagar,Average experience,4.0,2.0,Veg,300,Yes,2025.0
+CUST0154,,Unknown,25.0,Branch_7,7,,900.0,0,0.0,LB Nagar,average,2.0,5.0,Veg,1000,No,
+CUST0155,,Unknown,18.0,Branch_8,8,,50.0,0,0.0,Dilsukhnagar,good????,5.0,1.0,Veg,0,No,
+CUST0156,2025-01-18,M,30.0,Branch_7,7,2025-04-18,1200.0,3,240.0,LB Nagar,average,4.0,3.0,Veg,50,Yes,2025.0
+CUST0157,2025-01-26,Unknown,30.0,Branch_2,2,2025-04-26,600.0,5,120.0,Gachibowli,Very useful offer!!!,3.0,1.0,Non-Veg,300,Yes,2025.0
+CUST0158,,M,45.0,Branch_3,3,,12000.0,0,0.0,Hitech City,,4.0,3.0,Veg,1000,No,
+CUST0159,,M,30.0,Branch_1,1,,900.0,0,0.0,Madhapur,Average experience,2.0,2.0,Non-Veg,300,No,
+CUST0160,,Unknown,18.0,Branch_4,4,,50.0,0,0.0,Kukatpally,Very useful offer!!!,2.0,4.0,Non-Veg,1000,No,
+CUST0161,,M,30.0,Branch_8,8,,50.0,0,0.0,Dilsukhnagar,good????,2.0,3.0,Non-Veg,0,No,
+CUST0162,,F,18.0,Branch_7,7,,300.0,0,0.0,LB Nagar,Did not use offer,3.0,1.0,Non-Veg,100,No,
+CUST0163,2025-01-25,Unknown,30.0,Branch_6,6,2025-04-25,900.0,15,50.0,Secunderabad,Offer okay,1.0,3.0,Veg,300,Yes,2025.0
+CUST0164,2025-02-19,M,60.0,Branch_3,3,2025-05-20,3000.0,5,600.0,Hitech City,Did not use offer,3.0,3.0,Veg,1000,Yes,2025.0
+CUST0165,,F,18.0,Branch_3,3,,3000.0,0,0.0,Hitech City,good????,4.0,1.0,Veg,10,No,
+CUST0166,2025-02-20,Unknown,30.0,Branch_5,5,2025-05-21,50.0,1,10.0,Ameerpet,Average experience,1.0,3.0,Veg,20,Yes,2025.0
+CUST0167,,Unknown,18.0,Branch_6,6,,12000.0,0,0.0,Secunderabad,Too crowded!!!,3.0,4.0,Non-Veg,300,No,
+CUST0168,,Unknown,30.0,Branch_3,3,,900.0,0,0.0,Hitech City,Offer okay,5.0,3.0,Veg,300,No,
+CUST0169,,F,45.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,Offer okay,1.0,1.0,Veg,300,No,
+CUST0170,,Unknown,25.0,Branch_10,10,,600.0,0,0.0,Mehdipatnam,good????,4.0,3.0,Non-Veg,0,No,
+CUST0171,,M,18.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,Loved it ,3.0,4.0,Veg,100,No,
+CUST0172,2025-03-02,M,25.0,Branch_8,8,2025-05-31,300.0,0,60.0,Dilsukhnagar,good savings,2.0,3.0,Veg,20,Yes,2025.0
+CUST0173,,F,30.0,Branch_10,10,,1200.0,0,0.0,Mehdipatnam,Offer okay,3.0,4.0,Veg,100,No,
+CUST0174,2025-02-03,F,18.0,Branch_5,5,2025-05-04,900.0,2,180.0,Ameerpet,Very useful offer!!!,3.0,2.0,Non-Veg,100,Yes,2025.0
+CUST0175,,Unknown,30.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,,5.0,3.0,Non-Veg,50,No,
+CUST0176,2025-01-08,M,60.0,Branch_8,8,2025-04-08,12000.0,1,0.0,Dilsukhnagar,Loved it ,3.0,3.0,Veg,100,Yes,2025.0
+CUST0177,,Unknown,30.0,Branch_3,3,,600.0,0,0.0,Hitech City,good savings,2.0,2.0,Veg,1000,No,
+CUST0178,,Unknown,30.0,Branch_9,9,,50.0,0,0.0,Uppal,Too crowded!!!,5.0,2.0,Non-Veg,0,No,
+CUST0179,2025-01-20,Unknown,30.0,Branch_9,9,2025-04-20,3000.0,3,600.0,Uppal,average,5.0,1.0,Veg,20,Yes,2025.0
+CUST0180,2025-01-29,F,25.0,Branch_3,3,2025-04-29,3000.0,3,600.0,Hitech City,Crowded but good,5.0,1.0,Veg,100,Yes,2025.0
+CUST0181,2025-01-20,Unknown,45.0,Branch_4,4,2025-04-20,300.0,1,60.0,Kukatpally,average,1.0,3.0,Veg,300,Yes,2025.0
+CUST0182,,M,25.0,Branch_5,5,,300.0,0,0.0,Ameerpet,Not worth it :(,5.0,2.0,Veg,300,No,
+CUST0183,,M,18.0,Branch_1,1,,12000.0,0,0.0,Madhapur,Very useful offer!!!,3.0,5.0,Veg,300,No,
+CUST0184,2025-02-19,Unknown,45.0,Branch_1,1,2025-05-20,900.0,5,180.0,Madhapur,Loved it ,3.0,4.0,Veg,1000,Yes,2025.0
+CUST0185,,M,25.0,Branch_2,2,,600.0,0,0.0,Gachibowli,Not much benefit,4.0,4.0,Non-Veg,10,No,
+CUST0186,,Unknown,60.0,Branch_6,6,,1200.0,0,0.0,Secunderabad,Crowded but good,2.0,3.0,Non-Veg,100,No,
+CUST0187,2025-01-21,F,25.0,Branch_8,8,2025-04-21,900.0,1,180.0,Dilsukhnagar,good savings,1.0,3.0,Non-Veg,1000,Yes,2025.0
+CUST0188,,Unknown,30.0,Branch_6,6,,300.0,0,0.0,Secunderabad,Too crowded!!!,2.0,4.0,Non-Veg,50,No,
+CUST0189,,M,30.0,Branch_1,1,,600.0,0,0.0,Madhapur,Did not use offer,4.0,2.0,Veg,100,No,
+CUST0190,,Unknown,30.0,Branch_5,5,,50.0,0,0.0,Ameerpet,Average experience,5.0,1.0,Veg,50,No,
+CUST0191,2025-02-26,Unknown,30.0,Branch_7,7,2025-05-27,3000.0,2,600.0,LB Nagar,Crowded but good,1.0,5.0,Non-Veg,10,Yes,2025.0
+CUST0192,,Unknown,30.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,Too crowded!!!,5.0,3.0,Non-Veg,300,No,
+CUST0193,2025-01-09,Unknown,25.0,Branch_6,6,2025-04-09,900.0,0,180.0,Secunderabad,,5.0,5.0,Non-Veg,100,Yes,2025.0
+CUST0194,2025-01-03,Unknown,25.0,Branch_8,8,2025-04-03,300.0,0,60.0,Dilsukhnagar,Not worth it :(,5.0,2.0,Veg,100,Yes,2025.0
+CUST0195,,Unknown,60.0,Branch_10,10,,300.0,0,0.0,Mehdipatnam,Did not use offer,5.0,5.0,Non-Veg,300,No,
+CUST0196,,Unknown,18.0,Branch_6,6,,900.0,0,0.0,Secunderabad,Crowded but good,5.0,3.0,Non-Veg,1000,No,
+CUST0197,2025-02-08,F,30.0,Branch_10,10,2025-05-09,600.0,3,120.0,Mehdipatnam,Not worth it :(,4.0,2.0,Non-Veg,300,Yes,2025.0
+CUST0198,,M,18.0,Branch_4,4,,300.0,0,0.0,Kukatpally,,1.0,4.0,Veg,50,No,
+CUST0199,2025-01-27,Unknown,30.0,Branch_10,10,2025-04-27,300.0,10,60.0,Mehdipatnam,good????,2.0,5.0,Veg,100,Yes,2025.0
+CUST0200,,Unknown,60.0,Branch_9,9,,3000.0,0,0.0,Uppal,Worth the price??,4.0,5.0,Veg,100,No,
+CUST0201,,Unknown,30.0,Branch_5,5,,3000.0,0,0.0,Ameerpet,,3.0,5.0,Veg,10,No,
+CUST0202,,Unknown,60.0,Branch_4,4,,12000.0,0,0.0,Kukatpally,Not much benefit,3.0,5.0,Non-Veg,20,No,
+CUST0203,,Unknown,30.0,Branch_9,9,,50.0,0,0.0,Uppal,average,3.0,2.0,Veg,0,No,
+CUST0204,,Unknown,45.0,Branch_6,6,,3000.0,0,0.0,Secunderabad,good????,4.0,2.0,Veg,1000,No,
+CUST0205,,F,18.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,Not worth it :(,3.0,5.0,Veg,10,No,
+CUST0206,2025-02-12,M,30.0,Branch_1,1,2025-05-13,300.0,5,60.0,Madhapur,Offer okay,3.0,4.0,Veg,300,Yes,2025.0
+CUST0207,2025-01-01,Unknown,30.0,Branch_8,8,2025-04-01,300.0,5,60.0,Dilsukhnagar,Too crowded!!!,3.0,3.0,Veg,300,Yes,2025.0
+CUST0208,2025-02-28,M,25.0,Branch_4,4,2025-05-29,50.0,15,10.0,Kukatpally,Crowded but good,2.0,1.0,Non-Veg,1000,Yes,2025.0
+CUST0209,,M,30.0,Branch_5,5,,300.0,0,0.0,Ameerpet,Average experience,5.0,5.0,Veg,20,No,
+CUST0210,,Unknown,25.0,Branch_9,9,,900.0,0,0.0,Uppal,average,5.0,4.0,Veg,10,No,
+CUST0211,2025-01-22,F,30.0,Branch_5,5,2025-04-22,3000.0,1,600.0,Ameerpet,good????,3.0,3.0,Non-Veg,300,Yes,2025.0
+CUST0212,2025-01-12,Unknown,60.0,Branch_7,7,2025-04-12,12000.0,5,2400.0,LB Nagar,good savings,4.0,3.0,Veg,10,Yes,2025.0
+CUST0213,2025-01-31,Unknown,45.0,Branch_4,4,2025-05-01,300.0,2,50.0,Kukatpally,Offer okay,3.0,5.0,Non-Veg,100,Yes,2025.0
+CUST0214,2025-01-17,M,30.0,Branch_1,1,2025-04-17,600.0,10,120.0,Madhapur,Average experience,2.0,4.0,Non-Veg,100,Yes,2025.0
+CUST0215,,Unknown,30.0,Branch_5,5,,3000.0,0,0.0,Ameerpet,,2.0,4.0,Veg,50,No,
+CUST0216,,Unknown,30.0,Branch_9,9,,900.0,0,0.0,Uppal,Too crowded!!!,2.0,3.0,Non-Veg,1000,No,
+CUST0217,2025-02-03,M,30.0,Branch_2,2,2025-05-04,1200.0,3,240.0,Gachibowli,average,5.0,5.0,Veg,100,Yes,2025.0
+CUST0218,2025-01-11,F,30.0,Branch_2,2,2025-04-11,12000.0,2,2400.0,Gachibowli,good savings,5.0,4.0,Veg,50,Yes,2025.0
+CUST0219,2025-02-02,Unknown,45.0,Branch_9,9,2025-05-03,900.0,3,180.0,Uppal,good????,1.0,4.0,Veg,1000,Yes,2025.0
+CUST0220,2025-02-17,M,30.0,Branch_6,6,2025-05-18,1200.0,1,50.0,Secunderabad,,1.0,4.0,Veg,20,Yes,2025.0
+CUST0221,,Unknown,30.0,Branch_7,7,,300.0,0,0.0,LB Nagar,Not much benefit,4.0,4.0,Veg,300,No,
+CUST0222,2025-02-11,Unknown,25.0,Branch_9,9,2025-05-12,600.0,15,120.0,Uppal,good????,2.0,1.0,Veg,20,Yes,2025.0
+CUST0223,,Unknown,30.0,Branch_9,9,,3000.0,0,0.0,Uppal,average,2.0,2.0,Non-Veg,20,No,
+CUST0224,2025-01-18,Unknown,30.0,Branch_1,1,2025-04-18,3000.0,1,600.0,Madhapur,,2.0,1.0,Veg,100,Yes,2025.0
+CUST0225,2025-01-29,F,30.0,Branch_1,1,2025-04-29,3000.0,5,600.0,Madhapur,Crowded but good,4.0,2.0,Non-Veg,10,Yes,2025.0
+CUST0226,2025-01-09,Unknown,60.0,Branch_10,10,2025-04-09,600.0,5,120.0,Mehdipatnam,,3.0,2.0,Non-Veg,100,Yes,2025.0
+CUST0227,2025-01-27,Unknown,30.0,Branch_3,3,2025-04-27,600.0,2,100.0,Hitech City,Very useful offer!!!,3.0,3.0,Non-Veg,50,Yes,2025.0
+CUST0228,,F,45.0,Branch_7,7,,3000.0,0,0.0,LB Nagar,Crowded but good,2.0,5.0,Non-Veg,10,No,
+CUST0229,2025-01-20,M,30.0,Branch_8,8,2025-04-20,3000.0,15,600.0,Dilsukhnagar,Crowded but good,5.0,5.0,Veg,50,Yes,2025.0
+CUST0230,2025-01-17,Unknown,18.0,Branch_8,8,2025-04-17,600.0,1,120.0,Dilsukhnagar,Did not use offer,3.0,2.0,Veg,20,Yes,2025.0
+CUST0231,,M,18.0,Branch_10,10,,3000.0,0,0.0,Mehdipatnam,,5.0,3.0,Non-Veg,100,No,
+CUST0232,2025-01-31,M,30.0,Branch_5,5,2025-05-01,12000.0,1,2400.0,Ameerpet,,2.0,3.0,Veg,300,Yes,2025.0
+CUST0233,,F,30.0,Branch_10,10,,300.0,0,0.0,Mehdipatnam,,2.0,5.0,Veg,1000,No,
+CUST0234,,Unknown,45.0,Branch_9,9,,900.0,0,0.0,Uppal,Average experience,3.0,5.0,Non-Veg,50,No,
+CUST0235,2025-02-21,F,60.0,Branch_6,6,2025-05-22,900.0,10,180.0,Secunderabad,Offer okay,4.0,1.0,Non-Veg,1000,Yes,2025.0
+CUST0236,2025-02-17,Unknown,45.0,Branch_10,10,2025-05-18,50.0,1,10.0,Mehdipatnam,Worth the price??,2.0,3.0,Veg,50,Yes,2025.0
+CUST0237,2025-02-01,Unknown,30.0,Branch_6,6,2025-05-02,3000.0,5,600.0,Secunderabad,good????,3.0,3.0,Non-Veg,50,Yes,2025.0
+CUST0238,2025-02-16,Unknown,25.0,Branch_9,9,2025-05-17,600.0,15,120.0,Uppal,,5.0,3.0,Veg,100,Yes,2025.0
+CUST0239,2025-02-23,M,30.0,Branch_1,1,2025-05-24,50.0,15,10.0,Madhapur,Worth the price??,3.0,2.0,Veg,300,Yes,2025.0
+CUST0240,2025-01-01,Unknown,30.0,Branch_1,1,2025-04-01,1200.0,1,240.0,Madhapur,Very useful offer!!!,1.0,5.0,Non-Veg,50,Yes,2025.0
+CUST0241,2025-01-02,M,30.0,Branch_5,5,2025-04-02,3000.0,5,600.0,Ameerpet,Too crowded!!!,2.0,1.0,Veg,100,Yes,2025.0
+CUST0242,2025-01-16,Unknown,30.0,Branch_6,6,2025-04-16,1200.0,1,240.0,Secunderabad,good savings,3.0,4.0,Non-Veg,100,Yes,2025.0
+CUST0243,2025-02-14,M,18.0,Branch_2,2,2025-05-15,600.0,1,120.0,Gachibowli,Crowded but good,4.0,4.0,Non-Veg,50,Yes,2025.0
+CUST0244,2025-02-10,Unknown,60.0,Branch_8,8,2025-05-11,3000.0,0,600.0,Dilsukhnagar,Not worth it :(,1.0,5.0,Veg,10,Yes,2025.0
+CUST0245,2025-02-27,Unknown,30.0,Branch_8,8,2025-05-28,3000.0,15,600.0,Dilsukhnagar,,1.0,3.0,Veg,100,Yes,2025.0
+CUST0246,2025-01-12,F,30.0,Branch_10,10,2025-04-12,600.0,15,0.0,Mehdipatnam,,1.0,3.0,Veg,100,Yes,2025.0
+CUST0247,2025-02-06,Unknown,30.0,Branch_9,9,2025-05-07,12000.0,15,2400.0,Uppal,Too crowded!!!,3.0,2.0,Non-Veg,300,Yes,2025.0
+CUST0248,2025-02-02,M,60.0,Branch_4,4,2025-05-03,600.0,10,50.0,Kukatpally,Not worth it :(,5.0,5.0,Non-Veg,1000,Yes,2025.0
+CUST0249,,Unknown,30.0,Branch_5,5,,50.0,0,0.0,Ameerpet,,3.0,5.0,Non-Veg,50,No,
+CUST0250,2025-02-13,Unknown,30.0,Branch_10,10,2025-05-14,3000.0,5,600.0,Mehdipatnam,good????,1.0,1.0,Veg,10,Yes,2025.0
+CUST0251,,Unknown,60.0,Branch_3,3,,3000.0,0,0.0,Hitech City,Offer okay,1.0,1.0,Veg,20,No,
+CUST0252,,F,18.0,Branch_2,2,,600.0,0,0.0,Gachibowli,Worth the price??,4.0,4.0,Non-Veg,100,No,
+CUST0253,,Unknown,18.0,Branch_2,2,,50.0,0,0.0,Gachibowli,Not worth it :(,5.0,3.0,Non-Veg,0,No,
+CUST0254,,F,25.0,Branch_2,2,,900.0,0,0.0,Gachibowli,Loved it ,4.0,2.0,Veg,20,No,
+CUST0255,,M,25.0,Branch_3,3,,600.0,0,0.0,Hitech City,Crowded but good,3.0,4.0,Veg,50,No,
+CUST0256,2025-01-24,F,30.0,Branch_8,8,2025-04-24,300.0,2,60.0,Dilsukhnagar,good savings,2.0,3.0,Veg,50,Yes,2025.0
+CUST0257,,Unknown,30.0,Branch_7,7,,12000.0,0,0.0,LB Nagar,Offer okay,4.0,3.0,Non-Veg,10,No,
+CUST0258,,Unknown,60.0,Branch_4,4,,600.0,0,0.0,Kukatpally,Worth the price??,4.0,3.0,Veg,300,No,
+CUST0259,,Unknown,45.0,Branch_6,6,,1200.0,0,0.0,Secunderabad,average,4.0,3.0,Veg,100,No,
+CUST0260,2025-02-07,M,30.0,Branch_9,9,2025-05-08,300.0,5,60.0,Uppal,good????,2.0,4.0,Veg,1000,Yes,2025.0
+CUST0261,2025-02-22,F,45.0,Branch_8,8,2025-05-23,12000.0,15,2400.0,Dilsukhnagar,,3.0,3.0,Veg,300,Yes,2025.0
+CUST0262,,Unknown,30.0,Branch_2,2,,12000.0,0,0.0,Gachibowli,Not worth it :(,4.0,5.0,Non-Veg,1000,No,
+CUST0263,,M,18.0,Branch_6,6,,1200.0,0,0.0,Secunderabad,Too crowded!!!,2.0,3.0,Non-Veg,20,No,
+CUST0264,2025-02-11,Unknown,30.0,Branch_7,7,2025-05-12,50.0,5,10.0,LB Nagar,good savings,1.0,1.0,Veg,10,Yes,2025.0
+CUST0265,2025-01-29,F,60.0,Branch_10,10,2025-04-29,900.0,2,180.0,Mehdipatnam,Very useful offer!!!,4.0,1.0,Veg,50,Yes,2025.0
+CUST0266,2025-01-08,Unknown,30.0,Branch_5,5,2025-04-08,3000.0,15,600.0,Ameerpet,Too crowded!!!,2.0,5.0,Non-Veg,20,Yes,2025.0
+CUST0267,,Unknown,18.0,Branch_8,8,,50.0,0,0.0,Dilsukhnagar,Average experience,1.0,3.0,Veg,0,No,
+CUST0268,,F,25.0,Branch_3,3,,3000.0,0,0.0,Hitech City,Did not use offer,2.0,3.0,Non-Veg,50,No,
+CUST0269,,F,30.0,Branch_3,3,,300.0,0,0.0,Hitech City,Crowded but good,1.0,3.0,Non-Veg,10,No,
+CUST0270,,M,30.0,Branch_7,7,,1200.0,0,0.0,LB Nagar,,3.0,3.0,Veg,100,No,
+CUST0271,2025-02-21,F,30.0,Branch_6,6,2025-05-22,1200.0,15,240.0,Secunderabad,good savings,3.0,3.0,Non-Veg,100,Yes,2025.0
+CUST0272,,Unknown,18.0,Branch_10,10,,1200.0,0,0.0,Mehdipatnam,Offer okay,3.0,4.0,Non-Veg,10,No,
+CUST0273,,F,60.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,good savings,2.0,3.0,Veg,10,No,
+CUST0274,,Unknown,30.0,Branch_9,9,,3000.0,0,0.0,Uppal,Not worth it :(,2.0,5.0,Non-Veg,50,No,
+CUST0275,2025-02-01,F,30.0,Branch_3,3,2025-05-02,1200.0,10,240.0,Hitech City,Average experience,2.0,2.0,Veg,1000,Yes,2025.0
+CUST0276,,M,30.0,Branch_6,6,,1200.0,0,0.0,Secunderabad,Worth the price??,2.0,4.0,Non-Veg,100,No,
+CUST0277,,Unknown,30.0,Branch_8,8,,900.0,0,0.0,Dilsukhnagar,Not much benefit,2.0,1.0,Non-Veg,0,No,
+CUST0278,2025-01-19,F,30.0,Branch_5,5,2025-04-19,600.0,0,120.0,Ameerpet,Not worth it :(,3.0,4.0,Non-Veg,100,Yes,2025.0
+CUST0279,2025-02-06,M,30.0,Branch_6,6,2025-05-07,600.0,0,120.0,Secunderabad,Did not use offer,2.0,4.0,Veg,300,Yes,2025.0
+CUST0280,2025-01-20,M,30.0,Branch_6,6,2025-04-20,50.0,15,10.0,Secunderabad,average,1.0,2.0,Veg,1000,Yes,2025.0
+CUST0281,,Unknown,25.0,Branch_10,10,,12000.0,0,0.0,Mehdipatnam,Not worth it :(,2.0,2.0,Veg,1000,No,
+CUST0282,2025-02-06,F,60.0,Branch_9,9,2025-05-07,1200.0,2,240.0,Uppal,good????,3.0,3.0,Non-Veg,20,Yes,2025.0
+CUST0283,2025-01-09,Unknown,25.0,Branch_1,1,2025-04-09,12000.0,15,2400.0,Madhapur,good????,2.0,2.0,Veg,300,Yes,2025.0
+CUST0284,,Unknown,25.0,Branch_7,7,,12000.0,0,0.0,LB Nagar,Not worth it :(,3.0,3.0,Non-Veg,50,No,
+CUST0285,,Unknown,45.0,Branch_2,2,,900.0,0,0.0,Gachibowli,good????,3.0,4.0,Non-Veg,20,No,
+CUST0286,2025-02-25,Unknown,18.0,Branch_8,8,2025-05-26,12000.0,15,2400.0,Dilsukhnagar,Too crowded!!!,5.0,4.0,Veg,50,Yes,2025.0
+CUST0287,2025-02-01,F,30.0,Branch_6,6,2025-05-02,600.0,2,120.0,Secunderabad,Too crowded!!!,3.0,3.0,Veg,0,Yes,2025.0
+CUST0288,2025-02-10,F,30.0,Branch_2,2,2025-05-11,12000.0,15,2400.0,Gachibowli,Not much benefit,1.0,4.0,Veg,300,Yes,2025.0
+CUST0289,2025-02-26,M,60.0,Branch_5,5,2025-05-27,600.0,10,120.0,Ameerpet,Average experience,1.0,3.0,Non-Veg,300,Yes,2025.0
+CUST0290,2025-01-04,Unknown,18.0,Branch_4,4,2025-04-04,3000.0,3,600.0,Kukatpally,good????,1.0,1.0,Veg,50,Yes,2025.0
+CUST0291,2025-01-09,M,30.0,Branch_8,8,2025-04-09,300.0,5,60.0,Dilsukhnagar,good????,3.0,1.0,Non-Veg,300,Yes,2025.0
+CUST0292,2025-01-31,M,60.0,Branch_2,2,2025-05-01,300.0,0,60.0,Gachibowli,Offer okay,3.0,2.0,Non-Veg,1000,Yes,2025.0
+CUST0293,2025-02-11,F,30.0,Branch_1,1,2025-05-12,300.0,10,60.0,Madhapur,Offer okay,3.0,2.0,Non-Veg,300,Yes,2025.0
+CUST0294,2025-02-28,M,18.0,Branch_4,4,2025-05-29,1200.0,3,240.0,Kukatpally,Worth the price??,1.0,5.0,Non-Veg,50,Yes,2025.0
+CUST0295,,F,45.0,Branch_3,3,,900.0,0,0.0,Hitech City,Loved it ,1.0,2.0,Non-Veg,100,No,
+CUST0296,,Unknown,30.0,Branch_1,1,,12000.0,0,0.0,Madhapur,Did not use offer,5.0,5.0,Veg,300,No,
+CUST0297,,F,30.0,Branch_1,1,,600.0,0,0.0,Madhapur,Crowded but good,1.0,2.0,Non-Veg,300,No,
+CUST0298,2025-02-03,Unknown,30.0,Branch_3,3,2025-05-04,600.0,0,120.0,Hitech City,Offer okay,5.0,3.0,Veg,1000,Yes,2025.0
+CUST0299,,M,30.0,Branch_1,1,,12000.0,0,0.0,Madhapur,Average experience,2.0,1.0,Veg,1000,No,
+CUST0300,,Unknown,30.0,Branch_9,9,,1200.0,0,0.0,Uppal,good????,4.0,1.0,Non-Veg,100,No,
+CUST0301,2025-01-18,Unknown,30.0,Branch_3,3,2025-04-18,600.0,0,0.0,Hitech City,Not worth it :(,3.0,3.0,Non-Veg,300,Yes,2025.0
+CUST0302,2025-01-20,M,30.0,Branch_4,4,2025-04-20,900.0,10,180.0,Kukatpally,good savings,4.0,1.0,Non-Veg,100,Yes,2025.0
+CUST0303,2025-01-20,M,30.0,Branch_3,3,2025-04-20,3000.0,10,600.0,Hitech City,good????,2.0,3.0,Veg,10,Yes,2025.0
+CUST0304,,Unknown,25.0,Branch_9,9,,600.0,0,0.0,Uppal,Offer okay,2.0,3.0,Veg,300,No,
+CUST0305,2025-02-19,M,45.0,Branch_5,5,2025-05-20,600.0,0,120.0,Ameerpet,good????,5.0,3.0,Veg,50,Yes,2025.0
+CUST0306,,Unknown,25.0,Branch_1,1,,1200.0,0,0.0,Madhapur,Offer okay,2.0,3.0,Veg,100,No,
+CUST0307,2025-01-15,M,30.0,Branch_4,4,2025-04-15,1200.0,10,0.0,Kukatpally,Offer okay,4.0,2.0,Veg,1000,Yes,2025.0
+CUST0308,2025-02-05,F,60.0,Branch_7,7,2025-05-06,3000.0,15,600.0,LB Nagar,,4.0,3.0,Veg,20,Yes,2025.0
+CUST0309,2025-02-06,F,30.0,Branch_1,1,2025-05-07,50.0,2,10.0,Madhapur,Too crowded!!!,5.0,1.0,Non-Veg,0,Yes,2025.0
+CUST0310,,Unknown,18.0,Branch_5,5,,12000.0,0,0.0,Ameerpet,Did not use offer,4.0,1.0,Veg,10,No,
+CUST0311,,F,30.0,Branch_10,10,,1200.0,0,0.0,Mehdipatnam,Offer okay,5.0,4.0,Veg,300,No,
+CUST0312,2025-01-10,M,60.0,Branch_6,6,2025-04-10,900.0,0,100.0,Secunderabad,Very useful offer!!!,3.0,4.0,Non-Veg,300,Yes,2025.0
+CUST0313,,F,30.0,Branch_9,9,,50.0,0,0.0,Uppal,Not much benefit,1.0,2.0,Non-Veg,20,No,
+CUST0314,2025-01-03,Unknown,18.0,Branch_6,6,2025-04-03,12000.0,1,2400.0,Secunderabad,Not worth it :(,1.0,5.0,Veg,300,Yes,2025.0
+CUST0315,,M,30.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,Loved it ,2.0,2.0,Veg,20,No,
+CUST0316,,Unknown,30.0,Branch_6,6,,12000.0,0,0.0,Secunderabad,Average experience,2.0,1.0,Veg,10,No,
+CUST0317,2025-01-10,Unknown,18.0,Branch_6,6,2025-04-10,300.0,0,60.0,Secunderabad,Did not use offer,3.0,2.0,Non-Veg,20,Yes,2025.0
+CUST0318,,F,45.0,Branch_2,2,,600.0,0,0.0,Gachibowli,average,3.0,3.0,Non-Veg,0,No,
+CUST0319,2025-02-23,Unknown,30.0,Branch_4,4,2025-05-24,600.0,15,120.0,Kukatpally,Did not use offer,1.0,3.0,Veg,20,Yes,2025.0
+CUST0320,2025-01-02,F,18.0,Branch_9,9,2025-04-02,12000.0,3,2400.0,Uppal,Not much benefit,1.0,2.0,Veg,0,Yes,2025.0
+CUST0321,2025-02-23,Unknown,18.0,Branch_7,7,2025-05-24,300.0,15,60.0,LB Nagar,Not worth it :(,5.0,3.0,Veg,0,Yes,2025.0
+CUST0322,2025-01-13,Unknown,18.0,Branch_2,2,2025-04-13,900.0,10,180.0,Gachibowli,Very useful offer!!!,4.0,1.0,Veg,100,Yes,2025.0
+CUST0323,,Unknown,30.0,Branch_7,7,,12000.0,0,0.0,LB Nagar,Crowded but good,3.0,4.0,Veg,20,No,
+CUST0324,2025-02-28,M,30.0,Branch_3,3,2025-05-29,600.0,1,120.0,Hitech City,Loved it ,3.0,4.0,Non-Veg,100,Yes,2025.0
+CUST0325,,Unknown,25.0,Branch_5,5,,50.0,0,0.0,Ameerpet,Crowded but good,2.0,3.0,Non-Veg,10,No,
+CUST0326,2025-01-25,Unknown,60.0,Branch_9,9,2025-04-25,3000.0,15,600.0,Uppal,,5.0,5.0,Veg,50,Yes,2025.0
+CUST0327,,F,30.0,Branch_6,6,,300.0,0,0.0,Secunderabad,,3.0,1.0,Non-Veg,100,No,
+CUST0328,,F,18.0,Branch_4,4,,12000.0,0,0.0,Kukatpally,,3.0,2.0,Veg,100,No,
+CUST0329,2025-02-18,Unknown,25.0,Branch_7,7,2025-05-19,1200.0,1,240.0,LB Nagar,Worth the price??,2.0,5.0,Veg,1000,Yes,2025.0
+CUST0330,,F,30.0,Branch_6,6,,1200.0,0,0.0,Secunderabad,average,4.0,5.0,Veg,10,No,
+CUST0331,,F,30.0,Branch_1,1,,50.0,0,0.0,Madhapur,Very useful offer!!!,5.0,4.0,Veg,20,No,
+CUST0332,2025-02-21,M,30.0,Branch_6,6,2025-05-22,600.0,1,120.0,Secunderabad,Worth the price??,5.0,3.0,Veg,1000,Yes,2025.0
+CUST0333,2025-02-24,Unknown,30.0,Branch_2,2,2025-05-25,12000.0,5,2400.0,Gachibowli,Not worth it :(,1.0,3.0,Veg,20,Yes,2025.0
+CUST0334,2025-01-11,Unknown,25.0,Branch_8,8,2025-04-11,900.0,10,180.0,Dilsukhnagar,good????,5.0,3.0,Non-Veg,1000,Yes,2025.0
+CUST0335,,F,30.0,Branch_10,10,,300.0,0,0.0,Mehdipatnam,Average experience,3.0,3.0,Veg,10,No,
+CUST0336,2025-02-16,M,25.0,Branch_7,7,2025-05-17,3000.0,0,600.0,LB Nagar,Not worth it :(,3.0,5.0,Veg,300,Yes,2025.0
+CUST0337,2025-03-01,F,60.0,Branch_2,2,2025-05-30,300.0,3,60.0,Gachibowli,Offer okay,2.0,3.0,Veg,1000,Yes,2025.0
+CUST0338,,F,30.0,Branch_5,5,,900.0,0,0.0,Ameerpet,good????,1.0,3.0,Veg,1000,No,
+CUST0339,2025-02-16,F,30.0,Branch_7,7,2025-05-17,50.0,0,10.0,LB Nagar,Not much benefit,4.0,3.0,Non-Veg,50,Yes,2025.0
+CUST0340,2025-02-23,F,30.0,Branch_4,4,2025-05-24,12000.0,3,2400.0,Kukatpally,good savings,1.0,3.0,Veg,20,Yes,2025.0
+CUST0341,,F,30.0,Branch_6,6,,50.0,0,0.0,Secunderabad,Worth the price??,3.0,1.0,Non-Veg,0,No,
+CUST0342,,M,30.0,Branch_8,8,,1200.0,0,0.0,Dilsukhnagar,Loved it ,2.0,5.0,Non-Veg,10,No,
+CUST0343,2025-01-07,Unknown,45.0,Branch_7,7,2025-04-07,300.0,2,60.0,LB Nagar,Average experience,2.0,1.0,Veg,50,Yes,2025.0
+CUST0344,,M,30.0,Branch_6,6,,300.0,0,0.0,Secunderabad,good savings,3.0,3.0,Non-Veg,100,No,
+CUST0345,,F,25.0,Branch_1,1,,300.0,0,0.0,Madhapur,Loved it ,3.0,1.0,Non-Veg,1000,No,
+CUST0346,2025-01-20,M,30.0,Branch_5,5,2025-04-20,900.0,15,180.0,Ameerpet,Worth the price??,3.0,4.0,Veg,10,Yes,2025.0
+CUST0347,,Unknown,45.0,Branch_8,8,,50.0,0,0.0,Dilsukhnagar,,3.0,5.0,Veg,10,No,
+CUST0348,2025-01-06,F,30.0,Branch_7,7,2025-04-06,600.0,10,120.0,LB Nagar,average,4.0,5.0,Non-Veg,100,Yes,2025.0
+CUST0349,,Unknown,18.0,Branch_8,8,,1200.0,0,0.0,Dilsukhnagar,Crowded but good,3.0,1.0,Non-Veg,100,No,
+CUST0350,2025-01-08,F,30.0,Branch_3,3,2025-04-08,900.0,15,180.0,Hitech City,Worth the price??,1.0,4.0,Veg,300,Yes,2025.0
+CUST0351,,Unknown,60.0,Branch_3,3,,300.0,0,0.0,Hitech City,,3.0,1.0,Veg,50,No,
+CUST0352,,Unknown,30.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,Too crowded!!!,3.0,5.0,Non-Veg,100,No,
+CUST0353,,F,18.0,Branch_3,3,,50.0,0,0.0,Hitech City,,1.0,5.0,Veg,1000,No,
+CUST0354,,Unknown,45.0,Branch_6,6,,12000.0,0,0.0,Secunderabad,Crowded but good,3.0,4.0,Non-Veg,100,No,
+CUST0355,,Unknown,25.0,Branch_5,5,,50.0,0,0.0,Ameerpet,Not worth it :(,5.0,3.0,Non-Veg,50,No,
+CUST0356,2025-01-26,Unknown,60.0,Branch_8,8,2025-04-26,3000.0,2,600.0,Dilsukhnagar,Very useful offer!!!,3.0,3.0,Veg,20,Yes,2025.0
+CUST0357,,F,25.0,Branch_2,2,,12000.0,0,0.0,Gachibowli,Average experience,3.0,4.0,Veg,20,No,
+CUST0358,,F,30.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,,4.0,3.0,Non-Veg,1000,No,
+CUST0359,,F,18.0,Branch_9,9,,12000.0,0,0.0,Uppal,Average experience,3.0,5.0,Non-Veg,10,No,
+CUST0360,2025-01-12,F,30.0,Branch_1,1,2025-04-12,12000.0,1,2400.0,Madhapur,Not much benefit,1.0,3.0,Non-Veg,10,Yes,2025.0
+CUST0361,,Unknown,18.0,Branch_9,9,,600.0,0,0.0,Uppal,Loved it ,1.0,2.0,Veg,50,No,
+CUST0362,,Unknown,60.0,Branch_10,10,,300.0,0,0.0,Mehdipatnam,Worth the price??,3.0,3.0,Non-Veg,0,No,
+CUST0363,,F,30.0,Branch_1,1,,50.0,0,0.0,Madhapur,average,2.0,3.0,Veg,300,No,
+CUST0364,2025-01-18,Unknown,25.0,Branch_1,1,2025-04-18,900.0,10,180.0,Madhapur,Loved it ,2.0,5.0,Veg,10,Yes,2025.0
+CUST0365,,Unknown,30.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,average,3.0,4.0,Veg,10,No,
+CUST0366,,Unknown,18.0,Branch_9,9,,600.0,0,0.0,Uppal,Very useful offer!!!,5.0,3.0,Veg,100,No,
+CUST0367,,Unknown,18.0,Branch_2,2,,600.0,0,0.0,Gachibowli,Offer okay,3.0,3.0,Veg,1000,No,
+CUST0368,,F,25.0,Branch_5,5,,600.0,0,0.0,Ameerpet,Did not use offer,2.0,1.0,Non-Veg,50,No,
+CUST0369,,Unknown,45.0,Branch_1,1,,3000.0,0,0.0,Madhapur,Average experience,4.0,4.0,Non-Veg,300,No,
+CUST0370,2025-02-07,F,30.0,Branch_6,6,2025-05-08,1200.0,10,240.0,Secunderabad,,3.0,3.0,Non-Veg,20,Yes,2025.0
+CUST0371,2025-02-23,Unknown,25.0,Branch_2,2,2025-05-24,1200.0,10,240.0,Gachibowli,good????,3.0,3.0,Non-Veg,1000,Yes,2025.0
+CUST0372,2025-03-02,Unknown,30.0,Branch_4,4,2025-05-31,600.0,10,120.0,Kukatpally,good????,3.0,4.0,Veg,20,Yes,2025.0
+CUST0373,,M,30.0,Branch_8,8,,1200.0,0,0.0,Dilsukhnagar,Very useful offer!!!,3.0,5.0,Non-Veg,100,No,
+CUST0374,2025-01-31,Unknown,30.0,Branch_7,7,2025-05-01,1200.0,1,240.0,LB Nagar,Very useful offer!!!,2.0,2.0,Veg,20,Yes,2025.0
+CUST0375,,Unknown,25.0,Branch_3,3,,1200.0,0,0.0,Hitech City,Too crowded!!!,1.0,4.0,Veg,300,No,
+CUST0376,2025-01-21,F,25.0,Branch_4,4,2025-04-21,50.0,10,10.0,Kukatpally,Not much benefit,1.0,2.0,Non-Veg,50,Yes,2025.0
+CUST0377,,Unknown,30.0,Branch_8,8,,900.0,0,0.0,Dilsukhnagar,Very useful offer!!!,5.0,2.0,Non-Veg,20,No,
+CUST0378,2025-02-27,M,30.0,Branch_4,4,2025-05-28,12000.0,2,2400.0,Kukatpally,Loved it ,3.0,2.0,Veg,300,Yes,2025.0
+CUST0379,,Unknown,45.0,Branch_2,2,,600.0,0,0.0,Gachibowli,Worth the price??,1.0,1.0,Veg,20,No,
+CUST0380,,Unknown,30.0,Branch_10,10,,3000.0,0,0.0,Mehdipatnam,,3.0,2.0,Veg,50,No,
+CUST0381,,Unknown,30.0,Branch_3,3,,12000.0,0,0.0,Hitech City,,2.0,3.0,Veg,10,No,
+CUST0382,2025-02-07,Unknown,45.0,Branch_1,1,2025-05-08,300.0,5,60.0,Madhapur,Too crowded!!!,5.0,5.0,Veg,100,Yes,2025.0
+CUST0383,2025-02-12,M,30.0,Branch_1,1,2025-05-13,3000.0,0,600.0,Madhapur,Not much benefit,4.0,1.0,Non-Veg,20,Yes,2025.0
+CUST0384,,M,45.0,Branch_4,4,,3000.0,0,0.0,Kukatpally,Crowded but good,3.0,1.0,Non-Veg,100,No,
+CUST0385,,Unknown,18.0,Branch_3,3,,1200.0,0,0.0,Hitech City,Did not use offer,3.0,5.0,Veg,20,No,
+CUST0386,2025-02-20,Unknown,30.0,Branch_4,4,2025-05-21,900.0,0,180.0,Kukatpally,Offer okay,3.0,4.0,Veg,10,Yes,2025.0
+CUST0387,2025-02-05,Unknown,30.0,Branch_8,8,2025-05-06,300.0,3,60.0,Dilsukhnagar,Very useful offer!!!,1.0,3.0,Veg,0,Yes,2025.0
+CUST0388,,M,18.0,Branch_9,9,,300.0,0,0.0,Uppal,,3.0,3.0,Veg,50,No,
+CUST0389,,M,25.0,Branch_1,1,,600.0,0,0.0,Madhapur,average,1.0,3.0,Veg,1000,No,
+CUST0390,,M,30.0,Branch_2,2,,900.0,0,0.0,Gachibowli,Very useful offer!!!,2.0,3.0,Non-Veg,10,No,
+CUST0391,,Unknown,18.0,Branch_10,10,,600.0,0,0.0,Mehdipatnam,Offer okay,3.0,2.0,Veg,50,No,
+CUST0392,,Unknown,30.0,Branch_7,7,,900.0,0,0.0,LB Nagar,Loved it ,2.0,1.0,Veg,300,No,
+CUST0393,2025-03-02,Unknown,30.0,Branch_10,10,2025-05-31,300.0,15,60.0,Mehdipatnam,Worth the price??,5.0,4.0,Veg,100,Yes,2025.0
+CUST0394,2025-02-25,Unknown,30.0,Branch_3,3,2025-05-26,12000.0,10,2400.0,Hitech City,good savings,4.0,4.0,Veg,0,Yes,2025.0
+CUST0395,,F,60.0,Branch_1,1,,3000.0,0,0.0,Madhapur,Did not use offer,5.0,3.0,Non-Veg,100,No,
+CUST0396,2025-01-28,Unknown,25.0,Branch_6,6,2025-04-28,3000.0,10,600.0,Secunderabad,average,5.0,5.0,Veg,0,Yes,2025.0
+CUST0397,2025-02-02,M,30.0,Branch_3,3,2025-05-03,900.0,15,180.0,Hitech City,Offer okay,2.0,3.0,Veg,0,Yes,2025.0
+CUST0398,2025-02-05,M,30.0,Branch_4,4,2025-05-06,900.0,10,180.0,Kukatpally,Not much benefit,5.0,4.0,Veg,1000,Yes,2025.0
+CUST0399,,Unknown,30.0,Branch_2,2,,900.0,0,0.0,Gachibowli,good savings,4.0,4.0,Veg,100,No,
+CUST0400,2025-02-22,Unknown,30.0,Branch_10,10,2025-05-23,12000.0,0,2400.0,Mehdipatnam,Loved it ,3.0,4.0,Veg,20,Yes,2025.0
+CUST0401,2025-02-22,Unknown,60.0,Branch_9,9,2025-05-23,12000.0,1,2400.0,Uppal,good????,4.0,1.0,Veg,1000,Yes,2025.0
+CUST0402,2025-01-01,Unknown,18.0,Branch_5,5,2025-04-01,600.0,2,120.0,Ameerpet,Very useful offer!!!,2.0,4.0,Veg,1000,Yes,2025.0
+CUST0403,,F,30.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,good savings,4.0,2.0,Non-Veg,1000,No,
+CUST0404,2025-02-15,M,30.0,Branch_1,1,2025-05-16,50.0,2,10.0,Madhapur,Not much benefit,3.0,5.0,Non-Veg,10,Yes,2025.0
+CUST0405,,Unknown,30.0,Branch_1,1,,50.0,0,0.0,Madhapur,,5.0,2.0,Non-Veg,100,No,
+CUST0406,2025-02-16,Unknown,30.0,Branch_10,10,2025-05-17,300.0,15,60.0,Mehdipatnam,Crowded but good,5.0,3.0,Veg,20,Yes,2025.0
+CUST0407,,F,25.0,Branch_8,8,,600.0,0,0.0,Dilsukhnagar,Crowded but good,5.0,3.0,Non-Veg,100,No,
+CUST0408,,Unknown,30.0,Branch_9,9,,12000.0,0,0.0,Uppal,,2.0,5.0,Non-Veg,20,No,
+CUST0409,,Unknown,18.0,Branch_3,3,,3000.0,0,0.0,Hitech City,Too crowded!!!,3.0,5.0,Non-Veg,100,No,
+CUST0410,,Unknown,30.0,Branch_9,9,,3000.0,0,0.0,Uppal,Too crowded!!!,1.0,5.0,Veg,0,No,
+CUST0411,,F,45.0,Branch_1,1,,300.0,0,0.0,Madhapur,Too crowded!!!,2.0,3.0,Non-Veg,20,No,
+CUST0412,2025-02-23,M,60.0,Branch_4,4,2025-05-24,3000.0,0,600.0,Kukatpally,average,4.0,1.0,Non-Veg,1000,Yes,2025.0
+CUST0413,2025-02-17,Unknown,30.0,Branch_9,9,2025-05-18,1200.0,10,240.0,Uppal,,4.0,4.0,Non-Veg,1000,Yes,2025.0
+CUST0414,,Unknown,30.0,Branch_1,1,,1200.0,0,0.0,Madhapur,Not worth it :(,4.0,2.0,Non-Veg,300,No,
+CUST0415,,F,30.0,Branch_9,9,,12000.0,0,0.0,Uppal,Average experience,4.0,2.0,Non-Veg,0,No,
+CUST0416,2025-01-12,Unknown,45.0,Branch_1,1,2025-04-12,1200.0,10,240.0,Madhapur,Did not use offer,3.0,2.0,Veg,100,Yes,2025.0
+CUST0417,,F,30.0,Branch_8,8,,50.0,0,0.0,Dilsukhnagar,Worth the price??,3.0,5.0,Veg,1000,No,
+CUST0418,,Unknown,18.0,Branch_9,9,,900.0,0,0.0,Uppal,Too crowded!!!,3.0,3.0,Non-Veg,10,No,
+CUST0419,2025-02-03,Unknown,18.0,Branch_7,7,2025-05-04,12000.0,0,2400.0,LB Nagar,Offer okay,2.0,2.0,Non-Veg,20,Yes,2025.0
+CUST0420,,Unknown,30.0,Branch_4,4,,600.0,0,0.0,Kukatpally,good savings,3.0,3.0,Non-Veg,10,No,
+CUST0421,2025-01-03,Unknown,45.0,Branch_2,2,2025-04-03,600.0,10,120.0,Gachibowli,Did not use offer,3.0,3.0,Veg,100,Yes,2025.0
+CUST0422,,Unknown,30.0,Branch_8,8,,1200.0,0,0.0,Dilsukhnagar,Average experience,3.0,2.0,Veg,100,No,
+CUST0423,2025-03-02,M,18.0,Branch_9,9,2025-05-31,300.0,0,60.0,Uppal,,3.0,3.0,Veg,1000,Yes,2025.0
+CUST0424,,Unknown,18.0,Branch_4,4,,12000.0,0,0.0,Kukatpally,good????,3.0,2.0,Veg,50,No,
+CUST0425,,M,25.0,Branch_2,2,,50.0,0,0.0,Gachibowli,Too crowded!!!,3.0,5.0,Veg,100,No,
+CUST0426,2025-02-28,Unknown,60.0,Branch_7,7,2025-05-29,900.0,2,180.0,LB Nagar,Very useful offer!!!,4.0,3.0,Veg,100,Yes,2025.0
+CUST0427,2025-02-11,M,18.0,Branch_10,10,2025-05-12,1200.0,10,100.0,Mehdipatnam,Offer okay,5.0,1.0,Veg,1000,Yes,2025.0
+CUST0428,,Unknown,30.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,Crowded but good,3.0,1.0,Non-Veg,10,No,
+CUST0429,2025-01-09,Unknown,25.0,Branch_9,9,2025-04-09,900.0,10,180.0,Uppal,Average experience,3.0,3.0,Non-Veg,20,Yes,2025.0
+CUST0430,2025-02-05,M,30.0,Branch_1,1,2025-05-06,1200.0,15,240.0,Madhapur,Did not use offer,5.0,1.0,Veg,10,Yes,2025.0
+CUST0431,,F,25.0,Branch_9,9,,300.0,0,0.0,Uppal,Worth the price??,2.0,5.0,Veg,10,No,
+CUST0432,2025-01-12,Unknown,18.0,Branch_1,1,2025-04-12,12000.0,10,2400.0,Madhapur,Average experience,3.0,1.0,Veg,0,Yes,2025.0
+CUST0433,2025-02-16,F,30.0,Branch_6,6,2025-05-17,900.0,5,180.0,Secunderabad,good savings,3.0,5.0,Veg,10,Yes,2025.0
+CUST0434,,Unknown,25.0,Branch_6,6,,900.0,0,0.0,Secunderabad,Not worth it :(,5.0,3.0,Veg,50,No,
+CUST0435,2025-01-01,Unknown,60.0,Branch_7,7,2025-04-01,300.0,2,60.0,LB Nagar,Worth the price??,3.0,3.0,Veg,50,Yes,2025.0
+CUST0436,,Unknown,18.0,Branch_5,5,,900.0,0,0.0,Ameerpet,Worth the price??,3.0,5.0,Veg,1000,No,
+CUST0437,,F,45.0,Branch_9,9,,12000.0,0,0.0,Uppal,good????,3.0,1.0,Non-Veg,0,No,
+CUST0438,2025-02-24,Unknown,30.0,Branch_10,10,2025-05-25,3000.0,5,100.0,Mehdipatnam,,1.0,5.0,Veg,100,Yes,2025.0
+CUST0439,,Unknown,30.0,Branch_6,6,,3000.0,0,0.0,Secunderabad,,5.0,3.0,Veg,10,No,
+CUST0440,,Unknown,60.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,Did not use offer,1.0,3.0,Veg,1000,No,
+CUST0441,2025-02-18,F,30.0,Branch_3,3,2025-05-19,300.0,5,60.0,Hitech City,Offer okay,1.0,2.0,Non-Veg,10,Yes,2025.0
+CUST0442,2025-01-17,Unknown,30.0,Branch_9,9,2025-04-17,300.0,2,0.0,Uppal,Not much benefit,4.0,1.0,Veg,300,Yes,2025.0
+CUST0443,,Unknown,45.0,Branch_9,9,,50.0,0,0.0,Uppal,Not worth it :(,5.0,5.0,Veg,50,No,
+CUST0444,,Unknown,30.0,Branch_2,2,,600.0,0,0.0,Gachibowli,,2.0,5.0,Non-Veg,20,No,
+CUST0445,,M,25.0,Branch_10,10,,900.0,0,0.0,Mehdipatnam,Not much benefit,2.0,2.0,Veg,100,No,
+CUST0446,,F,60.0,Branch_3,3,,300.0,0,0.0,Hitech City,Not worth it :(,3.0,1.0,Non-Veg,10,No,
+CUST0447,,Unknown,30.0,Branch_2,2,,12000.0,0,0.0,Gachibowli,Not much benefit,2.0,5.0,Veg,300,No,
+CUST0448,,F,25.0,Branch_1,1,,50.0,0,0.0,Madhapur,Worth the price??,3.0,5.0,Veg,100,No,
+CUST0449,2025-01-04,Unknown,30.0,Branch_9,9,2025-04-04,600.0,1,120.0,Uppal,,3.0,3.0,Non-Veg,1000,Yes,2025.0
+CUST0450,,Unknown,30.0,Branch_8,8,,50.0,0,0.0,Dilsukhnagar,Worth the price??,2.0,4.0,Non-Veg,10,No,
+CUST0451,2025-02-09,Unknown,18.0,Branch_6,6,2025-05-10,1200.0,10,240.0,Secunderabad,,4.0,4.0,Veg,0,Yes,2025.0
+CUST0452,2025-01-13,F,18.0,Branch_7,7,2025-04-13,12000.0,5,2400.0,LB Nagar,Worth the price??,4.0,5.0,Non-Veg,0,Yes,2025.0
+CUST0453,2025-01-06,M,30.0,Branch_10,10,2025-04-06,3000.0,3,600.0,Mehdipatnam,Did not use offer,4.0,3.0,Veg,300,Yes,2025.0
+CUST0454,,Unknown,18.0,Branch_7,7,,300.0,0,0.0,LB Nagar,Crowded but good,2.0,3.0,Non-Veg,1000,No,
+CUST0455,2025-02-28,Unknown,45.0,Branch_9,9,2025-05-29,50.0,15,10.0,Uppal,,1.0,3.0,Non-Veg,1000,Yes,2025.0
+CUST0456,2025-02-06,F,60.0,Branch_7,7,2025-05-07,50.0,5,10.0,LB Nagar,Crowded but good,3.0,1.0,Veg,50,Yes,2025.0
+CUST0457,,Unknown,45.0,Branch_7,7,,600.0,0,0.0,LB Nagar,Loved it ,4.0,2.0,Non-Veg,100,No,
+CUST0458,,Unknown,45.0,Branch_9,9,,300.0,0,0.0,Uppal,Average experience,5.0,3.0,Non-Veg,50,No,
+CUST0459,2025-02-24,Unknown,25.0,Branch_4,4,2025-05-25,3000.0,15,600.0,Kukatpally,good savings,2.0,5.0,Non-Veg,1000,Yes,2025.0
+CUST0460,,M,25.0,Branch_10,10,,12000.0,0,0.0,Mehdipatnam,Crowded but good,3.0,1.0,Veg,1000,No,
+CUST0461,2025-01-31,Unknown,18.0,Branch_4,4,2025-05-01,900.0,5,50.0,Kukatpally,Not worth it :(,1.0,3.0,Non-Veg,50,Yes,2025.0
+CUST0462,,F,30.0,Branch_1,1,,3000.0,0,0.0,Madhapur,Not much benefit,1.0,2.0,Non-Veg,1000,No,
+CUST0463,,F,25.0,Branch_10,10,,300.0,0,0.0,Mehdipatnam,Loved it ,1.0,3.0,Veg,300,No,
+CUST0464,2025-01-11,Unknown,30.0,Branch_6,6,2025-04-11,600.0,0,120.0,Secunderabad,Not worth it :(,2.0,5.0,Veg,300,Yes,2025.0
+CUST0465,2025-02-28,Unknown,60.0,Branch_9,9,2025-05-29,1200.0,0,240.0,Uppal,average,3.0,2.0,Non-Veg,10,Yes,2025.0
+CUST0466,,Unknown,25.0,Branch_1,1,,900.0,0,0.0,Madhapur,Crowded but good,5.0,1.0,Non-Veg,0,No,
+CUST0467,,Unknown,45.0,Branch_9,9,,600.0,0,0.0,Uppal,good????,4.0,4.0,Non-Veg,50,No,
+CUST0468,2025-02-18,M,30.0,Branch_8,8,2025-05-19,12000.0,2,2400.0,Dilsukhnagar,good savings,3.0,1.0,Non-Veg,300,Yes,2025.0
+CUST0469,2025-02-13,Unknown,30.0,Branch_7,7,2025-05-14,300.0,10,60.0,LB Nagar,good????,3.0,2.0,Veg,0,Yes,2025.0
+CUST0470,,M,25.0,Branch_6,6,,3000.0,0,0.0,Secunderabad,Not much benefit,3.0,3.0,Veg,100,No,
+CUST0471,,Unknown,30.0,Branch_4,4,,300.0,0,0.0,Kukatpally,,3.0,2.0,Veg,10,No,
+CUST0472,2025-01-13,F,18.0,Branch_6,6,2025-04-13,300.0,15,60.0,Secunderabad,good savings,1.0,3.0,Non-Veg,50,Yes,2025.0
+CUST0473,2025-02-18,Unknown,60.0,Branch_8,8,2025-05-19,1200.0,15,240.0,Dilsukhnagar,Not much benefit,5.0,3.0,Non-Veg,10,Yes,2025.0
+CUST0474,,F,30.0,Branch_10,10,,900.0,0,0.0,Mehdipatnam,Did not use offer,4.0,4.0,Non-Veg,0,No,
+CUST0475,,Unknown,18.0,Branch_3,3,,900.0,0,0.0,Hitech City,good????,5.0,4.0,Veg,300,No,
+CUST0476,2025-01-01,Unknown,60.0,Branch_2,2,2025-04-01,300.0,10,60.0,Gachibowli,Not worth it :(,3.0,2.0,Non-Veg,20,Yes,2025.0
+CUST0477,2025-01-18,Unknown,30.0,Branch_3,3,2025-04-18,1200.0,3,240.0,Hitech City,,4.0,3.0,Veg,20,Yes,2025.0
+CUST0478,,F,30.0,Branch_3,3,,600.0,0,0.0,Hitech City,average,1.0,3.0,Veg,1000,No,
+CUST0479,2025-02-05,F,30.0,Branch_3,3,2025-05-06,12000.0,3,2400.0,Hitech City,Too crowded!!!,1.0,2.0,Non-Veg,50,Yes,2025.0
+CUST0480,2025-02-27,Unknown,45.0,Branch_6,6,2025-05-28,3000.0,15,600.0,Secunderabad,Average experience,5.0,5.0,Veg,50,Yes,2025.0
+CUST0481,2025-02-14,Unknown,18.0,Branch_5,5,2025-05-15,50.0,1,10.0,Ameerpet,Not much benefit,3.0,3.0,Veg,20,Yes,2025.0
+CUST0482,,Unknown,30.0,Branch_5,5,,1200.0,0,0.0,Ameerpet,Crowded but good,1.0,3.0,Non-Veg,100,No,
+CUST0483,2025-02-06,Unknown,60.0,Branch_3,3,2025-05-07,3000.0,5,600.0,Hitech City,Offer okay,3.0,5.0,Non-Veg,1000,Yes,2025.0
+CUST0484,,Unknown,30.0,Branch_10,10,,50.0,0,0.0,Mehdipatnam,Loved it ,2.0,2.0,Non-Veg,1000,No,
+CUST0485,,Unknown,18.0,Branch_10,10,,900.0,0,0.0,Mehdipatnam,good savings,2.0,3.0,Veg,20,No,
+CUST0486,,Unknown,45.0,Branch_5,5,,3000.0,0,0.0,Ameerpet,,4.0,3.0,Non-Veg,100,No,
+CUST0487,,M,25.0,Branch_3,3,,900.0,0,0.0,Hitech City,good????,2.0,3.0,Veg,300,No,
+CUST0488,2025-01-14,Unknown,30.0,Branch_2,2,2025-04-14,900.0,1,180.0,Gachibowli,Very useful offer!!!,4.0,5.0,Veg,0,Yes,2025.0
+CUST0489,,Unknown,45.0,Branch_2,2,,1200.0,0,0.0,Gachibowli,,2.0,3.0,Veg,50,No,
+CUST0490,2025-01-09,Unknown,60.0,Branch_1,1,2025-04-09,12000.0,5,2400.0,Madhapur,average,4.0,4.0,Non-Veg,20,Yes,2025.0
+CUST0491,,F,30.0,Branch_9,9,,300.0,0,0.0,Uppal,Loved it ,3.0,3.0,Non-Veg,50,No,
+CUST0492,,F,18.0,Branch_9,9,,600.0,0,0.0,Uppal,Not much benefit,3.0,3.0,Non-Veg,20,No,
+CUST0493,2025-01-20,Unknown,45.0,Branch_3,3,2025-04-20,50.0,0,10.0,Hitech City,Not much benefit,5.0,1.0,Non-Veg,50,Yes,2025.0
+CUST0494,,Unknown,30.0,Branch_7,7,,600.0,0,0.0,LB Nagar,Too crowded!!!,1.0,5.0,Veg,10,No,
+CUST0495,,F,25.0,Branch_7,7,,1200.0,0,0.0,LB Nagar,good????,3.0,3.0,Non-Veg,1000,No,
+CUST0496,,Unknown,30.0,Branch_2,2,,300.0,0,0.0,Gachibowli,Did not use offer,5.0,3.0,Non-Veg,20,No,
+CUST0497,,Unknown,30.0,Branch_9,9,,3000.0,0,0.0,Uppal,,1.0,2.0,Veg,20,No,
+CUST0498,2025-02-10,Unknown,30.0,Branch_10,10,2025-05-11,1200.0,3,240.0,Mehdipatnam,Offer okay,1.0,2.0,Veg,100,Yes,2025.0
+CUST0499,2025-01-12,M,30.0,Branch_8,8,2025-04-12,600.0,0,120.0,Dilsukhnagar,good savings,2.0,1.0,Non-Veg,10,Yes,2025.0
+CUST0500,,Unknown,30.0,Branch_8,8,,900.0,0,0.0,Dilsukhnagar,good????,1.0,3.0,Veg,1000,No,
+CUST0001,2025-01-02,M,18.0,Branch_3,3,2025-04-02,540.0,0,0.0,Hitech City,Not worth it :(,4.0,1.0,Veg,0,No,2024.0
+CUST0002,2025-01-15,Unknown,30.0,Branch_9,9,2025-04-15,1080.0,0,0.0,Uppal,Not much benefit,5.0,3.0,Veg,1000,No,2024.0
+CUST0003,2025-02-14,Unknown,18.0,Branch_4,4,2025-05-15,540.0,0,0.0,Kukatpally,good savings,4.0,1.0,Veg,1000,No,2024.0
+CUST0004,,Unknown,18.0,Branch_1,1,,1080.0,0,0.0,Madhapur,,4.0,1.0,Non-Veg,20,No,2024.0
+CUST0005,,M,30.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,Too crowded!!!,3.0,1.0,Veg,1000,No,2024.0
+CUST0006,2025-01-25,F,60.0,Branch_6,6,2025-04-25,810.0,0,0.0,Secunderabad,Offer okay,2.0,3.0,Veg,300,No,2024.0
+CUST0007,2025-02-08,F,30.0,Branch_4,4,2025-05-09,270.0,0,0.0,Kukatpally,Crowded but good,3.0,3.0,Non-Veg,100,No,2024.0
+CUST0008,2025-02-13,F,30.0,Branch_1,1,2025-05-14,10800.0,0,0.0,Madhapur,Too crowded!!!,3.0,4.0,Veg,0,No,2024.0
+CUST0009,2025-02-28,Unknown,30.0,Branch_8,8,2025-05-29,2700.0,0,0.0,Dilsukhnagar,Worth the price??,3.0,2.0,Veg,300,No,2024.0
+CUST0010,,Unknown,60.0,Branch_7,7,,2700.0,0,0.0,LB Nagar,,2.0,5.0,Non-Veg,0,No,2024.0
+CUST0011,2025-02-25,M,30.0,Branch_7,7,2025-05-26,270.0,0,0.0,LB Nagar,Crowded but good,5.0,4.0,Non-Veg,20,No,2024.0
+CUST0012,2025-02-13,Unknown,60.0,Branch_9,9,2025-05-14,45.0,0,0.0,Uppal,good savings,3.0,4.0,Veg,50,No,2024.0
+CUST0013,2025-02-16,M,45.0,Branch_3,3,2025-05-17,540.0,0,0.0,Hitech City,average,3.0,5.0,Non-Veg,10,No,2024.0
+CUST0014,2025-01-24,M,60.0,Branch_9,9,2025-04-24,270.0,0,0.0,Uppal,Not much benefit,1.0,1.0,Veg,1000,No,2024.0
+CUST0015,,M,18.0,Branch_4,4,,270.0,0,0.0,Kukatpally,good????,4.0,1.0,Non-Veg,1000,No,2024.0
+CUST0016,2025-01-09,Unknown,30.0,Branch_3,3,2025-04-09,810.0,0,0.0,Hitech City,,5.0,3.0,Non-Veg,10,No,2024.0
+CUST0017,,Unknown,30.0,Branch_6,6,,810.0,0,0.0,Secunderabad,good savings,2.0,2.0,Veg,20,No,2024.0
+CUST0018,2025-02-07,M,30.0,Branch_1,1,2025-05-08,270.0,0,0.0,Madhapur,,1.0,1.0,Veg,0,No,2024.0
+CUST0019,2025-01-18,Unknown,30.0,Branch_3,3,2025-04-18,810.0,0,0.0,Hitech City,Too crowded!!!,4.0,4.0,Veg,0,No,2024.0
+CUST0020,2025-02-12,M,18.0,Branch_8,8,2025-05-13,540.0,0,0.0,Dilsukhnagar,Very useful offer!!!,4.0,3.0,Veg,1000,No,2024.0
+CUST0021,2025-01-16,Unknown,25.0,Branch_3,3,2025-04-16,270.0,0,0.0,Hitech City,Average experience,4.0,2.0,Veg,50,No,2024.0
+CUST0022,2025-01-04,F,25.0,Branch_2,2,2025-04-04,1080.0,0,0.0,Gachibowli,Crowded but good,4.0,4.0,Veg,1000,No,2024.0
+CUST0023,,M,30.0,Branch_7,7,,45.0,0,0.0,LB Nagar,Average experience,4.0,3.0,Non-Veg,300,No,2024.0
+CUST0024,,F,30.0,Branch_5,5,,270.0,0,0.0,Ameerpet,Not worth it :(,3.0,5.0,Veg,300,No,2024.0
+CUST0025,,Unknown,25.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,Very useful offer!!!,5.0,1.0,Veg,0,No,2024.0
+CUST0026,2025-02-13,F,30.0,Branch_10,10,2025-05-14,270.0,0,0.0,Mehdipatnam,Not worth it :(,1.0,4.0,Non-Veg,100,No,2024.0
+CUST0027,,F,45.0,Branch_6,6,,540.0,0,0.0,Secunderabad,Crowded but good,2.0,3.0,Non-Veg,20,No,2024.0
+CUST0028,,Unknown,18.0,Branch_1,1,,540.0,0,0.0,Madhapur,good savings,5.0,2.0,Non-Veg,20,No,2024.0
+CUST0029,2025-03-01,Unknown,25.0,Branch_6,6,2025-05-30,45.0,0,0.0,Secunderabad,Not much benefit,5.0,3.0,Veg,100,No,2024.0
+CUST0030,2025-02-12,F,45.0,Branch_2,2,2025-05-13,1080.0,0,0.0,Gachibowli,good savings,1.0,3.0,Non-Veg,10,No,2024.0
+CUST0031,,Unknown,30.0,Branch_4,4,,540.0,0,0.0,Kukatpally,Loved it ,3.0,3.0,Non-Veg,50,No,2024.0
+CUST0032,,Unknown,45.0,Branch_2,2,,10800.0,0,0.0,Gachibowli,Very useful offer!!!,1.0,3.0,Veg,300,No,2024.0
+CUST0033,,Unknown,30.0,Branch_8,8,,270.0,0,0.0,Dilsukhnagar,good savings,1.0,3.0,Veg,100,No,2024.0
+CUST0034,2025-02-23,F,30.0,Branch_7,7,2025-05-24,1080.0,0,0.0,LB Nagar,Average experience,3.0,1.0,Veg,10,No,2024.0
+CUST0035,2025-02-12,F,30.0,Branch_7,7,2025-05-13,540.0,0,0.0,LB Nagar,average,2.0,2.0,Non-Veg,0,No,2024.0
+CUST0036,2025-02-17,Unknown,25.0,Branch_4,4,2025-05-18,10800.0,0,0.0,Kukatpally,Too crowded!!!,3.0,1.0,Non-Veg,1000,No,2024.0
+CUST0037,2025-02-24,Unknown,45.0,Branch_8,8,2025-05-25,270.0,0,0.0,Dilsukhnagar,average,2.0,2.0,Veg,300,No,2024.0
+CUST0038,2025-01-26,Unknown,30.0,Branch_5,5,2025-04-26,540.0,0,0.0,Ameerpet,Loved it ,5.0,3.0,Veg,0,No,2024.0
+CUST0039,,M,18.0,Branch_5,5,,270.0,0,0.0,Ameerpet,Not worth it :(,4.0,3.0,Non-Veg,1000,No,2024.0
+CUST0040,,M,30.0,Branch_9,9,,810.0,0,0.0,Uppal,,5.0,2.0,Veg,0,No,2024.0
+CUST0041,,F,60.0,Branch_9,9,,45.0,0,0.0,Uppal,Crowded but good,1.0,3.0,Veg,100,No,2024.0
+CUST0042,,Unknown,30.0,Branch_5,5,,2700.0,0,0.0,Ameerpet,Offer okay,4.0,3.0,Veg,100,No,2024.0
+CUST0043,2025-01-13,Unknown,30.0,Branch_3,3,2025-04-13,2700.0,0,0.0,Hitech City,Did not use offer,1.0,3.0,Veg,10,No,2024.0
+CUST0044,,Unknown,30.0,Branch_10,10,,10800.0,0,0.0,Mehdipatnam,Not much benefit,4.0,3.0,Veg,100,No,2024.0
+CUST0045,,M,45.0,Branch_3,3,,10800.0,0,0.0,Hitech City,Did not use offer,3.0,3.0,Non-Veg,20,No,2024.0
+CUST0046,2025-02-22,F,25.0,Branch_4,4,2025-05-23,270.0,0,0.0,Kukatpally,Very useful offer!!!,1.0,2.0,Non-Veg,100,No,2024.0
+CUST0047,2025-01-30,Unknown,30.0,Branch_7,7,2025-04-30,2700.0,0,0.0,LB Nagar,,2.0,3.0,Non-Veg,0,No,2024.0
+CUST0048,2025-02-19,Unknown,30.0,Branch_9,9,2025-05-20,270.0,0,0.0,Uppal,Did not use offer,2.0,1.0,Non-Veg,10,No,2024.0
+CUST0049,,Unknown,30.0,Branch_9,9,,2700.0,0,0.0,Uppal,Not worth it :(,3.0,5.0,Non-Veg,1000,No,2024.0
+CUST0050,,Unknown,45.0,Branch_8,8,,270.0,0,0.0,Dilsukhnagar,Too crowded!!!,2.0,3.0,Veg,1000,No,2024.0
+CUST0051,,Unknown,18.0,Branch_5,5,,2700.0,0,0.0,Ameerpet,good????,3.0,2.0,Veg,20,No,2024.0
+CUST0052,,F,30.0,Branch_3,3,,1080.0,0,0.0,Hitech City,Crowded but good,3.0,2.0,Non-Veg,10,No,2024.0
+CUST0053,2025-01-27,M,30.0,Branch_7,7,2025-04-27,540.0,0,0.0,LB Nagar,average,4.0,4.0,Non-Veg,300,No,2024.0
+CUST0054,2025-02-24,Unknown,45.0,Branch_1,1,2025-05-25,1080.0,0,0.0,Madhapur,Too crowded!!!,4.0,4.0,Non-Veg,300,No,2024.0
+CUST0055,2025-02-01,Unknown,60.0,Branch_1,1,2025-05-02,540.0,0,0.0,Madhapur,Loved it ,3.0,4.0,Non-Veg,10,No,2024.0
+CUST0056,,M,30.0,Branch_9,9,,270.0,0,0.0,Uppal,Not worth it :(,5.0,3.0,Veg,0,No,2024.0
+CUST0057,,M,45.0,Branch_3,3,,270.0,0,0.0,Hitech City,Crowded but good,3.0,2.0,Non-Veg,20,No,2024.0
+CUST0058,,Unknown,45.0,Branch_5,5,,10800.0,0,0.0,Ameerpet,average,1.0,4.0,Veg,300,No,2024.0
+CUST0059,2025-03-02,M,30.0,Branch_1,1,2025-05-31,270.0,0,0.0,Madhapur,,1.0,5.0,Veg,10,No,2024.0
+CUST0060,2025-01-31,Unknown,45.0,Branch_4,4,2025-05-01,45.0,0,0.0,Kukatpally,Too crowded!!!,3.0,2.0,Non-Veg,100,No,2024.0
+CUST0061,2025-02-19,M,45.0,Branch_2,2,2025-05-20,270.0,0,0.0,Gachibowli,Not worth it :(,3.0,4.0,Non-Veg,300,No,2024.0
+CUST0062,2025-01-05,M,45.0,Branch_4,4,2025-04-05,2700.0,0,0.0,Kukatpally,average,3.0,5.0,Veg,1000,No,2024.0
+CUST0063,2025-01-23,Unknown,30.0,Branch_2,2,2025-04-23,810.0,0,0.0,Gachibowli,average,4.0,4.0,Veg,50,No,2024.0
+CUST0064,,Unknown,25.0,Branch_3,3,,2700.0,0,0.0,Hitech City,good????,5.0,3.0,Veg,100,No,2024.0
+CUST0065,,Unknown,60.0,Branch_10,10,,810.0,0,0.0,Mehdipatnam,average,2.0,1.0,Veg,50,No,2024.0
+CUST0066,2025-02-18,Unknown,30.0,Branch_7,7,2025-05-19,1080.0,0,0.0,LB Nagar,Not much benefit,3.0,2.0,Non-Veg,10,No,2024.0
+CUST0067,,Unknown,45.0,Branch_6,6,,10800.0,0,0.0,Secunderabad,Did not use offer,1.0,5.0,Veg,0,No,2024.0
+CUST0068,2025-02-16,Unknown,30.0,Branch_4,4,2025-05-17,810.0,0,0.0,Kukatpally,Not much benefit,1.0,1.0,Veg,10,No,2024.0
+CUST0069,,Unknown,30.0,Branch_5,5,,2700.0,0,0.0,Ameerpet,Did not use offer,5.0,3.0,Non-Veg,300,No,2024.0
+CUST0070,,Unknown,45.0,Branch_8,8,,540.0,0,0.0,Dilsukhnagar,Average experience,2.0,1.0,Non-Veg,10,No,2024.0
+CUST0071,,F,30.0,Branch_9,9,,45.0,0,0.0,Uppal,,3.0,4.0,Veg,300,No,2024.0
+CUST0072,,F,60.0,Branch_5,5,,45.0,0,0.0,Ameerpet,Worth the price??,3.0,1.0,Non-Veg,100,No,2024.0
+CUST0073,2025-01-18,Unknown,18.0,Branch_3,3,2025-04-18,45.0,0,0.0,Hitech City,average,1.0,5.0,Veg,50,No,2024.0
+CUST0074,,M,45.0,Branch_3,3,,810.0,0,0.0,Hitech City,average,4.0,1.0,Veg,50,No,2024.0
+CUST0075,,F,25.0,Branch_1,1,,45.0,0,0.0,Madhapur,Too crowded!!!,5.0,3.0,Veg,10,No,2024.0
+CUST0076,2025-02-05,F,30.0,Branch_10,10,2025-05-06,810.0,0,0.0,Mehdipatnam,Not much benefit,4.0,3.0,Non-Veg,50,No,2024.0
+CUST0077,,M,30.0,Branch_1,1,,1080.0,0,0.0,Madhapur,Loved it ,2.0,3.0,Non-Veg,0,No,2024.0
+CUST0078,2025-01-16,Unknown,30.0,Branch_7,7,2025-04-16,1080.0,0,0.0,LB Nagar,Average experience,1.0,2.0,Veg,300,No,2024.0
+CUST0079,,F,45.0,Branch_2,2,,2700.0,0,0.0,Gachibowli,Too crowded!!!,3.0,5.0,Non-Veg,1000,No,2024.0
+CUST0080,2025-01-28,Unknown,25.0,Branch_3,3,2025-04-28,1080.0,0,0.0,Hitech City,good savings,1.0,2.0,Veg,100,No,2024.0
+CUST0081,,Unknown,30.0,Branch_8,8,,810.0,0,0.0,Dilsukhnagar,Average experience,5.0,5.0,Non-Veg,50,No,2024.0
+CUST0082,2025-02-08,Unknown,30.0,Branch_10,10,2025-05-09,810.0,0,0.0,Mehdipatnam,good savings,2.0,3.0,Non-Veg,100,No,2024.0
+CUST0083,2025-02-18,F,30.0,Branch_1,1,2025-05-19,10800.0,0,0.0,Madhapur,Did not use offer,3.0,4.0,Veg,10,No,2024.0
+CUST0084,,Unknown,60.0,Branch_2,2,,2700.0,0,0.0,Gachibowli,Crowded but good,3.0,3.0,Non-Veg,0,No,2024.0
+CUST0085,2025-01-22,M,30.0,Branch_7,7,2025-04-22,2700.0,0,0.0,LB Nagar,good savings,3.0,3.0,Veg,0,No,2024.0
+CUST0086,,Unknown,30.0,Branch_1,1,,10800.0,0,0.0,Madhapur,Very useful offer!!!,2.0,5.0,Veg,100,No,2024.0
+CUST0087,,F,45.0,Branch_1,1,,2700.0,0,0.0,Madhapur,Did not use offer,2.0,3.0,Non-Veg,300,No,2024.0
+CUST0088,,F,25.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,Average experience,5.0,1.0,Non-Veg,50,No,2024.0
+CUST0089,2025-01-15,F,30.0,Branch_2,2,2025-04-15,45.0,0,0.0,Gachibowli,,3.0,3.0,Non-Veg,300,No,2024.0
+CUST0090,,F,30.0,Branch_8,8,,810.0,0,0.0,Dilsukhnagar,Did not use offer,2.0,4.0,Veg,100,No,2024.0
+CUST0091,2025-02-25,Unknown,45.0,Branch_7,7,2025-05-26,540.0,0,0.0,LB Nagar,average,1.0,3.0,Non-Veg,20,No,2024.0
+CUST0092,,Unknown,60.0,Branch_8,8,,10800.0,0,0.0,Dilsukhnagar,Offer okay,5.0,5.0,Non-Veg,50,No,2024.0
+CUST0093,,Unknown,30.0,Branch_4,4,,10800.0,0,0.0,Kukatpally,average,4.0,1.0,Veg,300,No,2024.0
+CUST0094,,F,30.0,Branch_7,7,,2700.0,0,0.0,LB Nagar,Very useful offer!!!,2.0,5.0,Non-Veg,20,No,2024.0
+CUST0095,2025-02-25,F,30.0,Branch_1,1,2025-05-26,810.0,0,0.0,Madhapur,average,3.0,2.0,Veg,50,No,2024.0
+CUST0096,,M,60.0,Branch_7,7,,540.0,0,0.0,LB Nagar,average,3.0,5.0,Non-Veg,20,No,2024.0
+CUST0097,,M,30.0,Branch_1,1,,10800.0,0,0.0,Madhapur,Loved it ,3.0,3.0,Veg,300,No,2024.0
+CUST0098,2025-01-28,Unknown,25.0,Branch_2,2,2025-04-28,10800.0,0,0.0,Gachibowli,good????,3.0,1.0,Veg,20,No,2024.0
+CUST0099,2025-01-19,Unknown,25.0,Branch_4,4,2025-04-19,540.0,0,0.0,Kukatpally,Worth the price??,2.0,1.0,Non-Veg,1000,No,2024.0
+CUST0100,,Unknown,25.0,Branch_4,4,,1080.0,0,0.0,Kukatpally,,4.0,3.0,Veg,50,No,2024.0
+CUST0101,,Unknown,25.0,Branch_8,8,,2700.0,0,0.0,Dilsukhnagar,good savings,4.0,3.0,Non-Veg,20,No,2024.0
+CUST0102,,Unknown,30.0,Branch_8,8,,2700.0,0,0.0,Dilsukhnagar,Crowded but good,4.0,1.0,Veg,50,No,2024.0
+CUST0103,,M,30.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,Average experience,1.0,5.0,Non-Veg,1000,No,2024.0
+CUST0104,2025-02-28,F,60.0,Branch_5,5,2025-05-29,2700.0,0,0.0,Ameerpet,,3.0,2.0,Non-Veg,20,No,2024.0
+CUST0105,2025-02-10,Unknown,30.0,Branch_5,5,2025-05-11,2700.0,0,0.0,Ameerpet,Not worth it :(,3.0,3.0,Veg,0,No,2024.0
+CUST0106,,F,30.0,Branch_7,7,,540.0,0,0.0,LB Nagar,Worth the price??,5.0,3.0,Non-Veg,100,No,2024.0
+CUST0107,,Unknown,45.0,Branch_5,5,,10800.0,0,0.0,Ameerpet,good????,3.0,1.0,Non-Veg,0,No,2024.0
+CUST0108,2025-02-18,Unknown,18.0,Branch_7,7,2025-05-19,10800.0,0,0.0,LB Nagar,Too crowded!!!,4.0,1.0,Veg,100,No,2024.0
+CUST0109,2025-01-30,Unknown,60.0,Branch_5,5,2025-04-30,2700.0,0,0.0,Ameerpet,good savings,3.0,2.0,Non-Veg,0,No,2024.0
+CUST0110,,Unknown,45.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,Loved it ,4.0,1.0,Veg,0,No,2024.0
+CUST0111,2025-01-20,Unknown,30.0,Branch_3,3,2025-04-20,45.0,0,0.0,Hitech City,Offer okay,3.0,3.0,Non-Veg,100,No,2024.0
+CUST0112,,Unknown,18.0,Branch_3,3,,1080.0,0,0.0,Hitech City,average,4.0,5.0,Non-Veg,20,No,2024.0
+CUST0113,2025-02-14,Unknown,18.0,Branch_4,4,2025-05-15,270.0,0,0.0,Kukatpally,Loved it ,3.0,5.0,Non-Veg,20,No,2024.0
+CUST0114,2025-01-26,M,30.0,Branch_8,8,2025-04-26,270.0,0,0.0,Dilsukhnagar,Loved it ,3.0,5.0,Veg,0,No,2024.0
+CUST0115,,F,18.0,Branch_10,10,,270.0,0,0.0,Mehdipatnam,average,5.0,2.0,Non-Veg,10,No,2024.0
+CUST0116,2025-01-22,M,45.0,Branch_10,10,2025-04-22,270.0,0,0.0,Mehdipatnam,average,2.0,2.0,Non-Veg,20,No,2024.0
+CUST0117,2025-01-08,F,60.0,Branch_6,6,2025-04-08,10800.0,0,0.0,Secunderabad,Very useful offer!!!,2.0,3.0,Veg,10,No,2024.0
+CUST0118,,Unknown,30.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,Too crowded!!!,3.0,5.0,Non-Veg,0,No,2024.0
+CUST0119,,M,45.0,Branch_10,10,,1080.0,0,0.0,Mehdipatnam,Not much benefit,3.0,1.0,Veg,50,No,2024.0
+CUST0120,,Unknown,30.0,Branch_2,2,,810.0,0,0.0,Gachibowli,good savings,1.0,3.0,Non-Veg,10,No,2024.0
+CUST0121,2025-01-09,Unknown,30.0,Branch_9,9,2025-04-09,1080.0,0,0.0,Uppal,Not worth it :(,5.0,3.0,Non-Veg,100,No,2024.0
+CUST0122,,F,30.0,Branch_2,2,,45.0,0,0.0,Gachibowli,Not much benefit,2.0,4.0,Veg,1000,No,2024.0
+CUST0123,,Unknown,30.0,Branch_2,2,,810.0,0,0.0,Gachibowli,Offer okay,3.0,3.0,Veg,10,No,2024.0
+CUST0124,,M,30.0,Branch_2,2,,45.0,0,0.0,Gachibowli,good savings,3.0,3.0,Veg,1000,No,2024.0
+CUST0125,2025-02-05,Unknown,18.0,Branch_9,9,2025-05-06,1080.0,0,0.0,Uppal,Crowded but good,3.0,3.0,Non-Veg,1000,No,2024.0
+CUST0126,2025-01-19,F,25.0,Branch_10,10,2025-04-19,540.0,0,0.0,Mehdipatnam,Loved it ,4.0,2.0,Veg,20,No,2024.0
+CUST0127,,F,30.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,average,5.0,5.0,Non-Veg,300,No,2024.0
+CUST0128,2025-02-08,F,45.0,Branch_1,1,2025-05-09,10800.0,0,0.0,Madhapur,good????,3.0,3.0,Veg,0,No,2024.0
+CUST0129,2025-02-25,F,30.0,Branch_2,2,2025-05-26,1080.0,0,0.0,Gachibowli,good savings,3.0,5.0,Veg,50,No,2024.0
+CUST0130,,Unknown,45.0,Branch_3,3,,810.0,0,0.0,Hitech City,good????,3.0,5.0,Non-Veg,0,No,2024.0
+CUST0131,2025-01-10,Unknown,30.0,Branch_2,2,2025-04-10,10800.0,0,0.0,Gachibowli,Loved it ,4.0,4.0,Non-Veg,50,No,2024.0
+CUST0132,,M,60.0,Branch_9,9,,540.0,0,0.0,Uppal,Crowded but good,1.0,3.0,Non-Veg,300,No,2024.0
+CUST0133,,M,30.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,Crowded but good,5.0,1.0,Veg,10,No,2024.0
+CUST0134,,Unknown,60.0,Branch_5,5,,270.0,0,0.0,Ameerpet,good savings,1.0,4.0,Non-Veg,50,No,2024.0
+CUST0135,2025-01-09,Unknown,18.0,Branch_9,9,2025-04-09,1080.0,0,0.0,Uppal,Crowded but good,3.0,1.0,Non-Veg,0,No,2024.0
+CUST0136,,Unknown,30.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,good????,3.0,4.0,Veg,0,No,2024.0
+CUST0137,,Unknown,60.0,Branch_3,3,,45.0,0,0.0,Hitech City,good savings,4.0,1.0,Veg,50,No,2024.0
+CUST0138,,Unknown,60.0,Branch_7,7,,1080.0,0,0.0,LB Nagar,,3.0,2.0,Veg,100,No,2024.0
+CUST0139,2025-02-03,Unknown,25.0,Branch_6,6,2025-05-04,270.0,0,0.0,Secunderabad,,1.0,2.0,Veg,10,No,2024.0
+CUST0140,2025-02-08,F,30.0,Branch_2,2,2025-05-09,10800.0,0,0.0,Gachibowli,Not much benefit,5.0,5.0,Non-Veg,300,No,2024.0
+CUST0141,,F,30.0,Branch_6,6,,10800.0,0,0.0,Secunderabad,good savings,4.0,4.0,Non-Veg,20,No,2024.0
+CUST0142,,M,45.0,Branch_6,6,,1080.0,0,0.0,Secunderabad,Not much benefit,4.0,1.0,Veg,20,No,2024.0
+CUST0143,,Unknown,30.0,Branch_2,2,,45.0,0,0.0,Gachibowli,Not worth it :(,5.0,3.0,Veg,50,No,2024.0
+CUST0144,2025-01-21,Unknown,18.0,Branch_1,1,2025-04-21,810.0,0,0.0,Madhapur,Too crowded!!!,3.0,3.0,Veg,100,No,2024.0
+CUST0145,2025-01-03,F,60.0,Branch_8,8,2025-04-03,2700.0,0,0.0,Dilsukhnagar,Offer okay,3.0,4.0,Non-Veg,1000,No,2024.0
+CUST0146,,Unknown,18.0,Branch_1,1,,2700.0,0,0.0,Madhapur,Offer okay,1.0,5.0,Non-Veg,50,No,2024.0
+CUST0147,,F,60.0,Branch_10,10,,540.0,0,0.0,Mehdipatnam,good savings,5.0,3.0,Veg,20,No,2024.0
+CUST0148,,F,18.0,Branch_7,7,,2700.0,0,0.0,LB Nagar,Average experience,5.0,4.0,Non-Veg,1000,No,2024.0
+CUST0149,,M,30.0,Branch_9,9,,10800.0,0,0.0,Uppal,Did not use offer,3.0,1.0,Veg,20,No,2024.0
+CUST0150,2025-03-02,F,30.0,Branch_8,8,2025-05-31,540.0,0,0.0,Dilsukhnagar,Worth the price??,2.0,1.0,Veg,1000,No,2024.0
+CUST0151,2025-02-02,M,60.0,Branch_9,9,2025-05-03,1080.0,0,0.0,Uppal,,5.0,2.0,Non-Veg,50,No,2024.0
+CUST0152,2025-01-11,F,30.0,Branch_10,10,2025-04-11,10800.0,0,0.0,Mehdipatnam,Very useful offer!!!,4.0,3.0,Non-Veg,300,No,2024.0
+CUST0153,2025-01-29,F,30.0,Branch_8,8,2025-04-29,540.0,0,0.0,Dilsukhnagar,Average experience,4.0,2.0,Veg,300,No,2024.0
+CUST0154,,Unknown,25.0,Branch_7,7,,810.0,0,0.0,LB Nagar,average,2.0,5.0,Veg,1000,No,2024.0
+CUST0155,,Unknown,18.0,Branch_8,8,,45.0,0,0.0,Dilsukhnagar,good????,5.0,1.0,Veg,0,No,2024.0
+CUST0156,2025-01-18,M,30.0,Branch_7,7,2025-04-18,1080.0,0,0.0,LB Nagar,average,4.0,3.0,Veg,50,No,2024.0
+CUST0157,2025-01-26,Unknown,30.0,Branch_2,2,2025-04-26,540.0,0,0.0,Gachibowli,Very useful offer!!!,3.0,1.0,Non-Veg,300,No,2024.0
+CUST0158,,M,45.0,Branch_3,3,,10800.0,0,0.0,Hitech City,,4.0,3.0,Veg,1000,No,2024.0
+CUST0159,,M,30.0,Branch_1,1,,810.0,0,0.0,Madhapur,Average experience,2.0,2.0,Non-Veg,300,No,2024.0
+CUST0160,,Unknown,18.0,Branch_4,4,,45.0,0,0.0,Kukatpally,Very useful offer!!!,2.0,4.0,Non-Veg,1000,No,2024.0
+CUST0161,,M,30.0,Branch_8,8,,45.0,0,0.0,Dilsukhnagar,good????,2.0,3.0,Non-Veg,0,No,2024.0
+CUST0162,,F,18.0,Branch_7,7,,270.0,0,0.0,LB Nagar,Did not use offer,3.0,1.0,Non-Veg,100,No,2024.0
+CUST0163,2025-01-25,Unknown,30.0,Branch_6,6,2025-04-25,810.0,0,0.0,Secunderabad,Offer okay,1.0,3.0,Veg,300,No,2024.0
+CUST0164,2025-02-19,M,60.0,Branch_3,3,2025-05-20,2700.0,0,0.0,Hitech City,Did not use offer,3.0,3.0,Veg,1000,No,2024.0
+CUST0165,,F,18.0,Branch_3,3,,2700.0,0,0.0,Hitech City,good????,4.0,1.0,Veg,10,No,2024.0
+CUST0166,2025-02-20,Unknown,30.0,Branch_5,5,2025-05-21,45.0,0,0.0,Ameerpet,Average experience,1.0,3.0,Veg,20,No,2024.0
+CUST0167,,Unknown,18.0,Branch_6,6,,10800.0,0,0.0,Secunderabad,Too crowded!!!,3.0,4.0,Non-Veg,300,No,2024.0
+CUST0168,,Unknown,30.0,Branch_3,3,,810.0,0,0.0,Hitech City,Offer okay,5.0,3.0,Veg,300,No,2024.0
+CUST0169,,F,45.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,Offer okay,1.0,1.0,Veg,300,No,2024.0
+CUST0170,,Unknown,25.0,Branch_10,10,,540.0,0,0.0,Mehdipatnam,good????,4.0,3.0,Non-Veg,0,No,2024.0
+CUST0171,,M,18.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,Loved it ,3.0,4.0,Veg,100,No,2024.0
+CUST0172,2025-03-02,M,25.0,Branch_8,8,2025-05-31,270.0,0,0.0,Dilsukhnagar,good savings,2.0,3.0,Veg,20,No,2024.0
+CUST0173,,F,30.0,Branch_10,10,,1080.0,0,0.0,Mehdipatnam,Offer okay,3.0,4.0,Veg,100,No,2024.0
+CUST0174,2025-02-03,F,18.0,Branch_5,5,2025-05-04,810.0,0,0.0,Ameerpet,Very useful offer!!!,3.0,2.0,Non-Veg,100,No,2024.0
+CUST0175,,Unknown,30.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,,5.0,3.0,Non-Veg,50,No,2024.0
+CUST0176,2025-01-08,M,60.0,Branch_8,8,2025-04-08,10800.0,0,0.0,Dilsukhnagar,Loved it ,3.0,3.0,Veg,100,No,2024.0
+CUST0177,,Unknown,30.0,Branch_3,3,,540.0,0,0.0,Hitech City,good savings,2.0,2.0,Veg,1000,No,2024.0
+CUST0178,,Unknown,30.0,Branch_9,9,,45.0,0,0.0,Uppal,Too crowded!!!,5.0,2.0,Non-Veg,0,No,2024.0
+CUST0179,2025-01-20,Unknown,30.0,Branch_9,9,2025-04-20,2700.0,0,0.0,Uppal,average,5.0,1.0,Veg,20,No,2024.0
+CUST0180,2025-01-29,F,25.0,Branch_3,3,2025-04-29,2700.0,0,0.0,Hitech City,Crowded but good,5.0,1.0,Veg,100,No,2024.0
+CUST0181,2025-01-20,Unknown,45.0,Branch_4,4,2025-04-20,270.0,0,0.0,Kukatpally,average,1.0,3.0,Veg,300,No,2024.0
+CUST0182,,M,25.0,Branch_5,5,,270.0,0,0.0,Ameerpet,Not worth it :(,5.0,2.0,Veg,300,No,2024.0
+CUST0183,,M,18.0,Branch_1,1,,10800.0,0,0.0,Madhapur,Very useful offer!!!,3.0,5.0,Veg,300,No,2024.0
+CUST0184,2025-02-19,Unknown,45.0,Branch_1,1,2025-05-20,810.0,0,0.0,Madhapur,Loved it ,3.0,4.0,Veg,1000,No,2024.0
+CUST0185,,M,25.0,Branch_2,2,,540.0,0,0.0,Gachibowli,Not much benefit,4.0,4.0,Non-Veg,10,No,2024.0
+CUST0186,,Unknown,60.0,Branch_6,6,,1080.0,0,0.0,Secunderabad,Crowded but good,2.0,3.0,Non-Veg,100,No,2024.0
+CUST0187,2025-01-21,F,25.0,Branch_8,8,2025-04-21,810.0,0,0.0,Dilsukhnagar,good savings,1.0,3.0,Non-Veg,1000,No,2024.0
+CUST0188,,Unknown,30.0,Branch_6,6,,270.0,0,0.0,Secunderabad,Too crowded!!!,2.0,4.0,Non-Veg,50,No,2024.0
+CUST0189,,M,30.0,Branch_1,1,,540.0,0,0.0,Madhapur,Did not use offer,4.0,2.0,Veg,100,No,2024.0
+CUST0190,,Unknown,30.0,Branch_5,5,,45.0,0,0.0,Ameerpet,Average experience,5.0,1.0,Veg,50,No,2024.0
+CUST0191,2025-02-26,Unknown,30.0,Branch_7,7,2025-05-27,2700.0,0,0.0,LB Nagar,Crowded but good,1.0,5.0,Non-Veg,10,No,2024.0
+CUST0192,,Unknown,30.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,Too crowded!!!,5.0,3.0,Non-Veg,300,No,2024.0
+CUST0193,2025-01-09,Unknown,25.0,Branch_6,6,2025-04-09,810.0,0,0.0,Secunderabad,,5.0,5.0,Non-Veg,100,No,2024.0
+CUST0194,2025-01-03,Unknown,25.0,Branch_8,8,2025-04-03,270.0,0,0.0,Dilsukhnagar,Not worth it :(,5.0,2.0,Veg,100,No,2024.0
+CUST0195,,Unknown,60.0,Branch_10,10,,270.0,0,0.0,Mehdipatnam,Did not use offer,5.0,5.0,Non-Veg,300,No,2024.0
+CUST0196,,Unknown,18.0,Branch_6,6,,810.0,0,0.0,Secunderabad,Crowded but good,5.0,3.0,Non-Veg,1000,No,2024.0
+CUST0197,2025-02-08,F,30.0,Branch_10,10,2025-05-09,540.0,0,0.0,Mehdipatnam,Not worth it :(,4.0,2.0,Non-Veg,300,No,2024.0
+CUST0198,,M,18.0,Branch_4,4,,270.0,0,0.0,Kukatpally,,1.0,4.0,Veg,50,No,2024.0
+CUST0199,2025-01-27,Unknown,30.0,Branch_10,10,2025-04-27,270.0,0,0.0,Mehdipatnam,good????,2.0,5.0,Veg,100,No,2024.0
+CUST0200,,Unknown,60.0,Branch_9,9,,2700.0,0,0.0,Uppal,Worth the price??,4.0,5.0,Veg,100,No,2024.0
+CUST0201,,Unknown,30.0,Branch_5,5,,2700.0,0,0.0,Ameerpet,,3.0,5.0,Veg,10,No,2024.0
+CUST0202,,Unknown,60.0,Branch_4,4,,10800.0,0,0.0,Kukatpally,Not much benefit,3.0,5.0,Non-Veg,20,No,2024.0
+CUST0203,,Unknown,30.0,Branch_9,9,,45.0,0,0.0,Uppal,average,3.0,2.0,Veg,0,No,2024.0
+CUST0204,,Unknown,45.0,Branch_6,6,,2700.0,0,0.0,Secunderabad,good????,4.0,2.0,Veg,1000,No,2024.0
+CUST0205,,F,18.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,Not worth it :(,3.0,5.0,Veg,10,No,2024.0
+CUST0206,2025-02-12,M,30.0,Branch_1,1,2025-05-13,270.0,0,0.0,Madhapur,Offer okay,3.0,4.0,Veg,300,No,2024.0
+CUST0207,2025-01-01,Unknown,30.0,Branch_8,8,2025-04-01,270.0,0,0.0,Dilsukhnagar,Too crowded!!!,3.0,3.0,Veg,300,No,2024.0
+CUST0208,2025-02-28,M,25.0,Branch_4,4,2025-05-29,45.0,0,0.0,Kukatpally,Crowded but good,2.0,1.0,Non-Veg,1000,No,2024.0
+CUST0209,,M,30.0,Branch_5,5,,270.0,0,0.0,Ameerpet,Average experience,5.0,5.0,Veg,20,No,2024.0
+CUST0210,,Unknown,25.0,Branch_9,9,,810.0,0,0.0,Uppal,average,5.0,4.0,Veg,10,No,2024.0
+CUST0211,2025-01-22,F,30.0,Branch_5,5,2025-04-22,2700.0,0,0.0,Ameerpet,good????,3.0,3.0,Non-Veg,300,No,2024.0
+CUST0212,2025-01-12,Unknown,60.0,Branch_7,7,2025-04-12,10800.0,0,0.0,LB Nagar,good savings,4.0,3.0,Veg,10,No,2024.0
+CUST0213,2025-01-31,Unknown,45.0,Branch_4,4,2025-05-01,270.0,0,0.0,Kukatpally,Offer okay,3.0,5.0,Non-Veg,100,No,2024.0
+CUST0214,2025-01-17,M,30.0,Branch_1,1,2025-04-17,540.0,0,0.0,Madhapur,Average experience,2.0,4.0,Non-Veg,100,No,2024.0
+CUST0215,,Unknown,30.0,Branch_5,5,,2700.0,0,0.0,Ameerpet,,2.0,4.0,Veg,50,No,2024.0
+CUST0216,,Unknown,30.0,Branch_9,9,,810.0,0,0.0,Uppal,Too crowded!!!,2.0,3.0,Non-Veg,1000,No,2024.0
+CUST0217,2025-02-03,M,30.0,Branch_2,2,2025-05-04,1080.0,0,0.0,Gachibowli,average,5.0,5.0,Veg,100,No,2024.0
+CUST0218,2025-01-11,F,30.0,Branch_2,2,2025-04-11,10800.0,0,0.0,Gachibowli,good savings,5.0,4.0,Veg,50,No,2024.0
+CUST0219,2025-02-02,Unknown,45.0,Branch_9,9,2025-05-03,810.0,0,0.0,Uppal,good????,1.0,4.0,Veg,1000,No,2024.0
+CUST0220,2025-02-17,M,30.0,Branch_6,6,2025-05-18,1080.0,0,0.0,Secunderabad,,1.0,4.0,Veg,20,No,2024.0
+CUST0221,,Unknown,30.0,Branch_7,7,,270.0,0,0.0,LB Nagar,Not much benefit,4.0,4.0,Veg,300,No,2024.0
+CUST0222,2025-02-11,Unknown,25.0,Branch_9,9,2025-05-12,540.0,0,0.0,Uppal,good????,2.0,1.0,Veg,20,No,2024.0
+CUST0223,,Unknown,30.0,Branch_9,9,,2700.0,0,0.0,Uppal,average,2.0,2.0,Non-Veg,20,No,2024.0
+CUST0224,2025-01-18,Unknown,30.0,Branch_1,1,2025-04-18,2700.0,0,0.0,Madhapur,,2.0,1.0,Veg,100,No,2024.0
+CUST0225,2025-01-29,F,30.0,Branch_1,1,2025-04-29,2700.0,0,0.0,Madhapur,Crowded but good,4.0,2.0,Non-Veg,10,No,2024.0
+CUST0226,2025-01-09,Unknown,60.0,Branch_10,10,2025-04-09,540.0,0,0.0,Mehdipatnam,,3.0,2.0,Non-Veg,100,No,2024.0
+CUST0227,2025-01-27,Unknown,30.0,Branch_3,3,2025-04-27,540.0,0,0.0,Hitech City,Very useful offer!!!,3.0,3.0,Non-Veg,50,No,2024.0
+CUST0228,,F,45.0,Branch_7,7,,2700.0,0,0.0,LB Nagar,Crowded but good,2.0,5.0,Non-Veg,10,No,2024.0
+CUST0229,2025-01-20,M,30.0,Branch_8,8,2025-04-20,2700.0,0,0.0,Dilsukhnagar,Crowded but good,5.0,5.0,Veg,50,No,2024.0
+CUST0230,2025-01-17,Unknown,18.0,Branch_8,8,2025-04-17,540.0,0,0.0,Dilsukhnagar,Did not use offer,3.0,2.0,Veg,20,No,2024.0
+CUST0231,,M,18.0,Branch_10,10,,2700.0,0,0.0,Mehdipatnam,,5.0,3.0,Non-Veg,100,No,2024.0
+CUST0232,2025-01-31,M,30.0,Branch_5,5,2025-05-01,10800.0,0,0.0,Ameerpet,,2.0,3.0,Veg,300,No,2024.0
+CUST0233,,F,30.0,Branch_10,10,,270.0,0,0.0,Mehdipatnam,,2.0,5.0,Veg,1000,No,2024.0
+CUST0234,,Unknown,45.0,Branch_9,9,,810.0,0,0.0,Uppal,Average experience,3.0,5.0,Non-Veg,50,No,2024.0
+CUST0235,2025-02-21,F,60.0,Branch_6,6,2025-05-22,810.0,0,0.0,Secunderabad,Offer okay,4.0,1.0,Non-Veg,1000,No,2024.0
+CUST0236,2025-02-17,Unknown,45.0,Branch_10,10,2025-05-18,45.0,0,0.0,Mehdipatnam,Worth the price??,2.0,3.0,Veg,50,No,2024.0
+CUST0237,2025-02-01,Unknown,30.0,Branch_6,6,2025-05-02,2700.0,0,0.0,Secunderabad,good????,3.0,3.0,Non-Veg,50,No,2024.0
+CUST0238,2025-02-16,Unknown,25.0,Branch_9,9,2025-05-17,540.0,0,0.0,Uppal,,5.0,3.0,Veg,100,No,2024.0
+CUST0239,2025-02-23,M,30.0,Branch_1,1,2025-05-24,45.0,0,0.0,Madhapur,Worth the price??,3.0,2.0,Veg,300,No,2024.0
+CUST0240,2025-01-01,Unknown,30.0,Branch_1,1,2025-04-01,1080.0,0,0.0,Madhapur,Very useful offer!!!,1.0,5.0,Non-Veg,50,No,2024.0
+CUST0241,2025-01-02,M,30.0,Branch_5,5,2025-04-02,2700.0,0,0.0,Ameerpet,Too crowded!!!,2.0,1.0,Veg,100,No,2024.0
+CUST0242,2025-01-16,Unknown,30.0,Branch_6,6,2025-04-16,1080.0,0,0.0,Secunderabad,good savings,3.0,4.0,Non-Veg,100,No,2024.0
+CUST0243,2025-02-14,M,18.0,Branch_2,2,2025-05-15,540.0,0,0.0,Gachibowli,Crowded but good,4.0,4.0,Non-Veg,50,No,2024.0
+CUST0244,2025-02-10,Unknown,60.0,Branch_8,8,2025-05-11,2700.0,0,0.0,Dilsukhnagar,Not worth it :(,1.0,5.0,Veg,10,No,2024.0
+CUST0245,2025-02-27,Unknown,30.0,Branch_8,8,2025-05-28,2700.0,0,0.0,Dilsukhnagar,,1.0,3.0,Veg,100,No,2024.0
+CUST0246,2025-01-12,F,30.0,Branch_10,10,2025-04-12,540.0,0,0.0,Mehdipatnam,,1.0,3.0,Veg,100,No,2024.0
+CUST0247,2025-02-06,Unknown,30.0,Branch_9,9,2025-05-07,10800.0,0,0.0,Uppal,Too crowded!!!,3.0,2.0,Non-Veg,300,No,2024.0
+CUST0248,2025-02-02,M,60.0,Branch_4,4,2025-05-03,540.0,0,0.0,Kukatpally,Not worth it :(,5.0,5.0,Non-Veg,1000,No,2024.0
+CUST0249,,Unknown,30.0,Branch_5,5,,45.0,0,0.0,Ameerpet,,3.0,5.0,Non-Veg,50,No,2024.0
+CUST0250,2025-02-13,Unknown,30.0,Branch_10,10,2025-05-14,2700.0,0,0.0,Mehdipatnam,good????,1.0,1.0,Veg,10,No,2024.0
+CUST0251,,Unknown,60.0,Branch_3,3,,2700.0,0,0.0,Hitech City,Offer okay,1.0,1.0,Veg,20,No,2024.0
+CUST0252,,F,18.0,Branch_2,2,,540.0,0,0.0,Gachibowli,Worth the price??,4.0,4.0,Non-Veg,100,No,2024.0
+CUST0253,,Unknown,18.0,Branch_2,2,,45.0,0,0.0,Gachibowli,Not worth it :(,5.0,3.0,Non-Veg,0,No,2024.0
+CUST0254,,F,25.0,Branch_2,2,,810.0,0,0.0,Gachibowli,Loved it ,4.0,2.0,Veg,20,No,2024.0
+CUST0255,,M,25.0,Branch_3,3,,540.0,0,0.0,Hitech City,Crowded but good,3.0,4.0,Veg,50,No,2024.0
+CUST0256,2025-01-24,F,30.0,Branch_8,8,2025-04-24,270.0,0,0.0,Dilsukhnagar,good savings,2.0,3.0,Veg,50,No,2024.0
+CUST0257,,Unknown,30.0,Branch_7,7,,10800.0,0,0.0,LB Nagar,Offer okay,4.0,3.0,Non-Veg,10,No,2024.0
+CUST0258,,Unknown,60.0,Branch_4,4,,540.0,0,0.0,Kukatpally,Worth the price??,4.0,3.0,Veg,300,No,2024.0
+CUST0259,,Unknown,45.0,Branch_6,6,,1080.0,0,0.0,Secunderabad,average,4.0,3.0,Veg,100,No,2024.0
+CUST0260,2025-02-07,M,30.0,Branch_9,9,2025-05-08,270.0,0,0.0,Uppal,good????,2.0,4.0,Veg,1000,No,2024.0
+CUST0261,2025-02-22,F,45.0,Branch_8,8,2025-05-23,10800.0,0,0.0,Dilsukhnagar,,3.0,3.0,Veg,300,No,2024.0
+CUST0262,,Unknown,30.0,Branch_2,2,,10800.0,0,0.0,Gachibowli,Not worth it :(,4.0,5.0,Non-Veg,1000,No,2024.0
+CUST0263,,M,18.0,Branch_6,6,,1080.0,0,0.0,Secunderabad,Too crowded!!!,2.0,3.0,Non-Veg,20,No,2024.0
+CUST0264,2025-02-11,Unknown,30.0,Branch_7,7,2025-05-12,45.0,0,0.0,LB Nagar,good savings,1.0,1.0,Veg,10,No,2024.0
+CUST0265,2025-01-29,F,60.0,Branch_10,10,2025-04-29,810.0,0,0.0,Mehdipatnam,Very useful offer!!!,4.0,1.0,Veg,50,No,2024.0
+CUST0266,2025-01-08,Unknown,30.0,Branch_5,5,2025-04-08,2700.0,0,0.0,Ameerpet,Too crowded!!!,2.0,5.0,Non-Veg,20,No,2024.0
+CUST0267,,Unknown,18.0,Branch_8,8,,45.0,0,0.0,Dilsukhnagar,Average experience,1.0,3.0,Veg,0,No,2024.0
+CUST0268,,F,25.0,Branch_3,3,,2700.0,0,0.0,Hitech City,Did not use offer,2.0,3.0,Non-Veg,50,No,2024.0
+CUST0269,,F,30.0,Branch_3,3,,270.0,0,0.0,Hitech City,Crowded but good,1.0,3.0,Non-Veg,10,No,2024.0
+CUST0270,,M,30.0,Branch_7,7,,1080.0,0,0.0,LB Nagar,,3.0,3.0,Veg,100,No,2024.0
+CUST0271,2025-02-21,F,30.0,Branch_6,6,2025-05-22,1080.0,0,0.0,Secunderabad,good savings,3.0,3.0,Non-Veg,100,No,2024.0
+CUST0272,,Unknown,18.0,Branch_10,10,,1080.0,0,0.0,Mehdipatnam,Offer okay,3.0,4.0,Non-Veg,10,No,2024.0
+CUST0273,,F,60.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,good savings,2.0,3.0,Veg,10,No,2024.0
+CUST0274,,Unknown,30.0,Branch_9,9,,2700.0,0,0.0,Uppal,Not worth it :(,2.0,5.0,Non-Veg,50,No,2024.0
+CUST0275,2025-02-01,F,30.0,Branch_3,3,2025-05-02,1080.0,0,0.0,Hitech City,Average experience,2.0,2.0,Veg,1000,No,2024.0
+CUST0276,,M,30.0,Branch_6,6,,1080.0,0,0.0,Secunderabad,Worth the price??,2.0,4.0,Non-Veg,100,No,2024.0
+CUST0277,,Unknown,30.0,Branch_8,8,,810.0,0,0.0,Dilsukhnagar,Not much benefit,2.0,1.0,Non-Veg,0,No,2024.0
+CUST0278,2025-01-19,F,30.0,Branch_5,5,2025-04-19,540.0,0,0.0,Ameerpet,Not worth it :(,3.0,4.0,Non-Veg,100,No,2024.0
+CUST0279,2025-02-06,M,30.0,Branch_6,6,2025-05-07,540.0,0,0.0,Secunderabad,Did not use offer,2.0,4.0,Veg,300,No,2024.0
+CUST0280,2025-01-20,M,30.0,Branch_6,6,2025-04-20,45.0,0,0.0,Secunderabad,average,1.0,2.0,Veg,1000,No,2024.0
+CUST0281,,Unknown,25.0,Branch_10,10,,10800.0,0,0.0,Mehdipatnam,Not worth it :(,2.0,2.0,Veg,1000,No,2024.0
+CUST0282,2025-02-06,F,60.0,Branch_9,9,2025-05-07,1080.0,0,0.0,Uppal,good????,3.0,3.0,Non-Veg,20,No,2024.0
+CUST0283,2025-01-09,Unknown,25.0,Branch_1,1,2025-04-09,10800.0,0,0.0,Madhapur,good????,2.0,2.0,Veg,300,No,2024.0
+CUST0284,,Unknown,25.0,Branch_7,7,,10800.0,0,0.0,LB Nagar,Not worth it :(,3.0,3.0,Non-Veg,50,No,2024.0
+CUST0285,,Unknown,45.0,Branch_2,2,,810.0,0,0.0,Gachibowli,good????,3.0,4.0,Non-Veg,20,No,2024.0
+CUST0286,2025-02-25,Unknown,18.0,Branch_8,8,2025-05-26,10800.0,0,0.0,Dilsukhnagar,Too crowded!!!,5.0,4.0,Veg,50,No,2024.0
+CUST0287,2025-02-01,F,30.0,Branch_6,6,2025-05-02,540.0,0,0.0,Secunderabad,Too crowded!!!,3.0,3.0,Veg,0,No,2024.0
+CUST0288,2025-02-10,F,30.0,Branch_2,2,2025-05-11,10800.0,0,0.0,Gachibowli,Not much benefit,1.0,4.0,Veg,300,No,2024.0
+CUST0289,2025-02-26,M,60.0,Branch_5,5,2025-05-27,540.0,0,0.0,Ameerpet,Average experience,1.0,3.0,Non-Veg,300,No,2024.0
+CUST0290,2025-01-04,Unknown,18.0,Branch_4,4,2025-04-04,2700.0,0,0.0,Kukatpally,good????,1.0,1.0,Veg,50,No,2024.0
+CUST0291,2025-01-09,M,30.0,Branch_8,8,2025-04-09,270.0,0,0.0,Dilsukhnagar,good????,3.0,1.0,Non-Veg,300,No,2024.0
+CUST0292,2025-01-31,M,60.0,Branch_2,2,2025-05-01,270.0,0,0.0,Gachibowli,Offer okay,3.0,2.0,Non-Veg,1000,No,2024.0
+CUST0293,2025-02-11,F,30.0,Branch_1,1,2025-05-12,270.0,0,0.0,Madhapur,Offer okay,3.0,2.0,Non-Veg,300,No,2024.0
+CUST0294,2025-02-28,M,18.0,Branch_4,4,2025-05-29,1080.0,0,0.0,Kukatpally,Worth the price??,1.0,5.0,Non-Veg,50,No,2024.0
+CUST0295,,F,45.0,Branch_3,3,,810.0,0,0.0,Hitech City,Loved it ,1.0,2.0,Non-Veg,100,No,2024.0
+CUST0296,,Unknown,30.0,Branch_1,1,,10800.0,0,0.0,Madhapur,Did not use offer,5.0,5.0,Veg,300,No,2024.0
+CUST0297,,F,30.0,Branch_1,1,,540.0,0,0.0,Madhapur,Crowded but good,1.0,2.0,Non-Veg,300,No,2024.0
+CUST0298,2025-02-03,Unknown,30.0,Branch_3,3,2025-05-04,540.0,0,0.0,Hitech City,Offer okay,5.0,3.0,Veg,1000,No,2024.0
+CUST0299,,M,30.0,Branch_1,1,,10800.0,0,0.0,Madhapur,Average experience,2.0,1.0,Veg,1000,No,2024.0
+CUST0300,,Unknown,30.0,Branch_9,9,,1080.0,0,0.0,Uppal,good????,4.0,1.0,Non-Veg,100,No,2024.0
+CUST0301,2025-01-18,Unknown,30.0,Branch_3,3,2025-04-18,540.0,0,0.0,Hitech City,Not worth it :(,3.0,3.0,Non-Veg,300,No,2024.0
+CUST0302,2025-01-20,M,30.0,Branch_4,4,2025-04-20,810.0,0,0.0,Kukatpally,good savings,4.0,1.0,Non-Veg,100,No,2024.0
+CUST0303,2025-01-20,M,30.0,Branch_3,3,2025-04-20,2700.0,0,0.0,Hitech City,good????,2.0,3.0,Veg,10,No,2024.0
+CUST0304,,Unknown,25.0,Branch_9,9,,540.0,0,0.0,Uppal,Offer okay,2.0,3.0,Veg,300,No,2024.0
+CUST0305,2025-02-19,M,45.0,Branch_5,5,2025-05-20,540.0,0,0.0,Ameerpet,good????,5.0,3.0,Veg,50,No,2024.0
+CUST0306,,Unknown,25.0,Branch_1,1,,1080.0,0,0.0,Madhapur,Offer okay,2.0,3.0,Veg,100,No,2024.0
+CUST0307,2025-01-15,M,30.0,Branch_4,4,2025-04-15,1080.0,0,0.0,Kukatpally,Offer okay,4.0,2.0,Veg,1000,No,2024.0
+CUST0308,2025-02-05,F,60.0,Branch_7,7,2025-05-06,2700.0,0,0.0,LB Nagar,,4.0,3.0,Veg,20,No,2024.0
+CUST0309,2025-02-06,F,30.0,Branch_1,1,2025-05-07,45.0,0,0.0,Madhapur,Too crowded!!!,5.0,1.0,Non-Veg,0,No,2024.0
+CUST0310,,Unknown,18.0,Branch_5,5,,10800.0,0,0.0,Ameerpet,Did not use offer,4.0,1.0,Veg,10,No,2024.0
+CUST0311,,F,30.0,Branch_10,10,,1080.0,0,0.0,Mehdipatnam,Offer okay,5.0,4.0,Veg,300,No,2024.0
+CUST0312,2025-01-10,M,60.0,Branch_6,6,2025-04-10,810.0,0,0.0,Secunderabad,Very useful offer!!!,3.0,4.0,Non-Veg,300,No,2024.0
+CUST0313,,F,30.0,Branch_9,9,,45.0,0,0.0,Uppal,Not much benefit,1.0,2.0,Non-Veg,20,No,2024.0
+CUST0314,2025-01-03,Unknown,18.0,Branch_6,6,2025-04-03,10800.0,0,0.0,Secunderabad,Not worth it :(,1.0,5.0,Veg,300,No,2024.0
+CUST0315,,M,30.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,Loved it ,2.0,2.0,Veg,20,No,2024.0
+CUST0316,,Unknown,30.0,Branch_6,6,,10800.0,0,0.0,Secunderabad,Average experience,2.0,1.0,Veg,10,No,2024.0
+CUST0317,2025-01-10,Unknown,18.0,Branch_6,6,2025-04-10,270.0,0,0.0,Secunderabad,Did not use offer,3.0,2.0,Non-Veg,20,No,2024.0
+CUST0318,,F,45.0,Branch_2,2,,540.0,0,0.0,Gachibowli,average,3.0,3.0,Non-Veg,0,No,2024.0
+CUST0319,2025-02-23,Unknown,30.0,Branch_4,4,2025-05-24,540.0,0,0.0,Kukatpally,Did not use offer,1.0,3.0,Veg,20,No,2024.0
+CUST0320,2025-01-02,F,18.0,Branch_9,9,2025-04-02,10800.0,0,0.0,Uppal,Not much benefit,1.0,2.0,Veg,0,No,2024.0
+CUST0321,2025-02-23,Unknown,18.0,Branch_7,7,2025-05-24,270.0,0,0.0,LB Nagar,Not worth it :(,5.0,3.0,Veg,0,No,2024.0
+CUST0322,2025-01-13,Unknown,18.0,Branch_2,2,2025-04-13,810.0,0,0.0,Gachibowli,Very useful offer!!!,4.0,1.0,Veg,100,No,2024.0
+CUST0323,,Unknown,30.0,Branch_7,7,,10800.0,0,0.0,LB Nagar,Crowded but good,3.0,4.0,Veg,20,No,2024.0
+CUST0324,2025-02-28,M,30.0,Branch_3,3,2025-05-29,540.0,0,0.0,Hitech City,Loved it ,3.0,4.0,Non-Veg,100,No,2024.0
+CUST0325,,Unknown,25.0,Branch_5,5,,45.0,0,0.0,Ameerpet,Crowded but good,2.0,3.0,Non-Veg,10,No,2024.0
+CUST0326,2025-01-25,Unknown,60.0,Branch_9,9,2025-04-25,2700.0,0,0.0,Uppal,,5.0,5.0,Veg,50,No,2024.0
+CUST0327,,F,30.0,Branch_6,6,,270.0,0,0.0,Secunderabad,,3.0,1.0,Non-Veg,100,No,2024.0
+CUST0328,,F,18.0,Branch_4,4,,10800.0,0,0.0,Kukatpally,,3.0,2.0,Veg,100,No,2024.0
+CUST0329,2025-02-18,Unknown,25.0,Branch_7,7,2025-05-19,1080.0,0,0.0,LB Nagar,Worth the price??,2.0,5.0,Veg,1000,No,2024.0
+CUST0330,,F,30.0,Branch_6,6,,1080.0,0,0.0,Secunderabad,average,4.0,5.0,Veg,10,No,2024.0
+CUST0331,,F,30.0,Branch_1,1,,45.0,0,0.0,Madhapur,Very useful offer!!!,5.0,4.0,Veg,20,No,2024.0
+CUST0332,2025-02-21,M,30.0,Branch_6,6,2025-05-22,540.0,0,0.0,Secunderabad,Worth the price??,5.0,3.0,Veg,1000,No,2024.0
+CUST0333,2025-02-24,Unknown,30.0,Branch_2,2,2025-05-25,10800.0,0,0.0,Gachibowli,Not worth it :(,1.0,3.0,Veg,20,No,2024.0
+CUST0334,2025-01-11,Unknown,25.0,Branch_8,8,2025-04-11,810.0,0,0.0,Dilsukhnagar,good????,5.0,3.0,Non-Veg,1000,No,2024.0
+CUST0335,,F,30.0,Branch_10,10,,270.0,0,0.0,Mehdipatnam,Average experience,3.0,3.0,Veg,10,No,2024.0
+CUST0336,2025-02-16,M,25.0,Branch_7,7,2025-05-17,2700.0,0,0.0,LB Nagar,Not worth it :(,3.0,5.0,Veg,300,No,2024.0
+CUST0337,2025-03-01,F,60.0,Branch_2,2,2025-05-30,270.0,0,0.0,Gachibowli,Offer okay,2.0,3.0,Veg,1000,No,2024.0
+CUST0338,,F,30.0,Branch_5,5,,810.0,0,0.0,Ameerpet,good????,1.0,3.0,Veg,1000,No,2024.0
+CUST0339,2025-02-16,F,30.0,Branch_7,7,2025-05-17,45.0,0,0.0,LB Nagar,Not much benefit,4.0,3.0,Non-Veg,50,No,2024.0
+CUST0340,2025-02-23,F,30.0,Branch_4,4,2025-05-24,10800.0,0,0.0,Kukatpally,good savings,1.0,3.0,Veg,20,No,2024.0
+CUST0341,,F,30.0,Branch_6,6,,45.0,0,0.0,Secunderabad,Worth the price??,3.0,1.0,Non-Veg,0,No,2024.0
+CUST0342,,M,30.0,Branch_8,8,,1080.0,0,0.0,Dilsukhnagar,Loved it ,2.0,5.0,Non-Veg,10,No,2024.0
+CUST0343,2025-01-07,Unknown,45.0,Branch_7,7,2025-04-07,270.0,0,0.0,LB Nagar,Average experience,2.0,1.0,Veg,50,No,2024.0
+CUST0344,,M,30.0,Branch_6,6,,270.0,0,0.0,Secunderabad,good savings,3.0,3.0,Non-Veg,100,No,2024.0
+CUST0345,,F,25.0,Branch_1,1,,270.0,0,0.0,Madhapur,Loved it ,3.0,1.0,Non-Veg,1000,No,2024.0
+CUST0346,2025-01-20,M,30.0,Branch_5,5,2025-04-20,810.0,0,0.0,Ameerpet,Worth the price??,3.0,4.0,Veg,10,No,2024.0
+CUST0347,,Unknown,45.0,Branch_8,8,,45.0,0,0.0,Dilsukhnagar,,3.0,5.0,Veg,10,No,2024.0
+CUST0348,2025-01-06,F,30.0,Branch_7,7,2025-04-06,540.0,0,0.0,LB Nagar,average,4.0,5.0,Non-Veg,100,No,2024.0
+CUST0349,,Unknown,18.0,Branch_8,8,,1080.0,0,0.0,Dilsukhnagar,Crowded but good,3.0,1.0,Non-Veg,100,No,2024.0
+CUST0350,2025-01-08,F,30.0,Branch_3,3,2025-04-08,810.0,0,0.0,Hitech City,Worth the price??,1.0,4.0,Veg,300,No,2024.0
+CUST0351,,Unknown,60.0,Branch_3,3,,270.0,0,0.0,Hitech City,,3.0,1.0,Veg,50,No,2024.0
+CUST0352,,Unknown,30.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,Too crowded!!!,3.0,5.0,Non-Veg,100,No,2024.0
+CUST0353,,F,18.0,Branch_3,3,,45.0,0,0.0,Hitech City,,1.0,5.0,Veg,1000,No,2024.0
+CUST0354,,Unknown,45.0,Branch_6,6,,10800.0,0,0.0,Secunderabad,Crowded but good,3.0,4.0,Non-Veg,100,No,2024.0
+CUST0355,,Unknown,25.0,Branch_5,5,,45.0,0,0.0,Ameerpet,Not worth it :(,5.0,3.0,Non-Veg,50,No,2024.0
+CUST0356,2025-01-26,Unknown,60.0,Branch_8,8,2025-04-26,2700.0,0,0.0,Dilsukhnagar,Very useful offer!!!,3.0,3.0,Veg,20,No,2024.0
+CUST0357,,F,25.0,Branch_2,2,,10800.0,0,0.0,Gachibowli,Average experience,3.0,4.0,Veg,20,No,2024.0
+CUST0358,,F,30.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,,4.0,3.0,Non-Veg,1000,No,2024.0
+CUST0359,,F,18.0,Branch_9,9,,10800.0,0,0.0,Uppal,Average experience,3.0,5.0,Non-Veg,10,No,2024.0
+CUST0360,2025-01-12,F,30.0,Branch_1,1,2025-04-12,10800.0,0,0.0,Madhapur,Not much benefit,1.0,3.0,Non-Veg,10,No,2024.0
+CUST0361,,Unknown,18.0,Branch_9,9,,540.0,0,0.0,Uppal,Loved it ,1.0,2.0,Veg,50,No,2024.0
+CUST0362,,Unknown,60.0,Branch_10,10,,270.0,0,0.0,Mehdipatnam,Worth the price??,3.0,3.0,Non-Veg,0,No,2024.0
+CUST0363,,F,30.0,Branch_1,1,,45.0,0,0.0,Madhapur,average,2.0,3.0,Veg,300,No,2024.0
+CUST0364,2025-01-18,Unknown,25.0,Branch_1,1,2025-04-18,810.0,0,0.0,Madhapur,Loved it ,2.0,5.0,Veg,10,No,2024.0
+CUST0365,,Unknown,30.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,average,3.0,4.0,Veg,10,No,2024.0
+CUST0366,,Unknown,18.0,Branch_9,9,,540.0,0,0.0,Uppal,Very useful offer!!!,5.0,3.0,Veg,100,No,2024.0
+CUST0367,,Unknown,18.0,Branch_2,2,,540.0,0,0.0,Gachibowli,Offer okay,3.0,3.0,Veg,1000,No,2024.0
+CUST0368,,F,25.0,Branch_5,5,,540.0,0,0.0,Ameerpet,Did not use offer,2.0,1.0,Non-Veg,50,No,2024.0
+CUST0369,,Unknown,45.0,Branch_1,1,,2700.0,0,0.0,Madhapur,Average experience,4.0,4.0,Non-Veg,300,No,2024.0
+CUST0370,2025-02-07,F,30.0,Branch_6,6,2025-05-08,1080.0,0,0.0,Secunderabad,,3.0,3.0,Non-Veg,20,No,2024.0
+CUST0371,2025-02-23,Unknown,25.0,Branch_2,2,2025-05-24,1080.0,0,0.0,Gachibowli,good????,3.0,3.0,Non-Veg,1000,No,2024.0
+CUST0372,2025-03-02,Unknown,30.0,Branch_4,4,2025-05-31,540.0,0,0.0,Kukatpally,good????,3.0,4.0,Veg,20,No,2024.0
+CUST0373,,M,30.0,Branch_8,8,,1080.0,0,0.0,Dilsukhnagar,Very useful offer!!!,3.0,5.0,Non-Veg,100,No,2024.0
+CUST0374,2025-01-31,Unknown,30.0,Branch_7,7,2025-05-01,1080.0,0,0.0,LB Nagar,Very useful offer!!!,2.0,2.0,Veg,20,No,2024.0
+CUST0375,,Unknown,25.0,Branch_3,3,,1080.0,0,0.0,Hitech City,Too crowded!!!,1.0,4.0,Veg,300,No,2024.0
+CUST0376,2025-01-21,F,25.0,Branch_4,4,2025-04-21,45.0,0,0.0,Kukatpally,Not much benefit,1.0,2.0,Non-Veg,50,No,2024.0
+CUST0377,,Unknown,30.0,Branch_8,8,,810.0,0,0.0,Dilsukhnagar,Very useful offer!!!,5.0,2.0,Non-Veg,20,No,2024.0
+CUST0378,2025-02-27,M,30.0,Branch_4,4,2025-05-28,10800.0,0,0.0,Kukatpally,Loved it ,3.0,2.0,Veg,300,No,2024.0
+CUST0379,,Unknown,45.0,Branch_2,2,,540.0,0,0.0,Gachibowli,Worth the price??,1.0,1.0,Veg,20,No,2024.0
+CUST0380,,Unknown,30.0,Branch_10,10,,2700.0,0,0.0,Mehdipatnam,,3.0,2.0,Veg,50,No,2024.0
+CUST0381,,Unknown,30.0,Branch_3,3,,10800.0,0,0.0,Hitech City,,2.0,3.0,Veg,10,No,2024.0
+CUST0382,2025-02-07,Unknown,45.0,Branch_1,1,2025-05-08,270.0,0,0.0,Madhapur,Too crowded!!!,5.0,5.0,Veg,100,No,2024.0
+CUST0383,2025-02-12,M,30.0,Branch_1,1,2025-05-13,2700.0,0,0.0,Madhapur,Not much benefit,4.0,1.0,Non-Veg,20,No,2024.0
+CUST0384,,M,45.0,Branch_4,4,,2700.0,0,0.0,Kukatpally,Crowded but good,3.0,1.0,Non-Veg,100,No,2024.0
+CUST0385,,Unknown,18.0,Branch_3,3,,1080.0,0,0.0,Hitech City,Did not use offer,3.0,5.0,Veg,20,No,2024.0
+CUST0386,2025-02-20,Unknown,30.0,Branch_4,4,2025-05-21,810.0,0,0.0,Kukatpally,Offer okay,3.0,4.0,Veg,10,No,2024.0
+CUST0387,2025-02-05,Unknown,30.0,Branch_8,8,2025-05-06,270.0,0,0.0,Dilsukhnagar,Very useful offer!!!,1.0,3.0,Veg,0,No,2024.0
+CUST0388,,M,18.0,Branch_9,9,,270.0,0,0.0,Uppal,,3.0,3.0,Veg,50,No,2024.0
+CUST0389,,M,25.0,Branch_1,1,,540.0,0,0.0,Madhapur,average,1.0,3.0,Veg,1000,No,2024.0
+CUST0390,,M,30.0,Branch_2,2,,810.0,0,0.0,Gachibowli,Very useful offer!!!,2.0,3.0,Non-Veg,10,No,2024.0
+CUST0391,,Unknown,18.0,Branch_10,10,,540.0,0,0.0,Mehdipatnam,Offer okay,3.0,2.0,Veg,50,No,2024.0
+CUST0392,,Unknown,30.0,Branch_7,7,,810.0,0,0.0,LB Nagar,Loved it ,2.0,1.0,Veg,300,No,2024.0
+CUST0393,2025-03-02,Unknown,30.0,Branch_10,10,2025-05-31,270.0,0,0.0,Mehdipatnam,Worth the price??,5.0,4.0,Veg,100,No,2024.0
+CUST0394,2025-02-25,Unknown,30.0,Branch_3,3,2025-05-26,10800.0,0,0.0,Hitech City,good savings,4.0,4.0,Veg,0,No,2024.0
+CUST0395,,F,60.0,Branch_1,1,,2700.0,0,0.0,Madhapur,Did not use offer,5.0,3.0,Non-Veg,100,No,2024.0
+CUST0396,2025-01-28,Unknown,25.0,Branch_6,6,2025-04-28,2700.0,0,0.0,Secunderabad,average,5.0,5.0,Veg,0,No,2024.0
+CUST0397,2025-02-02,M,30.0,Branch_3,3,2025-05-03,810.0,0,0.0,Hitech City,Offer okay,2.0,3.0,Veg,0,No,2024.0
+CUST0398,2025-02-05,M,30.0,Branch_4,4,2025-05-06,810.0,0,0.0,Kukatpally,Not much benefit,5.0,4.0,Veg,1000,No,2024.0
+CUST0399,,Unknown,30.0,Branch_2,2,,810.0,0,0.0,Gachibowli,good savings,4.0,4.0,Veg,100,No,2024.0
+CUST0400,2025-02-22,Unknown,30.0,Branch_10,10,2025-05-23,10800.0,0,0.0,Mehdipatnam,Loved it ,3.0,4.0,Veg,20,No,2024.0
+CUST0401,2025-02-22,Unknown,60.0,Branch_9,9,2025-05-23,10800.0,0,0.0,Uppal,good????,4.0,1.0,Veg,1000,No,2024.0
+CUST0402,2025-01-01,Unknown,18.0,Branch_5,5,2025-04-01,540.0,0,0.0,Ameerpet,Very useful offer!!!,2.0,4.0,Veg,1000,No,2024.0
+CUST0403,,F,30.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,good savings,4.0,2.0,Non-Veg,1000,No,2024.0
+CUST0404,2025-02-15,M,30.0,Branch_1,1,2025-05-16,45.0,0,0.0,Madhapur,Not much benefit,3.0,5.0,Non-Veg,10,No,2024.0
+CUST0405,,Unknown,30.0,Branch_1,1,,45.0,0,0.0,Madhapur,,5.0,2.0,Non-Veg,100,No,2024.0
+CUST0406,2025-02-16,Unknown,30.0,Branch_10,10,2025-05-17,270.0,0,0.0,Mehdipatnam,Crowded but good,5.0,3.0,Veg,20,No,2024.0
+CUST0407,,F,25.0,Branch_8,8,,540.0,0,0.0,Dilsukhnagar,Crowded but good,5.0,3.0,Non-Veg,100,No,2024.0
+CUST0408,,Unknown,30.0,Branch_9,9,,10800.0,0,0.0,Uppal,,2.0,5.0,Non-Veg,20,No,2024.0
+CUST0409,,Unknown,18.0,Branch_3,3,,2700.0,0,0.0,Hitech City,Too crowded!!!,3.0,5.0,Non-Veg,100,No,2024.0
+CUST0410,,Unknown,30.0,Branch_9,9,,2700.0,0,0.0,Uppal,Too crowded!!!,1.0,5.0,Veg,0,No,2024.0
+CUST0411,,F,45.0,Branch_1,1,,270.0,0,0.0,Madhapur,Too crowded!!!,2.0,3.0,Non-Veg,20,No,2024.0
+CUST0412,2025-02-23,M,60.0,Branch_4,4,2025-05-24,2700.0,0,0.0,Kukatpally,average,4.0,1.0,Non-Veg,1000,No,2024.0
+CUST0413,2025-02-17,Unknown,30.0,Branch_9,9,2025-05-18,1080.0,0,0.0,Uppal,,4.0,4.0,Non-Veg,1000,No,2024.0
+CUST0414,,Unknown,30.0,Branch_1,1,,1080.0,0,0.0,Madhapur,Not worth it :(,4.0,2.0,Non-Veg,300,No,2024.0
+CUST0415,,F,30.0,Branch_9,9,,10800.0,0,0.0,Uppal,Average experience,4.0,2.0,Non-Veg,0,No,2024.0
+CUST0416,2025-01-12,Unknown,45.0,Branch_1,1,2025-04-12,1080.0,0,0.0,Madhapur,Did not use offer,3.0,2.0,Veg,100,No,2024.0
+CUST0417,,F,30.0,Branch_8,8,,45.0,0,0.0,Dilsukhnagar,Worth the price??,3.0,5.0,Veg,1000,No,2024.0
+CUST0418,,Unknown,18.0,Branch_9,9,,810.0,0,0.0,Uppal,Too crowded!!!,3.0,3.0,Non-Veg,10,No,2024.0
+CUST0419,2025-02-03,Unknown,18.0,Branch_7,7,2025-05-04,10800.0,0,0.0,LB Nagar,Offer okay,2.0,2.0,Non-Veg,20,No,2024.0
+CUST0420,,Unknown,30.0,Branch_4,4,,540.0,0,0.0,Kukatpally,good savings,3.0,3.0,Non-Veg,10,No,2024.0
+CUST0421,2025-01-03,Unknown,45.0,Branch_2,2,2025-04-03,540.0,0,0.0,Gachibowli,Did not use offer,3.0,3.0,Veg,100,No,2024.0
+CUST0422,,Unknown,30.0,Branch_8,8,,1080.0,0,0.0,Dilsukhnagar,Average experience,3.0,2.0,Veg,100,No,2024.0
+CUST0423,2025-03-02,M,18.0,Branch_9,9,2025-05-31,270.0,0,0.0,Uppal,,3.0,3.0,Veg,1000,No,2024.0
+CUST0424,,Unknown,18.0,Branch_4,4,,10800.0,0,0.0,Kukatpally,good????,3.0,2.0,Veg,50,No,2024.0
+CUST0425,,M,25.0,Branch_2,2,,45.0,0,0.0,Gachibowli,Too crowded!!!,3.0,5.0,Veg,100,No,2024.0
+CUST0426,2025-02-28,Unknown,60.0,Branch_7,7,2025-05-29,810.0,0,0.0,LB Nagar,Very useful offer!!!,4.0,3.0,Veg,100,No,2024.0
+CUST0427,2025-02-11,M,18.0,Branch_10,10,2025-05-12,1080.0,0,0.0,Mehdipatnam,Offer okay,5.0,1.0,Veg,1000,No,2024.0
+CUST0428,,Unknown,30.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,Crowded but good,3.0,1.0,Non-Veg,10,No,2024.0
+CUST0429,2025-01-09,Unknown,25.0,Branch_9,9,2025-04-09,810.0,0,0.0,Uppal,Average experience,3.0,3.0,Non-Veg,20,No,2024.0
+CUST0430,2025-02-05,M,30.0,Branch_1,1,2025-05-06,1080.0,0,0.0,Madhapur,Did not use offer,5.0,1.0,Veg,10,No,2024.0
+CUST0431,,F,25.0,Branch_9,9,,270.0,0,0.0,Uppal,Worth the price??,2.0,5.0,Veg,10,No,2024.0
+CUST0432,2025-01-12,Unknown,18.0,Branch_1,1,2025-04-12,10800.0,0,0.0,Madhapur,Average experience,3.0,1.0,Veg,0,No,2024.0
+CUST0433,2025-02-16,F,30.0,Branch_6,6,2025-05-17,810.0,0,0.0,Secunderabad,good savings,3.0,5.0,Veg,10,No,2024.0
+CUST0434,,Unknown,25.0,Branch_6,6,,810.0,0,0.0,Secunderabad,Not worth it :(,5.0,3.0,Veg,50,No,2024.0
+CUST0435,2025-01-01,Unknown,60.0,Branch_7,7,2025-04-01,270.0,0,0.0,LB Nagar,Worth the price??,3.0,3.0,Veg,50,No,2024.0
+CUST0436,,Unknown,18.0,Branch_5,5,,810.0,0,0.0,Ameerpet,Worth the price??,3.0,5.0,Veg,1000,No,2024.0
+CUST0437,,F,45.0,Branch_9,9,,10800.0,0,0.0,Uppal,good????,3.0,1.0,Non-Veg,0,No,2024.0
+CUST0438,2025-02-24,Unknown,30.0,Branch_10,10,2025-05-25,2700.0,0,0.0,Mehdipatnam,,1.0,5.0,Veg,100,No,2024.0
+CUST0439,,Unknown,30.0,Branch_6,6,,2700.0,0,0.0,Secunderabad,,5.0,3.0,Veg,10,No,2024.0
+CUST0440,,Unknown,60.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,Did not use offer,1.0,3.0,Veg,1000,No,2024.0
+CUST0441,2025-02-18,F,30.0,Branch_3,3,2025-05-19,270.0,0,0.0,Hitech City,Offer okay,1.0,2.0,Non-Veg,10,No,2024.0
+CUST0442,2025-01-17,Unknown,30.0,Branch_9,9,2025-04-17,270.0,0,0.0,Uppal,Not much benefit,4.0,1.0,Veg,300,No,2024.0
+CUST0443,,Unknown,45.0,Branch_9,9,,45.0,0,0.0,Uppal,Not worth it :(,5.0,5.0,Veg,50,No,2024.0
+CUST0444,,Unknown,30.0,Branch_2,2,,540.0,0,0.0,Gachibowli,,2.0,5.0,Non-Veg,20,No,2024.0
+CUST0445,,M,25.0,Branch_10,10,,810.0,0,0.0,Mehdipatnam,Not much benefit,2.0,2.0,Veg,100,No,2024.0
+CUST0446,,F,60.0,Branch_3,3,,270.0,0,0.0,Hitech City,Not worth it :(,3.0,1.0,Non-Veg,10,No,2024.0
+CUST0447,,Unknown,30.0,Branch_2,2,,10800.0,0,0.0,Gachibowli,Not much benefit,2.0,5.0,Veg,300,No,2024.0
+CUST0448,,F,25.0,Branch_1,1,,45.0,0,0.0,Madhapur,Worth the price??,3.0,5.0,Veg,100,No,2024.0
+CUST0449,2025-01-04,Unknown,30.0,Branch_9,9,2025-04-04,540.0,0,0.0,Uppal,,3.0,3.0,Non-Veg,1000,No,2024.0
+CUST0450,,Unknown,30.0,Branch_8,8,,45.0,0,0.0,Dilsukhnagar,Worth the price??,2.0,4.0,Non-Veg,10,No,2024.0
+CUST0451,2025-02-09,Unknown,18.0,Branch_6,6,2025-05-10,1080.0,0,0.0,Secunderabad,,4.0,4.0,Veg,0,No,2024.0
+CUST0452,2025-01-13,F,18.0,Branch_7,7,2025-04-13,10800.0,0,0.0,LB Nagar,Worth the price??,4.0,5.0,Non-Veg,0,No,2024.0
+CUST0453,2025-01-06,M,30.0,Branch_10,10,2025-04-06,2700.0,0,0.0,Mehdipatnam,Did not use offer,4.0,3.0,Veg,300,No,2024.0
+CUST0454,,Unknown,18.0,Branch_7,7,,270.0,0,0.0,LB Nagar,Crowded but good,2.0,3.0,Non-Veg,1000,No,2024.0
+CUST0455,2025-02-28,Unknown,45.0,Branch_9,9,2025-05-29,45.0,0,0.0,Uppal,,1.0,3.0,Non-Veg,1000,No,2024.0
+CUST0456,2025-02-06,F,60.0,Branch_7,7,2025-05-07,45.0,0,0.0,LB Nagar,Crowded but good,3.0,1.0,Veg,50,No,2024.0
+CUST0457,,Unknown,45.0,Branch_7,7,,540.0,0,0.0,LB Nagar,Loved it ,4.0,2.0,Non-Veg,100,No,2024.0
+CUST0458,,Unknown,45.0,Branch_9,9,,270.0,0,0.0,Uppal,Average experience,5.0,3.0,Non-Veg,50,No,2024.0
+CUST0459,2025-02-24,Unknown,25.0,Branch_4,4,2025-05-25,2700.0,0,0.0,Kukatpally,good savings,2.0,5.0,Non-Veg,1000,No,2024.0
+CUST0460,,M,25.0,Branch_10,10,,10800.0,0,0.0,Mehdipatnam,Crowded but good,3.0,1.0,Veg,1000,No,2024.0
+CUST0461,2025-01-31,Unknown,18.0,Branch_4,4,2025-05-01,810.0,0,0.0,Kukatpally,Not worth it :(,1.0,3.0,Non-Veg,50,No,2024.0
+CUST0462,,F,30.0,Branch_1,1,,2700.0,0,0.0,Madhapur,Not much benefit,1.0,2.0,Non-Veg,1000,No,2024.0
+CUST0463,,F,25.0,Branch_10,10,,270.0,0,0.0,Mehdipatnam,Loved it ,1.0,3.0,Veg,300,No,2024.0
+CUST0464,2025-01-11,Unknown,30.0,Branch_6,6,2025-04-11,540.0,0,0.0,Secunderabad,Not worth it :(,2.0,5.0,Veg,300,No,2024.0
+CUST0465,2025-02-28,Unknown,60.0,Branch_9,9,2025-05-29,1080.0,0,0.0,Uppal,average,3.0,2.0,Non-Veg,10,No,2024.0
+CUST0466,,Unknown,25.0,Branch_1,1,,810.0,0,0.0,Madhapur,Crowded but good,5.0,1.0,Non-Veg,0,No,2024.0
+CUST0467,,Unknown,45.0,Branch_9,9,,540.0,0,0.0,Uppal,good????,4.0,4.0,Non-Veg,50,No,2024.0
+CUST0468,2025-02-18,M,30.0,Branch_8,8,2025-05-19,10800.0,0,0.0,Dilsukhnagar,good savings,3.0,1.0,Non-Veg,300,No,2024.0
+CUST0469,2025-02-13,Unknown,30.0,Branch_7,7,2025-05-14,270.0,0,0.0,LB Nagar,good????,3.0,2.0,Veg,0,No,2024.0
+CUST0470,,M,25.0,Branch_6,6,,2700.0,0,0.0,Secunderabad,Not much benefit,3.0,3.0,Veg,100,No,2024.0
+CUST0471,,Unknown,30.0,Branch_4,4,,270.0,0,0.0,Kukatpally,,3.0,2.0,Veg,10,No,2024.0
+CUST0472,2025-01-13,F,18.0,Branch_6,6,2025-04-13,270.0,0,0.0,Secunderabad,good savings,1.0,3.0,Non-Veg,50,No,2024.0
+CUST0473,2025-02-18,Unknown,60.0,Branch_8,8,2025-05-19,1080.0,0,0.0,Dilsukhnagar,Not much benefit,5.0,3.0,Non-Veg,10,No,2024.0
+CUST0474,,F,30.0,Branch_10,10,,810.0,0,0.0,Mehdipatnam,Did not use offer,4.0,4.0,Non-Veg,0,No,2024.0
+CUST0475,,Unknown,18.0,Branch_3,3,,810.0,0,0.0,Hitech City,good????,5.0,4.0,Veg,300,No,2024.0
+CUST0476,2025-01-01,Unknown,60.0,Branch_2,2,2025-04-01,270.0,0,0.0,Gachibowli,Not worth it :(,3.0,2.0,Non-Veg,20,No,2024.0
+CUST0477,2025-01-18,Unknown,30.0,Branch_3,3,2025-04-18,1080.0,0,0.0,Hitech City,,4.0,3.0,Veg,20,No,2024.0
+CUST0478,,F,30.0,Branch_3,3,,540.0,0,0.0,Hitech City,average,1.0,3.0,Veg,1000,No,2024.0
+CUST0479,2025-02-05,F,30.0,Branch_3,3,2025-05-06,10800.0,0,0.0,Hitech City,Too crowded!!!,1.0,2.0,Non-Veg,50,No,2024.0
+CUST0480,2025-02-27,Unknown,45.0,Branch_6,6,2025-05-28,2700.0,0,0.0,Secunderabad,Average experience,5.0,5.0,Veg,50,No,2024.0
+CUST0481,2025-02-14,Unknown,18.0,Branch_5,5,2025-05-15,45.0,0,0.0,Ameerpet,Not much benefit,3.0,3.0,Veg,20,No,2024.0
+CUST0482,,Unknown,30.0,Branch_5,5,,1080.0,0,0.0,Ameerpet,Crowded but good,1.0,3.0,Non-Veg,100,No,2024.0
+CUST0483,2025-02-06,Unknown,60.0,Branch_3,3,2025-05-07,2700.0,0,0.0,Hitech City,Offer okay,3.0,5.0,Non-Veg,1000,No,2024.0
+CUST0484,,Unknown,30.0,Branch_10,10,,45.0,0,0.0,Mehdipatnam,Loved it ,2.0,2.0,Non-Veg,1000,No,2024.0
+CUST0485,,Unknown,18.0,Branch_10,10,,810.0,0,0.0,Mehdipatnam,good savings,2.0,3.0,Veg,20,No,2024.0
+CUST0486,,Unknown,45.0,Branch_5,5,,2700.0,0,0.0,Ameerpet,,4.0,3.0,Non-Veg,100,No,2024.0
+CUST0487,,M,25.0,Branch_3,3,,810.0,0,0.0,Hitech City,good????,2.0,3.0,Veg,300,No,2024.0
+CUST0488,2025-01-14,Unknown,30.0,Branch_2,2,2025-04-14,810.0,0,0.0,Gachibowli,Very useful offer!!!,4.0,5.0,Veg,0,No,2024.0
+CUST0489,,Unknown,45.0,Branch_2,2,,1080.0,0,0.0,Gachibowli,,2.0,3.0,Veg,50,No,2024.0
+CUST0490,2025-01-09,Unknown,60.0,Branch_1,1,2025-04-09,10800.0,0,0.0,Madhapur,average,4.0,4.0,Non-Veg,20,No,2024.0
+CUST0491,,F,30.0,Branch_9,9,,270.0,0,0.0,Uppal,Loved it ,3.0,3.0,Non-Veg,50,No,2024.0
+CUST0492,,F,18.0,Branch_9,9,,540.0,0,0.0,Uppal,Not much benefit,3.0,3.0,Non-Veg,20,No,2024.0
+CUST0493,2025-01-20,Unknown,45.0,Branch_3,3,2025-04-20,45.0,0,0.0,Hitech City,Not much benefit,5.0,1.0,Non-Veg,50,No,2024.0
+CUST0494,,Unknown,30.0,Branch_7,7,,540.0,0,0.0,LB Nagar,Too crowded!!!,1.0,5.0,Veg,10,No,2024.0
+CUST0495,,F,25.0,Branch_7,7,,1080.0,0,0.0,LB Nagar,good????,3.0,3.0,Non-Veg,1000,No,2024.0
+CUST0496,,Unknown,30.0,Branch_2,2,,270.0,0,0.0,Gachibowli,Did not use offer,5.0,3.0,Non-Veg,20,No,2024.0
+CUST0497,,Unknown,30.0,Branch_9,9,,2700.0,0,0.0,Uppal,,1.0,2.0,Veg,20,No,2024.0
+CUST0498,2025-02-10,Unknown,30.0,Branch_10,10,2025-05-11,1080.0,0,0.0,Mehdipatnam,Offer okay,1.0,2.0,Veg,100,No,2024.0
+CUST0499,2025-01-12,M,30.0,Branch_8,8,2025-04-12,540.0,0,0.0,Dilsukhnagar,good savings,2.0,1.0,Non-Veg,10,No,2024.0
+CUST0500,,Unknown,30.0,Branch_8,8,,810.0,0,0.0,Dilsukhnagar,good????,1.0,3.0,Veg,1000,No,2024.0
